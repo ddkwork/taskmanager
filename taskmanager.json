@@ -1,0 +1,3577 @@
+{
+ "UUID": "9a2bb7c0-13bc-4ee4-9859-bcad7823a850",
+ "MetaData": {
+  "Name": "",
+  "CPU": 0,
+  "RAM": "0B",
+  "RAMPct": 0,
+  "Threads": 0,
+  "User": "",
+  "PID": 0
+ },
+ "Columns": [
+  {
+   "ID": 0,
+   "Current": 479,
+   "Minimum": 45.283203,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "Name"
+  },
+  {
+   "ID": 1,
+   "Current": 77,
+   "Minimum": 35.02246,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "CPU"
+  },
+  {
+   "ID": 2,
+   "Current": 68,
+   "Minimum": 37.975586,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "RAM"
+  },
+  {
+   "ID": 3,
+   "Current": 77,
+   "Minimum": 58.708984,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "RAMPct"
+  },
+  {
+   "ID": 4,
+   "Current": 58.948242,
+   "Minimum": 58.948242,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "Threads"
+  },
+  {
+   "ID": 5,
+   "Current": 235,
+   "Minimum": 36.45117,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "User"
+  },
+  {
+   "ID": 6,
+   "Current": 40,
+   "Minimum": 29.820312,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "PID"
+  }
+ ],
+ "Type": "root_container",
+ "Children": [
+  {
+   "UUID": "63acb8f2-4183-4044-b74c-aa23206e4855",
+   "MetaData": {
+    "Name": "System Idle Process_container(2)",
+    "CPU": 0,
+    "RAM": "0B",
+    "RAMPct": 0,
+    "Threads": 16,
+    "User": "",
+    "PID": 0
+   },
+   "Columns": null,
+   "Type": "System Idle Process_container",
+   "Children": [
+    {
+     "UUID": "7a2bf6d8-da38-4808-bb0a-df70c259b892",
+     "MetaData": {
+      "Name": "System Idle Process",
+      "CPU": 0,
+      "RAM": "0B",
+      "RAMPct": 0,
+      "Threads": 16,
+      "User": "",
+      "PID": 0
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "ae2273f6-c623-4433-ac59-7445d96f7411",
+     "MetaData": {
+      "Name": "System",
+      "CPU": 4.6615592249407225,
+      "RAM": "160KB",
+      "RAMPct": 0.00096657255,
+      "Threads": 169,
+      "User": "",
+      "PID": 4
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "14e2b976-43b9-4b9c-95ec-38b9405e3a2a",
+   "MetaData": {
+    "Name": "System_container(2)",
+    "CPU": 4.661554823275988,
+    "RAM": "160KB",
+    "RAMPct": 0.00096657255,
+    "Threads": 169,
+    "User": "",
+    "PID": 4
+   },
+   "Columns": null,
+   "Type": "System_container",
+   "Children": [
+    {
+     "UUID": "c232b9fb-aebf-4ff8-ba49-871851cbb64a",
+     "MetaData": {
+      "Name": "",
+      "CPU": 0.005386011759279715,
+      "RAM": "64472KB",
+      "RAMPct": 0.3894804,
+      "Threads": 4,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 164
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "65392a29-ca87-4e0a-91df-282eea5d9736",
+     "MetaData": {
+      "Name": "smss.exe",
+      "CPU": 0.008085593803525554,
+      "RAM": "1252KB",
+      "RAMPct": 0.00756343,
+      "Threads": 2,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 720
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "f172acac-3ebe-4995-9cab-72897c1e8fb7",
+   "MetaData": {
+    "Name": "",
+    "CPU": 0.00538599915477579,
+    "RAM": "64472KB",
+    "RAMPct": 0.3894804,
+    "Threads": 4,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 164
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "bce8ecb1-6617-422e-b8e8-7c4406df854c",
+   "MetaData": {
+    "Name": "chrome.exe",
+    "CPU": 0.025613469666835455,
+    "RAM": "29308KB",
+    "RAMPct": 0.17705193,
+    "Threads": 15,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 232
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "e3639ca2-6cd5-4700-9840-b6d1a3be2e6b",
+   "MetaData": {
+    "Name": "csrss.exe",
+    "CPU": 0.016732272152955953,
+    "RAM": "5744KB",
+    "RAMPct": 0.034699954,
+    "Threads": 10,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 564
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "f2861930-c3bb-49d3-b0ba-9ddb43b371f2",
+   "MetaData": {
+    "Name": "wininit.exe_container(3)",
+    "CPU": 0,
+    "RAM": "7252KB",
+    "RAMPct": 0.043809902,
+    "Threads": 2,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 656
+   },
+   "Columns": null,
+   "Type": "wininit.exe_container",
+   "Children": [
+    {
+     "UUID": "93359011-e351-4416-b93f-5c9dce827bf0",
+     "MetaData": {
+      "Name": "services.exe",
+      "CPU": 0.026068743215727972,
+      "RAM": "9520KB",
+      "RAMPct": 0.057511065,
+      "Threads": 6,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 884
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "564649dd-af46-437e-ad97-9c9c1e4fa4cc",
+     "MetaData": {
+      "Name": "lsass.exe",
+      "CPU": 0.021723993422898394,
+      "RAM": "17052KB",
+      "RAMPct": 0.103012465,
+      "Threads": 7,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 996
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "b2354e71-0107-43b5-b878-5e86175c5661",
+     "MetaData": {
+      "Name": "fontdrvhost.exe",
+      "CPU": 0.0005431204067300692,
+      "RAM": "3420KB",
+      "RAMPct": 0.020660488,
+      "Threads": 5,
+      "User": "Font Driver Host\\UMFD-0",
+      "PID": 872
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "f52a9a37-c957-40bd-b512-2f5e1e740f2d",
+   "MetaData": {
+    "Name": "csrss.exe",
+    "CPU": 0.5565174839269612,
+    "RAM": "6264KB",
+    "RAMPct": 0.037841316,
+    "Threads": 17,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 676
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "788a994b-8083-460d-813f-0c4f050b2d0d",
+   "MetaData": {
+    "Name": "smss.exe",
+    "CPU": 0.008085440127736435,
+    "RAM": "1252KB",
+    "RAMPct": 0.00756343,
+    "Threads": 2,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 720
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "c85efb18-426b-4bf9-bc42-fc1ba9f36ab3",
+   "MetaData": {
+    "Name": "winlogon.exe_container(2)",
+    "CPU": 0.002160447082617851,
+    "RAM": "12828KB",
+    "RAMPct": 0.07749496,
+    "Threads": 3,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 772
+   },
+   "Columns": null,
+   "Type": "winlogon.exe_container",
+   "Children": [
+    {
+     "UUID": "9cbbe322-8d2f-485e-a588-81208c1cb0ce",
+     "MetaData": {
+      "Name": "fontdrvhost.exe",
+      "CPU": 0.005431150244077839,
+      "RAM": "15648KB",
+      "RAMPct": 0.09453079,
+      "Threads": 5,
+      "User": "Font Driver Host\\UMFD-1",
+      "PID": 888
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "8d1250fa-f4a7-423e-9fd6-3eb7a4ed33f8",
+     "MetaData": {
+      "Name": "dwm.exe",
+      "CPU": 1.6022680022117433,
+      "RAM": "152928KB",
+      "RAMPct": 0.92385006,
+      "Threads": 21,
+      "User": "Window Manager\\DWM-1",
+      "PID": 1188
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "b7a5ff73-6e50-4836-9d0c-b0fb89c17d79",
+   "MetaData": {
+    "Name": "svchost.exe_container(6)",
+    "CPU": 0.014664024201916396,
+    "RAM": "30192KB",
+    "RAMPct": 0.18239224,
+    "Threads": 11,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 844
+   },
+   "Columns": null,
+   "Type": "svchost.exe_container",
+   "Children": [
+    {
+     "UUID": "c1d39359-35a5-4201-9cb7-e9d082d7071e",
+     "MetaData": {
+      "Name": "TextInputHost.exe",
+      "CPU": 0.05073934993244185,
+      "RAM": "190140KB",
+      "RAMPct": 1.1486506,
+      "Threads": 36,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 6476
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "27ff2fdb-897c-43b6-960f-87d3a1d9b9f5",
+     "MetaData": {
+      "Name": "RuntimeBroker.exe",
+      "CPU": 0,
+      "RAM": "12824KB",
+      "RAMPct": 0.07747079,
+      "Threads": 1,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 6408
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "c7ebfe42-5b2c-4edf-8d57-df9330be7320",
+     "MetaData": {
+      "Name": "ShellExperienceHost.exe",
+      "CPU": 0.08746555638023124,
+      "RAM": "24532KB",
+      "RAMPct": 0.14819974,
+      "Threads": 14,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 2912
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "808b2fd3-712c-4bba-b26f-e3fcd8b9cfcd",
+     "MetaData": {
+      "Name": "RuntimeBroker.exe",
+      "CPU": 0.0018240984629302617,
+      "RAM": "7048KB",
+      "RAMPct": 0.04257752,
+      "Threads": 1,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 9680
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "67badb01-3b37-497e-9810-cdf92cbb515e",
+     "MetaData": {
+      "Name": "WmiPrvSE.exe",
+      "CPU": 0.004391339239095163,
+      "RAM": "10008KB",
+      "RAMPct": 0.06045911,
+      "Threads": 5,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 2448
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "08c10b72-65c4-44f6-bc29-01e545b39e19",
+     "MetaData": {
+      "Name": "WmiPrvSE.exe",
+      "CPU": 0.5613326087907371,
+      "RAM": "16688KB",
+      "RAMPct": 0.100813515,
+      "Threads": 9,
+      "User": "NT AUTHORITY\\NETWORK SERVICE",
+      "PID": 4912
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "f79b77e0-cc75-43c0-b5d7-e56e7fac61ea",
+   "MetaData": {
+    "Name": "fontdrvhost.exe",
+    "CPU": 0.0005431063305844572,
+    "RAM": "3420KB",
+    "RAMPct": 0.020660488,
+    "Threads": 5,
+    "User": "Font Driver Host\\UMFD-0",
+    "PID": 872
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "b2d8eb63-33f8-4a6a-83ff-c51364b20226",
+   "MetaData": {
+    "Name": "services.exe_container(49)",
+    "CPU": 0.026067928954660095,
+    "RAM": "9520KB",
+    "RAMPct": 0.057511065,
+    "Threads": 6,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 884
+   },
+   "Columns": null,
+   "Type": "services.exe_container",
+   "Children": [
+    {
+     "UUID": "b09ac7e3-35a5-40ad-a90d-78445338851f",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.0146637386683333,
+      "RAM": "30192KB",
+      "RAMPct": 0.18239224,
+      "Threads": 11,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 844
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "e2ccf946-6342-41e6-bb42-34d29a52b662",
+     "MetaData": {
+      "Name": "WUDFHost.exe",
+      "CPU": 0.002172416661497685,
+      "RAM": "9304KB",
+      "RAMPct": 0.056206193,
+      "Threads": 5,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 1036
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "f81706ee-6acd-480c-9a4a-53d5f5225f05",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.032586520905534946,
+      "RAM": "12872KB",
+      "RAMPct": 0.07776076,
+      "Threads": 10,
+      "User": "NT AUTHORITY\\NETWORK SERVICE",
+      "PID": 1092
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "028febff-67f2-425a-bc5c-40fd88e61598",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.33131080807051644,
+      "RAM": "82084KB",
+      "RAMPct": 0.49587587,
+      "Threads": 54,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 1276
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "f755a825-bf24-4499-8251-88ea5bdf695d",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.4817580181491233,
+      "RAM": "39376KB",
+      "RAMPct": 0.2378735,
+      "Threads": 18,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 1300
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "bb2704a5-8b33-4385-a9cf-c1ec6c159901",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.6756553444800323,
+      "RAM": "27676KB",
+      "RAMPct": 0.16719289,
+      "Threads": 17,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 1296
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "b8643635-eb16-4c54-82b0-b8bf26433473",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0,
+      "RAM": "10748KB",
+      "RAMPct": 0.06492951,
+      "Threads": 8,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 1312
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "9b75d169-f96a-434e-bc67-e002a883ecb3",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.0010862639894159403,
+      "RAM": "11312KB",
+      "RAMPct": 0.06833668,
+      "Threads": 6,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 1432
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "bdc37619-1546-4c65-bb67-e3f1a4eae63c",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.01140581668933066,
+      "RAM": "16628KB",
+      "RAMPct": 0.10045105,
+      "Threads": 12,
+      "User": "NT AUTHORITY\\NETWORK SERVICE",
+      "PID": 1516
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "1aec49eb-a3c0-4792-87ec-585dcac8af81",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.009776403644563609,
+      "RAM": "21296KB",
+      "RAMPct": 0.1286508,
+      "Threads": 23,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 1524
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "ab02ca50-ab2a-410b-ac49-0677f4bda47f",
+     "MetaData": {
+      "Name": "IntelCpHDCPSvc.exe",
+      "CPU": 0,
+      "RAM": "6208KB",
+      "RAMPct": 0.037503015,
+      "Threads": 4,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 1660
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "04f801b6-1187-40f3-b9d5-b2550fd4d1de",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.0010862707010859086,
+      "RAM": "6336KB",
+      "RAMPct": 0.038276274,
+      "Threads": 2,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 1728
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "55f1cd35-8516-4358-a72c-1fc20d90c599",
+     "MetaData": {
+      "Name": "igfxCUIServiceN.exe",
+      "CPU": 0.0010862738349059922,
+      "RAM": "9884KB",
+      "RAMPct": 0.05971002,
+      "Threads": 2,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 1868
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "776cd0a5-3bea-449e-8176-534d80a81dfb",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.003801956910140746,
+      "RAM": "10556KB",
+      "RAMPct": 0.06376962,
+      "Threads": 2,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 1936
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "ed293483-3355-43de-b157-9eb0fa0ae034",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 1.072696033369726,
+      "RAM": "9692KB",
+      "RAMPct": 0.05855013,
+      "Threads": 10,
+      "User": "NT AUTHORITY\\NETWORK SERVICE",
+      "PID": 2028
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "86daa171-5aad-4c61-83f3-9877bdcb8779",
+     "MetaData": {
+      "Name": "WUDFHost.exe",
+      "CPU": 0.545883650825822,
+      "RAM": "9888KB",
+      "RAMPct": 0.059734184,
+      "Threads": 7,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 2536
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "a6299b9e-40b8-457b-be42-4fb30fb4ca5c",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.004345472666021206,
+      "RAM": "13232KB",
+      "RAMPct": 0.07993555,
+      "Threads": 9,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 2592
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "c70cff78-7934-4c63-87df-30146a23132f",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.034220575409137186,
+      "RAM": "16000KB",
+      "RAMPct": 0.096657254,
+      "Threads": 3,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 2600
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "ec7df9c9-b6d6-439b-a431-4cb588f3a25f",
+     "MetaData": {
+      "Name": "SbieSvc.exe",
+      "CPU": 0.001086368771332378,
+      "RAM": "7472KB",
+      "RAMPct": 0.045138936,
+      "Threads": 33,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 2640
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "84d00351-ca0f-427a-9f31-0c27a34bb102",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0,
+      "RAM": "7048KB",
+      "RAMPct": 0.04257752,
+      "Threads": 3,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 2884
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "973c554d-7631-4f5e-8ea2-e74125a1c521",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.005431920221020255,
+      "RAM": "20264KB",
+      "RAMPct": 0.122416414,
+      "Threads": 12,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 2916
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "c9fa4784-69aa-448f-bdfa-839ba50f7beb",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.02987563139727358,
+      "RAM": "20648KB",
+      "RAMPct": 0.12473618,
+      "Threads": 10,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 2948
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "0a9a1f9a-ebd6-40dd-a8d4-795c3c3d31c0",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.0038024207187956883,
+      "RAM": "11320KB",
+      "RAMPct": 0.068385005,
+      "Threads": 6,
+      "User": "NT AUTHORITY\\NETWORK SERVICE",
+      "PID": 3064
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "9ea6fcab-a38d-45ea-8fb6-3912b23e5e3f",
+     "MetaData": {
+      "Name": "DSAService.exe",
+      "CPU": 3.452592603664066,
+      "RAM": "94036KB",
+      "RAMPct": 0.5680788,
+      "Threads": 36,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 2168
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "07985456-6953-4308-94e0-596afcc23cc0",
+     "MetaData": {
+      "Name": "OneApp.IGCC.WinService.exe",
+      "CPU": 0.06138174494999605,
+      "RAM": "46056KB",
+      "RAMPct": 0.2782279,
+      "Threads": 5,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 2212
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "559c24a2-2d75-4e5a-b4eb-66d370c2d365",
+     "MetaData": {
+      "Name": "SenaryAudioApp.Svc.exe",
+      "CPU": 0.13036808727470703,
+      "RAM": "64524KB",
+      "RAMPct": 0.38979453,
+      "Threads": 11,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 2480
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "f311fa54-6b4f-4b5e-a05a-3827a15272cf",
+     "MetaData": {
+      "Name": "IntelAudioService.exe",
+      "CPU": 0.055406365109937086,
+      "RAM": "61136KB",
+      "RAMPct": 0.36932737,
+      "Threads": 8,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 2748
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "c4b4b892-6514-4b72-8297-1bc72e72a8fc",
+     "MetaData": {
+      "Name": "SurSvc.exe",
+      "CPU": 0.052690272196717576,
+      "RAM": "50368KB",
+      "RAMPct": 0.30427703,
+      "Threads": 9,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 2924
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "0e63ab50-cfe2-47c3-85bc-95c13f646338",
+     "MetaData": {
+      "Name": "HWVEAudioService.exe",
+      "CPU": 0.03150547357877799,
+      "RAM": "9828KB",
+      "RAMPct": 0.059371717,
+      "Threads": 9,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3080
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "5834d729-2514-46f8-815a-62a20162481a",
+     "MetaData": {
+      "Name": "vmnetdhcp.exe",
+      "CPU": 0,
+      "RAM": "8936KB",
+      "RAMPct": 0.053983077,
+      "Threads": 2,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3092
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "8bb98728-3c2c-45ad-ae02-f829a5394b32",
+     "MetaData": {
+      "Name": "vmnat.exe",
+      "CPU": 0.0016295879635108306,
+      "RAM": "7MB",
+      "RAMPct": 0.04330245,
+      "Threads": 4,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3104
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "8fe4db33-96d8-4b3e-a9c4-701a49678948",
+     "MetaData": {
+      "Name": "ZapyaService.exe",
+      "CPU": 14.536447045337958,
+      "RAM": "35620KB",
+      "RAMPct": 0.21518321,
+      "Threads": 17,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3112
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "243cf22d-1a3c-4378-95c0-ea8642f7a177",
+     "MetaData": {
+      "Name": "vmware-authd.exe",
+      "CPU": 0.007061545714451697,
+      "RAM": "12296KB",
+      "RAMPct": 0.0742811,
+      "Threads": 4,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3132
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "f67e6ea4-2e9c-4c38-9676-42611aa498ca",
+     "MetaData": {
+      "Name": "vmware-usbarbitrator64.exe",
+      "CPU": 0.0027159741578725487,
+      "RAM": "11700KB",
+      "RAMPct": 0.07068062,
+      "Threads": 3,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3140
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "3521c2e8-c5be-4b90-96c5-d67856520ec1",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.0021728580660933606,
+      "RAM": "8076KB",
+      "RAMPct": 0.04878775,
+      "Threads": 5,
+      "User": "NT AUTHORITY\\NETWORK SERVICE",
+      "PID": 3416
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "d404cfed-7d46-4bc9-b716-37c3e24c695e",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.10376044163671257,
+      "RAM": "42912KB",
+      "RAMPct": 0.25923476,
+      "Threads": 26,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3752
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "7e4aeea1-cb92-49d2-9c62-548c10131568",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.0032600012150787805,
+      "RAM": "7296KB",
+      "RAMPct": 0.04407571,
+      "Threads": 3,
+      "User": "NT AUTHORITY\\NETWORK SERVICE",
+      "PID": 4012
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "fb5b1688-5195-47c8-ad90-dfe6e1c33359",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.12334551906207863,
+      "RAM": "13044KB",
+      "RAMPct": 0.07879983,
+      "Threads": 7,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 4284
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "2e0b9a70-b643-4ee6-8efa-fceca92f6f5a",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.001630310431488601,
+      "RAM": "8856KB",
+      "RAMPct": 0.05349979,
+      "Threads": 1,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 4676
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "3514ba6c-dc86-40d4-9d03-4fae36120018",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.02445460016299602,
+      "RAM": "34504KB",
+      "RAMPct": 0.20844136,
+      "Threads": 9,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 4684
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "4673e918-5bc0-4cb9-9975-eebd6d7c26f0",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.0005434362202655228,
+      "RAM": "9020KB",
+      "RAMPct": 0.054490525,
+      "Threads": 3,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 4708
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "e3925d2a-f99a-4fa1-ace3-bf53180130f5",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0,
+      "RAM": "7412KB",
+      "RAMPct": 0.044776473,
+      "Threads": 2,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 4768
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "e286ba29-7ecf-4469-ae0d-0c07eb4feb2d",
+     "MetaData": {
+      "Name": "PresentationFontCache.exe",
+      "CPU": 0.027172635936205208,
+      "RAM": "23740KB",
+      "RAMPct": 0.1434152,
+      "Threads": 4,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 4920
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "0e16c4d4-64a8-4edb-90f8-52f11dd1be98",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.002174246984673556,
+      "RAM": "17416KB",
+      "RAMPct": 0.10521142,
+      "Threads": 6,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 5392
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "58c2859f-882b-456e-a9c7-6588648fdf6d",
+     "MetaData": {
+      "Name": "DSAUpdateService.exe",
+      "CPU": 0.039689543975892035,
+      "RAM": "48596KB",
+      "RAMPct": 0.29357225,
+      "Threads": 8,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 5780
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "9cfdd3d9-66ec-46d0-a64d-8e9921f12c1f",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.00434995673888854,
+      "RAM": "11384KB",
+      "RAMPct": 0.06877164,
+      "Threads": 1,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 5988
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "f7374b46-01dd-4c69-83ba-800426579fdf",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.005990261702561974,
+      "RAM": "23972KB",
+      "RAMPct": 0.14481673,
+      "Threads": 5,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 7156
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "f5d0c029-a197-429b-b9db-24d2f4b68d62",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.001131438437653263,
+      "RAM": "8MB",
+      "RAMPct": 0.049488515,
+      "Threads": 6,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 4188
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "045d0887-772d-4ccb-b2a1-cc89214727de",
+     "MetaData": {
+      "Name": "svchost.exe",
+      "CPU": 0.0024333446584204593,
+      "RAM": "11596KB",
+      "RAMPct": 0.07005235,
+      "Threads": 2,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 9312
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "0f10f331-5180-4c46-81e3-5323c3a0ece4",
+   "MetaData": {
+    "Name": "fontdrvhost.exe",
+    "CPU": 0.005430614785627357,
+    "RAM": "15648KB",
+    "RAMPct": 0.09453079,
+    "Threads": 5,
+    "User": "Font Driver Host\\UMFD-1",
+    "PID": 888
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "8e65d601-7df6-401d-97ec-bfd211178194",
+   "MetaData": {
+    "Name": "lsass.exe",
+    "CPU": 0.021721551802445324,
+    "RAM": "17052KB",
+    "RAMPct": 0.103012465,
+    "Threads": 7,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 996
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "c2f7eb09-e880-48a7-9258-59a8f750cc75",
+   "MetaData": {
+    "Name": "WUDFHost.exe",
+    "CPU": 0.0021722407384679268,
+    "RAM": "9304KB",
+    "RAMPct": 0.056206193,
+    "Threads": 5,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 1036
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "9e49b7c0-071c-42a2-b73e-8e11733d4417",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.032583810966199396,
+    "RAM": "12872KB",
+    "RAMPct": 0.07776076,
+    "Threads": 10,
+    "User": "NT AUTHORITY\\NETWORK SERVICE",
+    "PID": 1092
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "c3ce6181-8315-41fd-8f4a-86dfedfe4824",
+   "MetaData": {
+    "Name": "dwm.exe",
+    "CPU": 1.6020935371821328,
+    "RAM": "152928KB",
+    "RAMPct": 0.92385006,
+    "Threads": 21,
+    "User": "Window Manager\\DWM-1",
+    "PID": 1188
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "4a115776-8697-459f-8ad3-11bc5daa1e95",
+   "MetaData": {
+    "Name": "HWVEAudioSession.exe_container(1)",
+    "CPU": 0.0016304988102269487,
+    "RAM": "9448KB",
+    "RAMPct": 0.057076108,
+    "Threads": 4,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 1240
+   },
+   "Columns": null,
+   "Type": "HWVEAudioSession.exe_container",
+   "Children": [
+    {
+     "UUID": "2f5f680f-daa3-4bd7-b130-6d995eabddfd",
+     "MetaData": {
+      "Name": "conhost.exe",
+      "CPU": 0.0032610012445610727,
+      "RAM": "11620KB",
+      "RAMPct": 0.07019733,
+      "Threads": 3,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 2632
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "6ccc7164-4915-4d33-bba2-fea3f3a0de31",
+   "MetaData": {
+    "Name": "explorer.exe_container(6)",
+    "CPU": 0.48914624594586265,
+    "RAM": "282200KB",
+    "RAMPct": 1.7047923,
+    "Threads": 70,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 1252
+   },
+   "Columns": null,
+   "Type": "explorer.exe_container",
+   "Children": [
+    {
+     "UUID": "05fa16ab-42b7-4b65-b894-00081e9c8181",
+     "MetaData": {
+      "Name": "SandMan.exe",
+      "CPU": 0.07782476536434768,
+      "RAM": "46520KB",
+      "RAMPct": 0.28103095,
+      "Threads": 6,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 6764
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "ba3e4506-c420-403a-8548-2b74dcaa2f3b",
+     "MetaData": {
+      "Name": "fdm.exe",
+      "CPU": 0.3544563778290854,
+      "RAM": "122528KB",
+      "RAMPct": 0.74020123,
+      "Threads": 16,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 7036
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "698a53a7-32f2-4c9b-a176-55d45b823afc",
+     "MetaData": {
+      "Name": "IDMan.exe",
+      "CPU": 0.004358852719435537,
+      "RAM": "31152KB",
+      "RAMPct": 0.18819167,
+      "Threads": 3,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 6288
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "c5ec0289-73d8-4698-975a-934f3b0b16c7",
+     "MetaData": {
+      "Name": "vncserver.exe",
+      "CPU": 0.0016494964451139612,
+      "RAM": "40124KB",
+      "RAMPct": 0.24239223,
+      "Threads": 4,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 3076
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "4b64125b-62cf-4400-b1cc-fbbf498295a0",
+     "MetaData": {
+      "Name": "goland64.exe",
+      "CPU": 80.54366232834066,
+      "RAM": "4454752KB",
+      "RAMPct": 26.911507,
+      "Threads": 199,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 7580
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "8732c68d-ebbd-465c-a720-faf92ffe1342",
+     "MetaData": {
+      "Name": "chrome.exe",
+      "CPU": 1.0261606580525358,
+      "RAM": "152224KB",
+      "RAMPct": 0.9195971,
+      "Threads": 41,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 2296
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "a3c16e91-bc70-4582-9822-4cd51979c76f",
+   "MetaData": {
+    "Name": "svchost.exe_container(3)",
+    "CPU": 0.3312761935055151,
+    "RAM": "82084KB",
+    "RAMPct": 0.49587587,
+    "Threads": 54,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 1276
+   },
+   "Columns": null,
+   "Type": "svchost.exe_container",
+   "Children": [
+    {
+     "UUID": "438017aa-28d1-4e52-8221-e8f8ba19ff14",
+     "MetaData": {
+      "Name": "helperservice.exe",
+      "CPU": 0,
+      "RAM": "1204KB",
+      "RAMPct": 0.0072734584,
+      "Threads": 1,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 2436
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "6cdb25da-d5f8-4c2c-b9b1-b621320d2a03",
+     "MetaData": {
+      "Name": "sihost.exe",
+      "CPU": 0.012498256639700066,
+      "RAM": "25660KB",
+      "RAMPct": 0.15501407,
+      "Threads": 10,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 4656
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "ad7e392c-db8c-4b16-8d8f-b34a0123ccd2",
+     "MetaData": {
+      "Name": "taskhostw.exe",
+      "CPU": 0.08151356967603708,
+      "RAM": "14524KB",
+      "RAMPct": 0.08774062,
+      "Threads": 8,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 4900
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "23df95f8-7ccd-45b7-a243-9cf2082e6e82",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.6755817290585071,
+    "RAM": "27676KB",
+    "RAMPct": 0.16719289,
+    "Threads": 17,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 1296
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "d53242b1-0144-4d66-80e2-ee6a1b019389",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.4817038951364388,
+    "RAM": "39376KB",
+    "RAMPct": 0.2378735,
+    "Threads": 18,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 1300
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "a93c400b-750c-4d16-9d05-cb290db97710",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0,
+    "RAM": "10748KB",
+    "RAMPct": 0.06492951,
+    "Threads": 8,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 1312
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "29fe8f84-97e0-42cd-a577-b9dbf9417a24",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.0010861393631836419,
+    "RAM": "11312KB",
+    "RAMPct": 0.06833668,
+    "Threads": 6,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 1432
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "b6d55d83-fed7-4abf-95aa-ed82d3ece5b4",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.011404490754796423,
+    "RAM": "16628KB",
+    "RAMPct": 0.10045105,
+    "Threads": 12,
+    "User": "NT AUTHORITY\\NETWORK SERVICE",
+    "PID": 1516
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "2857636f-7662-462e-bbab-49cbb374048e",
+   "MetaData": {
+    "Name": "svchost.exe_container(2)",
+    "CPU": 0.009775251232958608,
+    "RAM": "21296KB",
+    "RAMPct": 0.1286508,
+    "Threads": 23,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 1524
+   },
+   "Columns": null,
+   "Type": "svchost.exe_container",
+   "Children": [
+    {
+     "UUID": "7c45968d-da8e-464d-89be-3f96e2b19e34",
+     "MetaData": {
+      "Name": "ctfmon.exe",
+      "CPU": 0.0930159187316424,
+      "RAM": "21820KB",
+      "RAMPct": 0.13181633,
+      "Threads": 11,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 5584
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "00dcbf95-15be-4cdc-8978-a298e36a47d7",
+     "MetaData": {
+      "Name": "TabTip.exe",
+      "CPU": 0.00815929662140392,
+      "RAM": "17312KB",
+      "RAMPct": 0.10458315,
+      "Threads": 8,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 3860
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "5df78c6a-452f-4faf-9443-3c44ebb38f12",
+   "MetaData": {
+    "Name": "IntelCpHDCPSvc.exe",
+    "CPU": 0,
+    "RAM": "6208KB",
+    "RAMPct": 0.037503015,
+    "Threads": 4,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 1660
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "8e5cc961-57f2-4fca-b525-ef2e2cb4dd6b",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.0010861366747229853,
+    "RAM": "6336KB",
+    "RAMPct": 0.038276274,
+    "Threads": 2,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 1728
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "aa87063e-5189-497c-ad70-87daf2a2e374",
+   "MetaData": {
+    "Name": "fsnotifier.exe_container(1)",
+    "CPU": 0.030399261432696167,
+    "RAM": "2768KB",
+    "RAMPct": 0.016721705,
+    "Threads": 3,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 1764
+   },
+   "Columns": null,
+   "Type": "fsnotifier.exe_container",
+   "Children": [
+    {
+     "UUID": "b9745724-778a-4e1b-950f-2928a2051ff7",
+     "MetaData": {
+      "Name": "conhost.exe",
+      "CPU": 0,
+      "RAM": "10256KB",
+      "RAMPct": 0.0619573,
+      "Threads": 2,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 6172
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "5010cfd2-e8e6-49cf-9749-ef7ccb3a5a6a",
+   "MetaData": {
+    "Name": "igfxCUIServiceN.exe_container(1)",
+    "CPU": 0.0010861325663873024,
+    "RAM": "9884KB",
+    "RAMPct": 0.05971002,
+    "Threads": 2,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 1868
+   },
+   "Columns": null,
+   "Type": "igfxCUIServiceN.exe_container",
+   "Children": [
+    {
+     "UUID": "2743b292-4a6f-454b-8b1f-be65865f6221",
+     "MetaData": {
+      "Name": "igfxEMN.exe",
+      "CPU": 0.007065615575729002,
+      "RAM": "14148KB",
+      "RAMPct": 0.08546918,
+      "Threads": 3,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 5260
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "b8d7f572-0fbf-4982-a308-b61475143d38",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.0038014515402224544,
+    "RAM": "10556KB",
+    "RAMPct": 0.06376962,
+    "Threads": 2,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 1936
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "0d125836-12ff-433f-a53e-ebae4c116e58",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 1.0725519230725253,
+    "RAM": "9692KB",
+    "RAMPct": 0.05855013,
+    "Threads": 10,
+    "User": "NT AUTHORITY\\NETWORK SERVICE",
+    "PID": 2028
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "b3d67549-1f23-4c3b-ade5-a38343eea458",
+   "MetaData": {
+    "Name": "chrome.exe",
+    "CPU": 0.19480254682548565,
+    "RAM": "35228KB",
+    "RAMPct": 0.2128151,
+    "Threads": 18,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 2036
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "b74fb312-67c9-4ad2-b4d2-dc57abd8823c",
+   "MetaData": {
+    "Name": "DSAService.exe_container(1)",
+    "CPU": 3.4521554418955898,
+    "RAM": "94036KB",
+    "RAMPct": 0.5680788,
+    "Threads": 36,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 2168
+   },
+   "Columns": null,
+   "Type": "DSAService.exe_container",
+   "Children": [
+    {
+     "UUID": "229ce156-bcc5-49a7-b46a-d0a6652ca645",
+     "MetaData": {
+      "Name": "DSATray.exe",
+      "CPU": 0.07005285451235313,
+      "RAM": "58236KB",
+      "RAMPct": 0.35180825,
+      "Threads": 6,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 3820
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "48a34543-ad2b-4c90-a6af-c5358715e2f0",
+   "MetaData": {
+    "Name": "OneApp.IGCC.WinService.exe",
+    "CPU": 0.061373815098946016,
+    "RAM": "46056KB",
+    "RAMPct": 0.2782279,
+    "Threads": 5,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 2212
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "d5f890a5-b1ce-4fb7-b051-3004fec41167",
+   "MetaData": {
+    "Name": "chrome.exe_container(8)",
+    "CPU": 1.0257066920451967,
+    "RAM": "152224KB",
+    "RAMPct": 0.9195971,
+    "Threads": 41,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 2296
+   },
+   "Columns": null,
+   "Type": "chrome.exe_container",
+   "Children": [
+    {
+     "UUID": "ffd61dc9-4078-4ed1-8df1-41f9c9db0cab",
+     "MetaData": {
+      "Name": "chrome.exe",
+      "CPU": 0.004136277594016487,
+      "RAM": "8396KB",
+      "RAMPct": 0.050720893,
+      "Threads": 9,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 9396
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "77014641-1513-4d7d-a933-a974b3d5ba03",
+     "MetaData": {
+      "Name": "chrome.exe",
+      "CPU": 1.1396097548879587,
+      "RAM": "153856KB",
+      "RAMPct": 0.9294562,
+      "Threads": 22,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 5752
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "f03853f4-c768-4ccf-8596-506bbdad8409",
+     "MetaData": {
+      "Name": "chrome.exe",
+      "CPU": 0.19477733120345242,
+      "RAM": "35228KB",
+      "RAMPct": 0.2128151,
+      "Threads": 18,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 2036
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "53dc245a-c8a2-4386-800d-368687619267",
+     "MetaData": {
+      "Name": "chrome.exe",
+      "CPU": 0.004144462047030582,
+      "RAM": "21180KB",
+      "RAMPct": 0.12795004,
+      "Threads": 11,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 7892
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "4f678616-11da-4798-a9e1-e827c8b3e609",
+     "MetaData": {
+      "Name": "chrome.exe",
+      "CPU": 0.24069781789751227,
+      "RAM": "61644KB",
+      "RAMPct": 0.37239623,
+      "Threads": 20,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 9720
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "6848e077-bd0a-41fd-8272-cf1a7f903322",
+     "MetaData": {
+      "Name": "chrome.exe",
+      "CPU": 1.6087191594889203,
+      "RAM": "147040KB",
+      "RAMPct": 0.88828015,
+      "Threads": 20,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 8996
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "be9f18aa-03b2-4ee7-8403-3f09b51f33f7",
+     "MetaData": {
+      "Name": "chrome.exe",
+      "CPU": 0.02556855295967451,
+      "RAM": "29308KB",
+      "RAMPct": 0.17705193,
+      "Threads": 15,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 232
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "ed67797f-7f7a-477a-b577-77c4d9bbb33d",
+     "MetaData": {
+      "Name": "chrome.exe",
+      "CPU": 0,
+      "RAM": "22648KB",
+      "RAMPct": 0.13681835,
+      "Threads": 10,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 9480
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "c15019b9-f51b-4d2f-959c-0cad60e7d0e7",
+   "MetaData": {
+    "Name": "helperservice.exe_container(1)",
+    "CPU": 0,
+    "RAM": "1204KB",
+    "RAMPct": 0.0072734584,
+    "Threads": 1,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 2436
+   },
+   "Columns": null,
+   "Type": "helperservice.exe_container",
+   "Children": [
+    {
+     "UUID": "1f4c7701-c102-4202-b905-ce8d0b9a19f0",
+     "MetaData": {
+      "Name": "conhost.exe",
+      "CPU": 0.002715404730397822,
+      "RAM": "512KB",
+      "RAMPct": 0.0030930322,
+      "Threads": 4,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 2576
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "e962edc7-99e5-4af5-b6dc-c23f9efb19e1",
+   "MetaData": {
+    "Name": "WmiPrvSE.exe",
+    "CPU": 0.0043878394176025265,
+    "RAM": "10008KB",
+    "RAMPct": 0.06045911,
+    "Threads": 5,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 2448
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "9b490e4c-0ba8-49a6-a6fb-871d6fd824dd",
+   "MetaData": {
+    "Name": "SenaryAudioApp.Svc.exe",
+    "CPU": 0.13034762919602083,
+    "RAM": "64524KB",
+    "RAMPct": 0.38979453,
+    "Threads": 11,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 2480
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "367eea44-e2ec-4020-8a3e-5d8d76a44d73",
+   "MetaData": {
+    "Name": "WUDFHost.exe",
+    "CPU": 0.5457879748873825,
+    "RAM": "9888KB",
+    "RAMPct": 0.059734184,
+    "Threads": 7,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 2536
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "58cba790-319a-46e8-a24b-fb68d9261625",
+   "MetaData": {
+    "Name": "conhost.exe",
+    "CPU": 0.002715376284997845,
+    "RAM": "512KB",
+    "RAMPct": 0.0030930322,
+    "Threads": 4,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 2576
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "d632b526-5c30-4aaf-af2b-5b6f36c48a14",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.004344692926084812,
+    "RAM": "13232KB",
+    "RAMPct": 0.07993555,
+    "Threads": 9,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 2592
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "b9f971bb-8f6d-4c3f-abfc-45c80925d8aa",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.034214384569940255,
+    "RAM": "16000KB",
+    "RAMPct": 0.096657254,
+    "Threads": 3,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 2600
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "41c34d18-1b5b-44a9-8cd0-c83e9d960155",
+   "MetaData": {
+    "Name": "conhost.exe",
+    "CPU": 0.0032606395966730596,
+    "RAM": "11620KB",
+    "RAMPct": 0.07019733,
+    "Threads": 3,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 2632
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "308b8bfb-8b1a-4971-896f-8e318ab53cdb",
+   "MetaData": {
+    "Name": "SbieSvc.exe",
+    "CPU": 0.0010861674662972119,
+    "RAM": "7472KB",
+    "RAMPct": 0.045138936,
+    "Threads": 33,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 2640
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "825a7256-47c5-45f0-98f0-3844dd131f9e",
+   "MetaData": {
+    "Name": "IntelAudioService.exe",
+    "CPU": 0.05539667495852659,
+    "RAM": "61136KB",
+    "RAMPct": 0.36932737,
+    "Threads": 8,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 2748
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "768741b1-8269-4b6b-892a-cf42a123a12f",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0,
+    "RAM": "7048KB",
+    "RAMPct": 0.04257752,
+    "Threads": 3,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 2884
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "7a5be3ea-e5df-4356-be12-064a11815854",
+   "MetaData": {
+    "Name": "ShellExperienceHost.exe",
+    "CPU": 0.08744296241397166,
+    "RAM": "24532KB",
+    "RAMPct": 0.14819974,
+    "Threads": 14,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 2912
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "157803c5-5bc8-4d26-ba1e-958385855e0a",
+   "MetaData": {
+    "Name": "svchost.exe_container(1)",
+    "CPU": 0.005430866310126981,
+    "RAM": "20264KB",
+    "RAMPct": 0.122416414,
+    "Threads": 12,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 2916
+   },
+   "Columns": null,
+   "Type": "svchost.exe_container",
+   "Children": [
+    {
+     "UUID": "3b341299-ac5a-4cb9-8e48-ddf3337bdb21",
+     "MetaData": {
+      "Name": "wlanext.exe",
+      "CPU": 0,
+      "RAM": "6760KB",
+      "RAMPct": 0.04083769,
+      "Threads": 2,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3264
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "61206f5e-9a06-4090-8923-bf718dcdf987",
+   "MetaData": {
+    "Name": "SurSvc.exe",
+    "CPU": 0.052680426233510984,
+    "RAM": "50368KB",
+    "RAMPct": 0.30427703,
+    "Threads": 9,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 2924
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "b3823699-a4eb-43ea-aebd-580c929e8c7a",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.02986966035557566,
+    "RAM": "20648KB",
+    "RAMPct": 0.12473618,
+    "Threads": 10,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 2948
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "249e9e20-098b-4641-9993-7c9bb8ea501e",
+   "MetaData": {
+    "Name": "conhost.exe",
+    "CPU": 0.0035577820637502718,
+    "RAM": "10888KB",
+    "RAMPct": 0.06577526,
+    "Threads": 3,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 2980
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "620b7b45-b1a0-4ce0-85b2-8ae77baf66c8",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.0038016438264527742,
+    "RAM": "11320KB",
+    "RAMPct": 0.068385005,
+    "Threads": 6,
+    "User": "NT AUTHORITY\\NETWORK SERVICE",
+    "PID": 3064
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "a1be0a38-d69a-4ef0-a0bc-df3ac5a89941",
+   "MetaData": {
+    "Name": "vncserver.exe_container(3)",
+    "CPU": 0.0016492743995007593,
+    "RAM": "40124KB",
+    "RAMPct": 0.24239223,
+    "Threads": 4,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 3076
+   },
+   "Columns": null,
+   "Type": "vncserver.exe_container",
+   "Children": [
+    {
+     "UUID": "b4402a2f-4ed2-46fb-9058-373e7325c9d6",
+     "MetaData": {
+      "Name": "conhost.exe",
+      "CPU": 0.0005497574216364569,
+      "RAM": "20032KB",
+      "RAMPct": 0.12101488,
+      "Threads": 3,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 5288
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "f2288ce0-4e3a-4582-9d86-c4ad56bf1e48",
+     "MetaData": {
+      "Name": "vncagent.exe",
+      "CPU": 0.0005497869180672788,
+      "RAM": "9656KB",
+      "RAMPct": 0.05833265,
+      "Threads": 3,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 7180
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "dca194ea-ad44-4566-97d8-ce3d9c89e944",
+     "MetaData": {
+      "Name": "vncserverui.exe",
+      "CPU": 0.002199576493267479,
+      "RAM": "22412KB",
+      "RAMPct": 0.13539265,
+      "Threads": 3,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 7240
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "8cbbb7d6-7e59-4061-ab0d-7bc3c5fecf9d",
+   "MetaData": {
+    "Name": "HWVEAudioService.exe_container(1)",
+    "CPU": 0.03149901344572001,
+    "RAM": "9828KB",
+    "RAMPct": 0.059371717,
+    "Threads": 9,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3080
+   },
+   "Columns": null,
+   "Type": "HWVEAudioService.exe_container",
+   "Children": [
+    {
+     "UUID": "8a991fec-8e5f-4a5c-81bc-f25200e2ef6a",
+     "MetaData": {
+      "Name": "HWVEAudioSession.exe",
+      "CPU": 0.0016302436820987364,
+      "RAM": "9448KB",
+      "RAMPct": 0.057076108,
+      "Threads": 4,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 1240
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "709c953d-326c-4d4d-b95c-ff2676ffcaa5",
+   "MetaData": {
+    "Name": "vmnetdhcp.exe",
+    "CPU": 0,
+    "RAM": "8936KB",
+    "RAMPct": 0.053983077,
+    "Threads": 2,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3092
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "ddb76433-da71-40af-9213-b54c5539bf1b",
+   "MetaData": {
+    "Name": "vmnat.exe",
+    "CPU": 0.0016292482130357373,
+    "RAM": "7MB",
+    "RAMPct": 0.04330245,
+    "Threads": 4,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3104
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "1bcfe052-9028-4017-a9e1-1c2a785b68fb",
+   "MetaData": {
+    "Name": "ZapyaService.exe",
+    "CPU": 14.537746108512748,
+    "RAM": "35620KB",
+    "RAMPct": 0.21518321,
+    "Threads": 17,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3112
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "8d4c35fb-5c36-4d7f-b6f6-72752e70df1f",
+   "MetaData": {
+    "Name": "vmware-authd.exe",
+    "CPU": 0.007060055809549836,
+    "RAM": "12296KB",
+    "RAMPct": 0.0742811,
+    "Threads": 4,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3132
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "8601ced6-9922-4c89-b2dc-f894fe534764",
+   "MetaData": {
+    "Name": "vmware-usbarbitrator64.exe",
+    "CPU": 0.0027153982925773165,
+    "RAM": "11700KB",
+    "RAMPct": 0.07068062,
+    "Threads": 3,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3140
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "dc2bf534-d84f-464f-bc24-7fe4ee1a4c35",
+   "MetaData": {
+    "Name": "wlanext.exe_container(1)",
+    "CPU": 0,
+    "RAM": "6760KB",
+    "RAMPct": 0.04083769,
+    "Threads": 2,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3264
+   },
+   "Columns": null,
+   "Type": "wlanext.exe_container",
+   "Children": [
+    {
+     "UUID": "3db58022-8ed7-446a-9c09-849c46e6233c",
+     "MetaData": {
+      "Name": "conhost.exe",
+      "CPU": 0,
+      "RAM": "9048KB",
+      "RAMPct": 0.054659676,
+      "Threads": 2,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3376
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "20d4564c-2b46-4fcb-b6a7-e1f7d2297f62",
+   "MetaData": {
+    "Name": "conhost.exe",
+    "CPU": 0,
+    "RAM": "9048KB",
+    "RAMPct": 0.054659676,
+    "Threads": 2,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3376
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "053237dc-85d7-4c48-b725-b03ad10f9922",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.0021723788299072835,
+    "RAM": "8076KB",
+    "RAMPct": 0.04878775,
+    "Threads": 5,
+    "User": "NT AUTHORITY\\NETWORK SERVICE",
+    "PID": 3416
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "011bba6f-0f78-4ff3-80db-15fe761fdd9f",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.10373741006249844,
+    "RAM": "42912KB",
+    "RAMPct": 0.25923476,
+    "Threads": 26,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3752
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "04bc0806-1768-484e-a6ab-a5f13ac2eb6a",
+   "MetaData": {
+    "Name": "DSATray.exe",
+    "CPU": 0.07004462774731275,
+    "RAM": "58236KB",
+    "RAMPct": 0.35180825,
+    "Threads": 6,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 3820
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "b35eb7c0-f8a9-40bd-b54a-48353fbc451a",
+   "MetaData": {
+    "Name": "TabTip.exe",
+    "CPU": 0.008158094382881998,
+    "RAM": "17312KB",
+    "RAMPct": 0.10458315,
+    "Threads": 8,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 3860
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "770b6bb0-c780-4142-be76-dac7e4ea4505",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.0032592552320674837,
+    "RAM": "7296KB",
+    "RAMPct": 0.04407571,
+    "Threads": 3,
+    "User": "NT AUTHORITY\\NETWORK SERVICE",
+    "PID": 4012
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "d17bcc6f-28fc-478e-b953-8285ce67e973",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.001131187445562534,
+    "RAM": "8MB",
+    "RAMPct": 0.049488515,
+    "Threads": 6,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 4188
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "9e6afbe8-36ca-4438-bac9-8e0a854e3cf8",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.12331666849598112,
+    "RAM": "13044KB",
+    "RAMPct": 0.07879983,
+    "Threads": 7,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 4284
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "e576cd46-a74f-4d71-ab77-0e1b6eebb609",
+   "MetaData": {
+    "Name": "sihost.exe",
+    "CPU": 0.012496007580777697,
+    "RAM": "25660KB",
+    "RAMPct": 0.15501407,
+    "Threads": 10,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 4656
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "ed751d1b-deb3-4990-b7bb-02787b0f2952",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.001629922302438363,
+    "RAM": "8856KB",
+    "RAMPct": 0.05349979,
+    "Threads": 1,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 4676
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "c1244d1a-31ff-4b69-90a1-2b3d3fde1b57",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.024448761980156025,
+    "RAM": "34504KB",
+    "RAMPct": 0.20844136,
+    "Threads": 9,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 4684
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "959c1ec0-b9d3-4ea9-bf88-7d6da01c1921",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.0005433059978132105,
+    "RAM": "9020KB",
+    "RAMPct": 0.054490525,
+    "Threads": 3,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 4708
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "cddc6d5c-9b8f-45a6-9988-c5ded4f947b5",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0,
+    "RAM": "7412KB",
+    "RAMPct": 0.044776473,
+    "Threads": 2,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 4768
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "e9df2179-545b-4434-b14a-b88e683e97c2",
+   "MetaData": {
+    "Name": "taskhostw.exe",
+    "CPU": 0.08149785609157914,
+    "RAM": "14524KB",
+    "RAMPct": 0.08774062,
+    "Threads": 8,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 4900
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "d29a9cbf-5908-4c96-b4ca-f14ea34df914",
+   "MetaData": {
+    "Name": "WmiPrvSE.exe",
+    "CPU": 0.5559763882557736,
+    "RAM": "16688KB",
+    "RAMPct": 0.100813515,
+    "Threads": 9,
+    "User": "NT AUTHORITY\\NETWORK SERVICE",
+    "PID": 4912
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "0be55e37-5e66-4d60-9dfa-47887a8b2080",
+   "MetaData": {
+    "Name": "PresentationFontCache.exe",
+    "CPU": 0.02716590385185931,
+    "RAM": "23740KB",
+    "RAMPct": 0.1434152,
+    "Threads": 4,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 4920
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "63d6bde3-fafb-463c-952f-1960b124366e",
+   "MetaData": {
+    "Name": "igfxEMN.exe",
+    "CPU": 0.00706442766446442,
+    "RAM": "14148KB",
+    "RAMPct": 0.08546918,
+    "Threads": 3,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5260
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "af2afc19-2aca-4941-90c5-2fcecc24e8bd",
+   "MetaData": {
+    "Name": "conhost.exe",
+    "CPU": 0.0005497137321076907,
+    "RAM": "20032KB",
+    "RAMPct": 0.12101488,
+    "Threads": 3,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5288
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "a0ef74d0-38e0-4568-b04c-8ee5da312f17",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.0021736929558189735,
+    "RAM": "17416KB",
+    "RAMPct": 0.10521142,
+    "Threads": 6,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5392
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "788e3824-f1de-4996-84b6-09ebd227eee9",
+   "MetaData": {
+    "Name": "ctfmon.exe",
+    "CPU": 0.09299796771166557,
+    "RAM": "21820KB",
+    "RAMPct": 0.13181633,
+    "Threads": 11,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5584
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "bd24bc5d-4c84-4abe-a626-759563d679ce",
+   "MetaData": {
+    "Name": "chrome.exe",
+    "CPU": 1.1382414380787638,
+    "RAM": "153856KB",
+    "RAMPct": 0.9294562,
+    "Threads": 22,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5752
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "7425c5a7-d0f2-4c4e-b3f1-b4ea6a90c950",
+   "MetaData": {
+    "Name": "DSAUpdateService.exe",
+    "CPU": 0.0396791409517876,
+    "RAM": "48596KB",
+    "RAMPct": 0.29357225,
+    "Threads": 8,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 5780
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "8f4933cf-05ac-4bf1-8496-6bc7668ce073",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.004348810745744414,
+    "RAM": "11384KB",
+    "RAMPct": 0.06877164,
+    "Threads": 1,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 5988
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "d9613906-ee58-475d-b3a8-fced4e78b482",
+   "MetaData": {
+    "Name": "esrv.exe",
+    "CPU": 0.14348521492394908,
+    "RAM": "141388KB",
+    "RAMPct": 0.854136,
+    "Threads": 61,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 6028
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "811ab34b-2a16-48ae-829d-13295dbc3134",
+   "MetaData": {
+    "Name": "conhost.exe",
+    "CPU": 0,
+    "RAM": "10256KB",
+    "RAMPct": 0.0619573,
+    "Threads": 2,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 6172
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "e5c14316-c45f-42e7-b862-5d3f37af67ec",
+   "MetaData": {
+    "Name": "IDMan.exe",
+    "CPU": 0.00435780580648213,
+    "RAM": "31152KB",
+    "RAMPct": 0.18819167,
+    "Threads": 3,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 6288
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "023fc10d-8a2e-47e5-adf5-58cd746899cd",
+   "MetaData": {
+    "Name": "RuntimeBroker.exe",
+    "CPU": 0,
+    "RAM": "12824KB",
+    "RAMPct": 0.07747079,
+    "Threads": 1,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 6408
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "1df806a1-f166-4508-9ea9-98bbcde2230a",
+   "MetaData": {
+    "Name": "TextInputHost.exe",
+    "CPU": 0.050720823500272495,
+    "RAM": "190140KB",
+    "RAMPct": 1.1486506,
+    "Threads": 36,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 6476
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "ea3defba-baaa-4465-9d9e-e72c0db30703",
+   "MetaData": {
+    "Name": "ZapyaAdaptor.exe",
+    "CPU": 0.02288415876490802,
+    "RAM": "67844KB",
+    "RAMPct": 0.40985093,
+    "Threads": 11,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 6760
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "76617f06-eac7-4c57-9f28-b3ac47ffced7",
+   "MetaData": {
+    "Name": "SandMan.exe",
+    "CPU": 0.07780503342706133,
+    "RAM": "46520KB",
+    "RAMPct": 0.28103095,
+    "Threads": 6,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 6764
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "7738fd4e-07d4-486e-b6d4-638f7f633f6a",
+   "MetaData": {
+    "Name": "SenaryAudioApp.exe",
+    "CPU": 0.044085379497751355,
+    "RAM": "69764KB",
+    "RAMPct": 0.42144978,
+    "Threads": 11,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 6932
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "a8e97c65-e8dc-4f08-abcc-36d3add75a4b",
+   "MetaData": {
+    "Name": "fdm.exe",
+    "CPU": 0.35436512468256304,
+    "RAM": "122528KB",
+    "RAMPct": 0.74020123,
+    "Threads": 16,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 7036
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "ce1f9a99-9fba-44eb-a82b-2357fb715e0f",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.005988530722129288,
+    "RAM": "23972KB",
+    "RAMPct": 0.14481673,
+    "Threads": 5,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 7156
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "57cce2a9-8399-4ad9-8f90-6e417574b767",
+   "MetaData": {
+    "Name": "vncagent.exe_container(1)",
+    "CPU": 0.0005497193996904077,
+    "RAM": "9656KB",
+    "RAMPct": 0.05833265,
+    "Threads": 3,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 7180
+   },
+   "Columns": null,
+   "Type": "vncagent.exe_container",
+   "Children": [
+    {
+     "UUID": "9d299124-4e55-4b5b-bab4-9d4a23e52c9c",
+     "MetaData": {
+      "Name": "conhost.exe",
+      "CPU": 0.000549719496352998,
+      "RAM": "12152KB",
+      "RAMPct": 0.07341118,
+      "Threads": 3,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 7188
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "c52a1d33-cb46-45bf-a83b-7695c41792c4",
+   "MetaData": {
+    "Name": "conhost.exe",
+    "CPU": 0.0005497187573240691,
+    "RAM": "12152KB",
+    "RAMPct": 0.07341118,
+    "Threads": 3,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 7188
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "ea791109-02bf-47de-b581-e7efa8175aa9",
+   "MetaData": {
+    "Name": "vncserverui.exe",
+    "CPU": 0.0021992956383702863,
+    "RAM": "22412KB",
+    "RAMPct": 0.13539265,
+    "Threads": 3,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 7240
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "b11a1f15-2111-431e-aa8f-91cd4b389b05",
+   "MetaData": {
+    "Name": "goland64.exe",
+    "CPU": 0.004427241293124463,
+    "RAM": "51088KB",
+    "RAMPct": 0.30862662,
+    "Threads": 12,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 7396
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "d5d0d6dd-1fc2-4c20-b7f1-caff8c2361ca",
+   "MetaData": {
+    "Name": "goland64.exe",
+    "CPU": 0.004427570725724147,
+    "RAM": "19908KB",
+    "RAMPct": 0.12026579,
+    "Threads": 10,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 7424
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "701d0a18-bbba-46da-bf21-10ec762c0eec",
+   "MetaData": {
+    "Name": "goland64.exe_container(6)",
+    "CPU": 80.52137800822446,
+    "RAM": "4454752KB",
+    "RAMPct": 26.911507,
+    "Threads": 199,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 7580
+   },
+   "Columns": null,
+   "Type": "goland64.exe_container",
+   "Children": [
+    {
+     "UUID": "a23c8073-09d2-4d75-a9b5-aa1c19e166d0",
+     "MetaData": {
+      "Name": "fsnotifier.exe",
+      "CPU": 0.030391839136694368,
+      "RAM": "2768KB",
+      "RAMPct": 0.016721705,
+      "Threads": 3,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 1764
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "d5ad1984-4cf9-4537-8470-30b3d7db4db9",
+     "MetaData": {
+      "Name": "goland64.exe",
+      "CPU": 0.0044271995533075505,
+      "RAM": "51088KB",
+      "RAMPct": 0.30862662,
+      "Threads": 12,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 7396
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "a1266bfb-2072-4733-807a-a256080f0294",
+     "MetaData": {
+      "Name": "goland64.exe",
+      "CPU": 0.004427535391144368,
+      "RAM": "19908KB",
+      "RAMPct": 0.12026579,
+      "Threads": 10,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 7424
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "2ce37b7a-a171-4f4a-a2eb-f097c3a12886",
+     "MetaData": {
+      "Name": "full-line-inference.exe",
+      "CPU": 4.847924767766841,
+      "RAM": "382404KB",
+      "RAMPct": 2.3101325,
+      "Threads": 8,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 9428
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "4be68704-6388-4b1f-bb8d-32d8b79b208b",
+     "MetaData": {
+      "Name": "___1go_build_github_com_ddkwork_StructViewDemo.exe",
+      "CPU": 1.2317286013544522,
+      "RAM": "123892KB",
+      "RAMPct": 0.7484413,
+      "Threads": 20,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 9624
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "UUID": "f488718a-3580-42b2-918a-84f1a640195c",
+     "MetaData": {
+      "Name": "___1go_build_github_com_ddkwork_taskmanagerDemo.exe",
+      "CPU": 42.80470293787282,
+      "RAM": "86500KB",
+      "RAMPct": 0.52255327,
+      "Threads": 24,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 8676
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "32fcfd59-7df0-41bb-ba1d-1f819fc86c4b",
+   "MetaData": {
+    "Name": "chrome.exe",
+    "CPU": 0.00413770094278889,
+    "RAM": "21180KB",
+    "RAMPct": 0.12795004,
+    "Threads": 11,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 7892
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "c4c0ff96-c0fb-498a-a527-52e26731fa4b",
+   "MetaData": {
+    "Name": "___1go_build_github_com_ddkwork_taskmanagerDemo.exe_container(1)",
+    "CPU": 42.57234505914219,
+    "RAM": "86500KB",
+    "RAMPct": 0.52255327,
+    "Threads": 24,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 8676
+   },
+   "Columns": null,
+   "Type": "___1go_build_github_com_ddkwork_taskmanagerDemo.exe_container",
+   "Children": [
+    {
+     "UUID": "3aee6f76-3688-429f-9ac2-d13520047392",
+     "MetaData": {
+      "Name": "conhost.exe",
+      "CPU": 0.7124661327798851,
+      "RAM": "10396KB",
+      "RAMPct": 0.06280305,
+      "Threads": 3,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 8936
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "61d01618-4fcb-4db2-8c23-96e4edecb6b9",
+   "MetaData": {
+    "Name": "conhost.exe",
+    "CPU": 0.001090893372574778,
+    "RAM": "10412KB",
+    "RAMPct": 0.06289971,
+    "Threads": 2,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 8928
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "883dd390-b578-4121-b4a4-31bc1fadb3c8",
+   "MetaData": {
+    "Name": "conhost.exe",
+    "CPU": 0.7084899587361846,
+    "RAM": "10396KB",
+    "RAMPct": 0.06280305,
+    "Threads": 3,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 8936
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "8fa7619b-836c-42f9-aafe-138c1b3f960f",
+   "MetaData": {
+    "Name": "chrome.exe",
+    "CPU": 1.6059897590569012,
+    "RAM": "147040KB",
+    "RAMPct": 0.88828015,
+    "Threads": 20,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 8996
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "07dc8ffe-6c30-4c64-adea-d6eff5e09175",
+   "MetaData": {
+    "Name": "conhost.exe",
+    "CPU": 0,
+    "RAM": "10384KB",
+    "RAMPct": 0.06273056,
+    "Threads": 2,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 9196
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "e640c639-4821-402f-af1c-c638336f5166",
+   "MetaData": {
+    "Name": "svchost.exe",
+    "CPU": 0.002432441485290668,
+    "RAM": "11596KB",
+    "RAMPct": 0.07005235,
+    "Threads": 2,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 9312
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "d49fbfc8-d28d-4d2d-a3a9-0b91a1f67765",
+   "MetaData": {
+    "Name": "chrome.exe",
+    "CPU": 0.004128686060064883,
+    "RAM": "8396KB",
+    "RAMPct": 0.050720893,
+    "Threads": 9,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 9396
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "ede19cce-01ac-40e4-991a-75488e18366c",
+   "MetaData": {
+    "Name": "full-line-inference.exe_container(1)",
+    "CPU": 4.847651873978893,
+    "RAM": "382404KB",
+    "RAMPct": 2.3101325,
+    "Threads": 8,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 9428
+   },
+   "Columns": null,
+   "Type": "full-line-inference.exe_container",
+   "Children": [
+    {
+     "UUID": "6cd1b23a-5e77-424e-9266-06cb9bd32bf0",
+     "MetaData": {
+      "Name": "conhost.exe",
+      "CPU": 0.0010908514786933754,
+      "RAM": "10412KB",
+      "RAMPct": 0.06289971,
+      "Threads": 2,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 8928
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "078449ff-6ad8-4008-b17b-f2585c51d5c4",
+   "MetaData": {
+    "Name": "chrome.exe",
+    "CPU": 0,
+    "RAM": "22648KB",
+    "RAMPct": 0.13681835,
+    "Threads": 10,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 9480
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "e1cd960a-e31b-43d7-bcc5-22459b8d7302",
+   "MetaData": {
+    "Name": "___1go_build_github_com_ddkwork_StructViewDemo.exe_container(1)",
+    "CPU": 1.2306533050820327,
+    "RAM": "123892KB",
+    "RAMPct": 0.7484413,
+    "Threads": 20,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 9624
+   },
+   "Columns": null,
+   "Type": "___1go_build_github_com_ddkwork_StructViewDemo.exe_container",
+   "Children": [
+    {
+     "UUID": "d848e9fe-5935-493e-ba4d-c5230da4d05d",
+     "MetaData": {
+      "Name": "conhost.exe",
+      "CPU": 0,
+      "RAM": "10384KB",
+      "RAMPct": 0.06273056,
+      "Threads": 2,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 9196
+     },
+     "Columns": null,
+     "Type": "",
+     "Children": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "16681af0-2cf8-419e-8682-bb56d736e45b",
+   "MetaData": {
+    "Name": "RuntimeBroker.exe",
+    "CPU": 0.0018232124420049076,
+    "RAM": "7048KB",
+    "RAMPct": 0.04257752,
+    "Threads": 1,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 9680
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "UUID": "95ae5804-db77-4706-a0cf-0450c771ccee",
+   "MetaData": {
+    "Name": "chrome.exe",
+    "CPU": 0.24024065126992836,
+    "RAM": "61644KB",
+    "RAMPct": 0.37239623,
+    "Threads": 20,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 9720
+   },
+   "Columns": null,
+   "Type": "",
+   "Children": null,
+   "PreventUserColumnResize": false
+  }
+ ],
+ "PreventUserColumnResize": false
+}

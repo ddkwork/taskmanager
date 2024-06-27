@@ -9,6 +9,6 @@ import (
 
 func main() {
 	app.Run("taskmanager", func(w *unison.Window) {
-		taskmanager.New().Layout(w.Content())
+		w.Content().AddChild(taskmanager.New().Layout())
 	})
 }

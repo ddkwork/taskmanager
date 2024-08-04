@@ -1,0 +1,3667 @@
+{
+ "id": "c0920a99-4630-43fb-a1a9-8b64e5dc5acc",
+ "type": "root_container",
+ "Data": {
+  "Name": "",
+  "CPU": 0,
+  "RAM": "0B",
+  "RAMPct": 0,
+  "Threads": 0,
+  "User": "",
+  "PID": 0
+ },
+ "children": [
+  {
+   "id": "f25f7173-6b73-4498-9a2e-11b5e11b599d",
+   "type": "System Idle Process_container",
+   "Data": {
+    "Name": "System Idle Process (2)",
+    "CPU": 0,
+    "RAM": "0B",
+    "RAMPct": 0,
+    "Threads": 16,
+    "User": "",
+    "PID": 0
+   },
+   "children": [
+    {
+     "id": "19a87101-1358-40ab-a5a3-8968a8ffdbf1",
+     "type": "",
+     "Data": {
+      "Name": "System Idle Process",
+      "CPU": 0,
+      "RAM": "0B",
+      "RAMPct": 0,
+      "Threads": 16,
+      "User": "",
+      "PID": 0
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "66bf2dd8-7128-4578-a8c2-42d89da75fba",
+     "type": "",
+     "Data": {
+      "Name": "System",
+      "CPU": 0.23874756590697305,
+      "RAM": "160KB",
+      "RAMPct": 0.00096657255,
+      "Threads": 206,
+      "User": "",
+      "PID": 4
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "9be48591-4f30-40a6-8eaf-94144f1c40f8",
+   "type": "System_container",
+   "Data": {
+    "Name": "System (2)",
+    "CPU": 0.23874756357903887,
+    "RAM": "160KB",
+    "RAMPct": 0.00096657255,
+    "Threads": 206,
+    "User": "",
+    "PID": 4
+   },
+   "children": [
+    {
+     "id": "7ae86f32-31f3-40ec-89a3-88539060bbed",
+     "type": "",
+     "Data": {
+      "Name": "",
+      "CPU": 0.00021919472367368278,
+      "RAM": "60984KB",
+      "RAMPct": 0.36840913,
+      "Threads": 4,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 164
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "04906c52-3696-4fa1-a81b-d8a3727ddf91",
+     "type": "",
+     "Data": {
+      "Name": "smss.exe",
+      "CPU": 0.00011956315074480133,
+      "RAM": "1296KB",
+      "RAMPct": 0.007829238,
+      "Threads": 2,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 840
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "d0229f12-0897-473a-be47-a210b80f73e7",
+   "type": "",
+   "Data": {
+    "Name": "",
+    "CPU": 0.00021919471847447629,
+    "RAM": "60984KB",
+    "RAMPct": 0.36840913,
+    "Threads": 4,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 164
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "3edd0692-f0b7-4550-bc09-65b21e857838",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.0028198172254236017,
+    "RAM": "12412KB",
+    "RAMPct": 0.07498187,
+    "Threads": 7,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 548
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "30454d20-4eb9-4ed5-a4a9-d8f99e429be5",
+   "type": "svchost.exe_container",
+   "Data": {
+    "Name": "svchost.exe (10)",
+    "CPU": 0.0018034380851187917,
+    "RAM": "31304KB",
+    "RAMPct": 0.18910992,
+    "Threads": 11,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 584
+   },
+   "children": [
+    {
+     "id": "01074460-8097-458b-9152-8a5ba2fa7eea",
+     "type": "",
+     "Data": {
+      "Name": "TextInputHost.exe",
+      "CPU": 0.00513189055454563,
+      "RAM": "90368KB",
+      "RAMPct": 0.5459202,
+      "Threads": 29,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 8012
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "af6a34b7-0e7b-426d-8023-85df9187d509",
+     "type": "",
+     "Data": {
+      "Name": "RuntimeBroker.exe",
+      "CPU": 0,
+      "RAM": "12644KB",
+      "RAMPct": 0.0763834,
+      "Threads": 1,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 8160
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "f9f26943-a6fc-47de-9299-7e99429f0ef5",
+     "type": "",
+     "Data": {
+      "Name": "ShellExperienceHost.exe",
+      "CPU": 0.0024422836984587335,
+      "RAM": "80756KB",
+      "RAMPct": 0.48785332,
+      "Threads": 40,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 9020
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "dae239fd-76be-4fe9-9502-102e4cade283",
+     "type": "",
+     "Data": {
+      "Name": "RuntimeBroker.exe",
+      "CPU": 0.0008074492613439743,
+      "RAM": "33068KB",
+      "RAMPct": 0.19976638,
+      "Threads": 15,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 3560
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "7528e47b-3704-4c9c-a939-be971178d507",
+     "type": "",
+     "Data": {
+      "Name": "SystemSettingsBroker.exe",
+      "CPU": 0.00045855208963109436,
+      "RAM": "35288KB",
+      "RAMPct": 0.21317758,
+      "Threads": 25,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 9092
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "b7d7efc2-0645-493f-9af0-2f3beb713d3e",
+     "type": "",
+     "Data": {
+      "Name": "ApplicationFrameHost.exe",
+      "CPU": 0.0001665266140464448,
+      "RAM": "52584KB",
+      "RAMPct": 0.31766406,
+      "Threads": 2,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 1256
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "a4e0aaab-26e9-45a6-8df6-718df1043f62",
+     "type": "",
+     "Data": {
+      "Name": "StartMenuExperienceHost.exe",
+      "CPU": 0,
+      "RAM": "1952KB",
+      "RAMPct": 0.011792185,
+      "Threads": 13,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 3292
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "7f35716a-ada1-4ad7-b773-2846ad96544c",
+     "type": "",
+     "Data": {
+      "Name": "RuntimeBroker.exe",
+      "CPU": 0.000029712830058805154,
+      "RAM": "7924KB",
+      "RAMPct": 0.047869503,
+      "Threads": 1,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 5180
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "6300c859-7d3e-401d-8033-d474f64d654a",
+     "type": "",
+     "Data": {
+      "Name": "dllhost.exe",
+      "CPU": 0,
+      "RAM": "9096KB",
+      "RAMPct": 0.05494965,
+      "Threads": 2,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 8992
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "1283ef71-15ee-4264-8dfb-b959b5c0cd95",
+     "type": "",
+     "Data": {
+      "Name": "WmiPrvSE.exe",
+      "CPU": 0,
+      "RAM": "8824KB",
+      "RAMPct": 0.053306475,
+      "Threads": 6,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 5748
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "dab51393-9f69-497b-a062-2d64b7e7290a",
+   "type": "",
+   "Data": {
+    "Name": "csrss.exe",
+    "CPU": 0.0001594194920659164,
+    "RAM": "6024KB",
+    "RAMPct": 0.036391456,
+    "Threads": 12,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 632
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "4f0f14c9-008c-41c3-9d4b-4ab8273c7d27",
+   "type": "",
+   "Data": {
+    "Name": "fontdrvhost.exe",
+    "CPU": 0,
+    "RAM": "3800KB",
+    "RAMPct": 0.022956097,
+    "Threads": 5,
+    "User": "Font Driver Host\\UMFD-0",
+    "PID": 664
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "8159e2ff-2777-42e3-8b50-afb995b6897c",
+   "type": "",
+   "Data": {
+    "Name": "csrss.exe",
+    "CPU": 0.06846079570472881,
+    "RAM": "7848KB",
+    "RAMPct": 0.047410384,
+    "Threads": 16,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 748
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "331ff4b3-39df-408e-9234-7b6a3ac9c55d",
+   "type": "wininit.exe_container",
+   "Data": {
+    "Name": "wininit.exe (3)",
+    "CPU": 0,
+    "RAM": "7456KB",
+    "RAMPct": 0.04504228,
+    "Threads": 2,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 756
+   },
+   "children": [
+    {
+     "id": "4b688ff6-7392-44db-b79a-eff30778d335",
+     "type": "",
+     "Data": {
+      "Name": "services.exe",
+      "CPU": 0.0009166635206925553,
+      "RAM": "10036KB",
+      "RAMPct": 0.06062826,
+      "Threads": 5,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 828
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "514e1559-75da-4043-af71-ee4355fd7aec",
+     "type": "",
+     "Data": {
+      "Name": "lsass.exe",
+      "CPU": 0.0013251768616887377,
+      "RAM": "20548KB",
+      "RAMPct": 0.12413208,
+      "Threads": 7,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 872
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "9b1bde3a-38a0-495f-b4fc-dcd5303ebcb8",
+     "type": "",
+     "Data": {
+      "Name": "fontdrvhost.exe",
+      "CPU": 0,
+      "RAM": "3800KB",
+      "RAMPct": 0.022956097,
+      "Threads": 5,
+      "User": "Font Driver Host\\UMFD-0",
+      "PID": 664
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "15d31844-b56a-44cc-8693-5d4396e19cac",
+   "type": "services.exe_container",
+   "Data": {
+    "Name": "services.exe (56)",
+    "CPU": 0.0009166634942217958,
+    "RAM": "10036KB",
+    "RAMPct": 0.06062826,
+    "Threads": 5,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 828
+   },
+   "children": [
+    {
+     "id": "914e7f12-f247-426c-8e2b-c645ebfde090",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.0018034375457614614,
+      "RAM": "31304KB",
+      "RAMPct": 0.18910992,
+      "Threads": 11,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 584
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "fa0dc509-8ebd-4f2b-8452-5b4e399082f5",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.005420278738712351,
+      "RAM": "13892KB",
+      "RAMPct": 0.08392266,
+      "Threads": 9,
+      "User": "NT AUTHORITY\\NETWORK SERVICE",
+      "PID": 836
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "77c5fee2-ffad-4770-badd-958283c7ce62",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.001285337083013106,
+      "RAM": "12668KB",
+      "RAMPct": 0.07652838,
+      "Threads": 29,
+      "User": "NT AUTHORITY\\NETWORK SERVICE",
+      "PID": 1272
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "a38d2a8a-94cc-4737-b3d5-392b0a4163ac",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.007144082830155725,
+      "RAM": "75324KB",
+      "RAMPct": 0.4550382,
+      "Threads": 56,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 1280
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "7dfe7539-fb31-4267-9ba6-7eded44e48c0",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.000029891560790328117,
+      "RAM": "10744KB",
+      "RAMPct": 0.064905345,
+      "Threads": 8,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 1336
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "c98b4a0a-67c9-44a2-afa4-1ed790c434c7",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.08212208058382359,
+      "RAM": "42052KB",
+      "RAMPct": 0.25403944,
+      "Threads": 18,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 1328
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "d05b635e-fbbc-4b5e-9e1a-6a29324ba2d6",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.00242121654719664,
+      "RAM": "11804KB",
+      "RAMPct": 0.07130889,
+      "Threads": 8,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 1420
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "7862692c-7c0c-4775-9905-1462e15ce232",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.0024212166457672555,
+      "RAM": "18808KB",
+      "RAMPct": 0.1136206,
+      "Threads": 11,
+      "User": "NT AUTHORITY\\NETWORK SERVICE",
+      "PID": 1456
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "aa109a07-ac1b-42f4-905b-0d23993b1953",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.0014846144017459444,
+      "RAM": "27796KB",
+      "RAMPct": 0.16791782,
+      "Threads": 11,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 1520
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "e0016b43-f709-4fad-ae04-a23f40e11a9a",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.015892348626743567,
+      "RAM": "33592KB",
+      "RAMPct": 0.20293191,
+      "Threads": 36,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 1528
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "ea5f8c43-1def-4303-8958-9cd72775ad92",
+     "type": "",
+     "Data": {
+      "Name": "IntelCpHDCPSvc.exe",
+      "CPU": 0,
+      "RAM": "5848KB",
+      "RAMPct": 0.035328228,
+      "Threads": 3,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 1680
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "3c110f88-a677-4b50-8b99-721e3f8aab2d",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.00003985543828821815,
+      "RAM": "10900KB",
+      "RAMPct": 0.065847754,
+      "Threads": 2,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 1828
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "ac09e421-68d8-4b19-9388-3c43c5983741",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.00018931343222257138,
+      "RAM": "8880KB",
+      "RAMPct": 0.053644776,
+      "Threads": 2,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 2036
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "82fc0b61-6738-45a6-9a8a-291ebd803c71",
+     "type": "",
+     "Data": {
+      "Name": "WUDFHost.exe",
+      "CPU": 0.00000996386731514163,
+      "RAM": "9348KB",
+      "RAMPct": 0.056472,
+      "Threads": 8,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 2060
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "6ba36ba1-c6dd-47ee-a9e6-67d5af32f7bb",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.005011826930578826,
+      "RAM": "10644KB",
+      "RAMPct": 0.06430124,
+      "Threads": 10,
+      "User": "NT AUTHORITY\\NETWORK SERVICE",
+      "PID": 2220
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "68d979c9-1a22-4cc4-bf25-f690e5f9b679",
+     "type": "",
+     "Data": {
+      "Name": "igfxCUIServiceN.exe",
+      "CPU": 0.000009963871870581981,
+      "RAM": "10192KB",
+      "RAMPct": 0.06157067,
+      "Threads": 2,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 2252
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "3d0d46e3-6721-4c9d-98f8-5121c7b436cd",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.0002092413711658984,
+      "RAM": "12156KB",
+      "RAMPct": 0.07343535,
+      "Threads": 1,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 2476
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "17d5943f-2f92-4106-ba35-96d55e8c0962",
+     "type": "",
+     "Data": {
+      "Name": "WUDFHost.exe",
+      "CPU": 0.11348871682789677,
+      "RAM": "10324KB",
+      "RAMPct": 0.06236809,
+      "Threads": 7,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 2876
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "7191b5eb-bcbe-486e-a412-bd17e04601e8",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.0010163168751188077,
+      "RAM": "13356KB",
+      "RAMPct": 0.08068464,
+      "Threads": 1,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 2884
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "a7569bda-8cd2-4a44-99e3-452b7c933932",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.000009963891882281219,
+      "RAM": "8292KB",
+      "RAMPct": 0.050092623,
+      "Threads": 5,
+      "User": "NT AUTHORITY\\NETWORK SERVICE",
+      "PID": 2936
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "5680df49-59a6-4b40-ba39-8d1cc13e917b",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.0002590612141890528,
+      "RAM": "13852KB",
+      "RAMPct": 0.08368102,
+      "Threads": 6,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 2964
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "e672c220-5abb-4717-b709-3d5026728c07",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.000019927789182136115,
+      "RAM": "8164KB",
+      "RAMPct": 0.049319364,
+      "Threads": 3,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 3020
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "a0971e7b-fa0b-495f-acbf-22bfc043e31f",
+     "type": "",
+     "Data": {
+      "Name": "vpnagent.exe",
+      "CPU": 0.0010761006876494202,
+      "RAM": "16904KB",
+      "RAMPct": 0.10211839,
+      "Threads": 8,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 976
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "3cae9c01-b8ec-4d2e-8d68-664ea584c9d1",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.00041848360337794563,
+      "RAM": "21668KB",
+      "RAMPct": 0.13089809,
+      "Threads": 12,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 1400
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "4635d2c9-f541-4dc8-8f40-4573ef12768f",
+     "type": "",
+     "Data": {
+      "Name": "WUDFHost.exe",
+      "CPU": 0.045584852181855144,
+      "RAM": "14764KB",
+      "RAMPct": 0.08919048,
+      "Threads": 11,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 3088
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "f6c915f7-890d-440b-8054-4e8d5c7c75f5",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.0007074386269102977,
+      "RAM": "24152KB",
+      "RAMPct": 0.14590412,
+      "Threads": 10,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 3432
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "c9c3c18d-e50e-491a-9fa2-a9e003f365e5",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.000009963932264097464,
+      "RAM": "11636KB",
+      "RAMPct": 0.070293985,
+      "Threads": 5,
+      "User": "NT AUTHORITY\\NETWORK SERVICE",
+      "PID": 3756
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "08746857-5cea-458a-8618-4bdc80eb8170",
+     "type": "",
+     "Data": {
+      "Name": "SessionService.exe",
+      "CPU": 0,
+      "RAM": "3480KB",
+      "RAMPct": 0.021022953,
+      "Threads": 2,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3804
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "7804247b-cbe1-4f93-acb1-5b3099073d47",
+     "type": "",
+     "Data": {
+      "Name": "IpOverUsbSvc.exe",
+      "CPU": 0.00017935079161369123,
+      "RAM": "17752KB",
+      "RAMPct": 0.10724122,
+      "Threads": 6,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3828
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "4b0f8d2f-b73a-4e51-8833-611931a89849",
+     "type": "",
+     "Data": {
+      "Name": "OneApp.IGCC.WinService.exe",
+      "CPU": 0.0014348063269924573,
+      "RAM": "56016KB",
+      "RAMPct": 0.33839706,
+      "Threads": 7,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3848
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "4d47e23f-e4ed-4fbe-8142-0d539293b153",
+     "type": "",
+     "Data": {
+      "Name": "SenaryAudioApp.Svc.exe",
+      "CPU": 0.0020625340676140003,
+      "RAM": "66260KB",
+      "RAMPct": 0.40028185,
+      "Threads": 10,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3856
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "94d60be8-55da-4d21-8dd4-5eba5bc7fad6",
+     "type": "",
+     "Data": {
+      "Name": "TbtP2pShortcutService.exe",
+      "CPU": 0,
+      "RAM": "5880KB",
+      "RAMPct": 0.03552154,
+      "Threads": 3,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3868
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "2e6abbfc-0d75-4413-b515-788421305166",
+     "type": "",
+     "Data": {
+      "Name": "sqlwriter.exe",
+      "CPU": 0,
+      "RAM": "8412KB",
+      "RAMPct": 0.050817553,
+      "Threads": 2,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3876
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "28b899a7-d5a8-4099-84cb-f23bb33e4491",
+     "type": "",
+     "Data": {
+      "Name": "esif_uf.exe",
+      "CPU": 0,
+      "RAM": "6860KB",
+      "RAMPct": 0.0414418,
+      "Threads": 3,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3884
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "74887790-c674-414f-bb43-fbbea2000ba3",
+     "type": "",
+     "Data": {
+      "Name": "HWVEAudioService.exe",
+      "CPU": 0.0005878720310117999,
+      "RAM": "10156KB",
+      "RAMPct": 0.06135319,
+      "Threads": 9,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3900
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "8c310162-83ec-48a1-a951-9908a5c93c81",
+     "type": "",
+     "Data": {
+      "Name": "IntelAudioService.exe",
+      "CPU": 0.0005978359605853312,
+      "RAM": "60988KB",
+      "RAMPct": 0.3684333,
+      "Threads": 8,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3908
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "13502b8e-2664-4a30-8984-b8743ece7001",
+     "type": "",
+     "Data": {
+      "Name": "WMIRegistrationService.exe",
+      "CPU": 0.000009963933093569568,
+      "RAM": "14156KB",
+      "RAMPct": 0.0855175,
+      "Threads": 2,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3944
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "57405baf-8ab2-4894-ab35-ec3bfc4f79b5",
+     "type": "",
+     "Data": {
+      "Name": "SeewoFreezeUpdateAssist.exe",
+      "CPU": 0.02676312450197798,
+      "RAM": "24408KB",
+      "RAMPct": 0.14745064,
+      "Threads": 23,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3964
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "7a9b9133-373f-4bb6-bb0e-10904a5c7eb1",
+     "type": "",
+     "Data": {
+      "Name": "SeewoGuard.exe",
+      "CPU": 1.0051915014720232,
+      "RAM": "13892KB",
+      "RAMPct": 0.08392266,
+      "Threads": 9,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 4004
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "59593138-6bcd-4532-ab7f-19bf91871fb8",
+     "type": "",
+     "Data": {
+      "Name": "jhi_service.exe",
+      "CPU": 0,
+      "RAM": "6588KB",
+      "RAMPct": 0.039798625,
+      "Threads": 2,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 4172
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "6a378dd6-415d-4e84-b6d6-dc9bdd06f32f",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.002819815072035781,
+      "RAM": "12412KB",
+      "RAMPct": 0.07498187,
+      "Threads": 7,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 548
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "d49b0248-36e3-4670-9952-9874ef980a96",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.00012953250238815554,
+      "RAM": "9028KB",
+      "RAMPct": 0.054538857,
+      "Threads": 1,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 5464
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "08aecc28-b4d4-4ce1-be7c-6c6af2f5acc0",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.002212016591352474,
+      "RAM": "38796KB",
+      "RAMPct": 0.23436968,
+      "Threads": 9,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 5476
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "593c8fdc-3811-4ef0-b26e-2f99bb979bc2",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.0000298921173146275,
+      "RAM": "9136KB",
+      "RAMPct": 0.055191293,
+      "Threads": 3,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 5492
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "42f390b2-8f78-4dec-83c0-cd9b3dbdaf66",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0,
+      "RAM": "7584KB",
+      "RAMPct": 0.04581554,
+      "Threads": 2,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 5572
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "848d98ce-0efc-42a4-8d6b-31abd328b28a",
+     "type": "",
+     "Data": {
+      "Name": "PresentationFontCache.exe",
+      "CPU": 0.000269029220010001,
+      "RAM": "23680KB",
+      "RAMPct": 0.14305274,
+      "Threads": 4,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 5800
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "d4fe7d05-c762-486d-ae14-0e0b0b206676",
+     "type": "",
+     "Data": {
+      "Name": "WUDFHost.exe",
+      "CPU": 0.07318598742262915,
+      "RAM": "27876KB",
+      "RAMPct": 0.1684011,
+      "Threads": 22,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 6012
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "9791541a-289f-4e5b-9db3-b27c9f1f4e36",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.02679338720142744,
+      "RAM": "17232KB",
+      "RAMPct": 0.10409986,
+      "Threads": 16,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 5836
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "b335cfa6-2dae-4fc4-8f16-b072a304c205",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.0010761216984278565,
+      "RAM": "20456KB",
+      "RAMPct": 0.1235763,
+      "Threads": 4,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 6320
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "e70b1021-1971-45e2-9a1e-3e335ee5bb6a",
+     "type": "",
+     "Data": {
+      "Name": "SeewoProxy.exe",
+      "CPU": 0.04066408144533182,
+      "RAM": "54600KB",
+      "RAMPct": 0.32984287,
+      "Threads": 32,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 5676
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "2a8adb8e-8c94-447b-8df8-0f1e52321658",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.00005978652304585893,
+      "RAM": "25152KB",
+      "RAMPct": 0.1519452,
+      "Threads": 5,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 7572
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "1b6b4ed4-f753-488f-942f-e9fd66926300",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.00005981106090302173,
+      "RAM": "15636KB",
+      "RAMPct": 0.094458304,
+      "Threads": 1,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 4276
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "9630b6ba-a507-4f99-b2cc-4d8993868e60",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.0002392460262923244,
+      "RAM": "21872KB",
+      "RAMPct": 0.13213046,
+      "Threads": 12,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 6184
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "b1d268d4-95f9-432f-9518-56cb87757a52",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0,
+      "RAM": "9360KB",
+      "RAMPct": 0.056544494,
+      "Threads": 2,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 7304
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "abafd9b5-ad28-424e-b2e6-0c9c3daa7dc5",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0,
+      "RAM": "8180KB",
+      "RAMPct": 0.04941602,
+      "Threads": 1,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 5436
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "207974af-bed4-418d-9d8b-bcb094d26c65",
+     "type": "",
+     "Data": {
+      "Name": "svchost.exe",
+      "CPU": 0.0015822261130936123,
+      "RAM": "10732KB",
+      "RAMPct": 0.06483285,
+      "Threads": 4,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 5580
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "b0e0aaef-b77d-4808-948b-c81da0e07b3a",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.005420275342346193,
+    "RAM": "13892KB",
+    "RAMPct": 0.08392266,
+    "Threads": 9,
+    "User": "NT AUTHORITY\\NETWORK SERVICE",
+    "PID": 836
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "c03d9190-8f47-4a73-9c20-c2614eb1bf1a",
+   "type": "",
+   "Data": {
+    "Name": "smss.exe",
+    "CPU": 0.00011956303044633696,
+    "RAM": "1296KB",
+    "RAMPct": 0.007829238,
+    "Threads": 2,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 840
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "5b526b3e-fe05-4a74-86a2-c72ab5eae595",
+   "type": "",
+   "Data": {
+    "Name": "lsass.exe",
+    "CPU": 0.0013251759162875674,
+    "RAM": "20548KB",
+    "RAMPct": 0.12413208,
+    "Threads": 7,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 872
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "a6e556ab-2093-436c-af3b-c11502ccd2fa",
+   "type": "dlv.exe_container",
+   "Data": {
+    "Name": "dlv.exe (2)",
+    "CPU": 4.502180892441746,
+    "RAM": "45744KB",
+    "RAMPct": 0.27634308,
+    "Threads": 14,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 924
+   },
+   "children": [
+    {
+     "id": "5e21030f-00a2-451e-ba51-0c69fb23ce8f",
+     "type": "",
+     "Data": {
+      "Name": "conhost.exe",
+      "CPU": 0,
+      "RAM": "10568KB",
+      "RAMPct": 0.06384212,
+      "Threads": 3,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 10132
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "4592d098-eed6-4b2d-83c1-9e566ef88076",
+     "type": "",
+     "Data": {
+      "Name": "___go_build_github_com_ddkwork_taskmanagerDemo.exe",
+      "CPU": 36.26167538919511,
+      "RAM": "126468KB",
+      "RAMPct": 0.7640031,
+      "Threads": 20,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 8208
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "e93047d9-3f31-4a5f-9dde-7f0cface469d",
+   "type": "",
+   "Data": {
+    "Name": "vpnagent.exe",
+    "CPU": 0.0010761001342486007,
+    "RAM": "16904KB",
+    "RAMPct": 0.10211839,
+    "Threads": 8,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 976
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "18c7d2b9-4ecf-454b-bbee-52b01d0d828e",
+   "type": "",
+   "Data": {
+    "Name": "conhost.exe",
+    "CPU": 0.0075873811837739325,
+    "RAM": "47608KB",
+    "RAMPct": 0.28760365,
+    "Threads": 5,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 1096
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "713183bb-0a44-4407-8128-746ec1a99427",
+   "type": "winlogon.exe_container",
+   "Data": {
+    "Name": "winlogon.exe (2)",
+    "CPU": 0.000019927682449649422,
+    "RAM": "13096KB",
+    "RAMPct": 0.07911396,
+    "Threads": 3,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 1144
+   },
+   "children": [
+    {
+     "id": "e1b680bd-f92c-4a68-a274-9352472f529d",
+     "type": "",
+     "Data": {
+      "Name": "fontdrvhost.exe",
+      "CPU": 0.002022660034536151,
+      "RAM": "24580KB",
+      "RAMPct": 0.14848971,
+      "Threads": 5,
+      "User": "Font Driver Host\\UMFD-1",
+      "PID": 1188
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "a9c67f78-5db9-4282-9dd2-336c979f712b",
+     "type": "",
+     "Data": {
+      "Name": "dwm.exe",
+      "CPU": 0.3958536829758522,
+      "RAM": "339076KB",
+      "RAMPct": 2.0483847,
+      "Threads": 23,
+      "User": "Window Manager\\DWM-1",
+      "PID": 1484
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "d6275824-da6a-45b7-8d7d-af04f5d8a023",
+   "type": "",
+   "Data": {
+    "Name": "fontdrvhost.exe",
+    "CPU": 0.002022659990148224,
+    "RAM": "24580KB",
+    "RAMPct": 0.14848971,
+    "Threads": 5,
+    "User": "Font Driver Host\\UMFD-1",
+    "PID": 1188
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "e3af05ed-69db-486b-8a0e-e6e4d73dd7aa",
+   "type": "",
+   "Data": {
+    "Name": "ApplicationFrameHost.exe",
+    "CPU": 0.0001665261884662834,
+    "RAM": "52584KB",
+    "RAMPct": 0.31766406,
+    "Threads": 2,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 1256
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "69162cba-a11e-412c-b37a-8481a96fbcda",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.001285335962721313,
+    "RAM": "12668KB",
+    "RAMPct": 0.07652838,
+    "Threads": 29,
+    "User": "NT AUTHORITY\\NETWORK SERVICE",
+    "PID": 1272
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "da35fc9f-7161-49e6-84aa-5e65537c7b4f",
+   "type": "svchost.exe_container",
+   "Data": {
+    "Name": "svchost.exe (3)",
+    "CPU": 0.007144076530098584,
+    "RAM": "75324KB",
+    "RAMPct": 0.4550382,
+    "Threads": 56,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 1280
+   },
+   "children": [
+    {
+     "id": "591cb84f-a1be-4c60-b65d-a506439a031f",
+     "type": "",
+     "Data": {
+      "Name": "sihost.exe",
+      "CPU": 0.0009665109551793959,
+      "RAM": "30548KB",
+      "RAMPct": 0.18454286,
+      "Threads": 11,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 5396
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "698f8dd4-4f96-462a-8371-9437156c5f03",
+     "type": "",
+     "Data": {
+      "Name": "taskhostw.exe",
+      "CPU": 0.0010163319429748816,
+      "RAM": "17428KB",
+      "RAMPct": 0.105283916,
+      "Threads": 7,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 5680
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "99c378f5-5dcc-4fc4-a03b-fafb3fff5e87",
+     "type": "",
+     "Data": {
+      "Name": "MicrosoftEdgeUpdate.exe",
+      "CPU": 0.00012921904659347202,
+      "RAM": "4708KB",
+      "RAMPct": 0.028441397,
+      "Threads": 4,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 4504
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "1e12a5fa-2342-425d-b262-b109de878113",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.0821220041974558,
+    "RAM": "42052KB",
+    "RAMPct": 0.25403944,
+    "Threads": 18,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 1328
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "80f4f385-e2a6-4545-ad2f-ca202e043534",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.000029891532093783106,
+    "RAM": "10744KB",
+    "RAMPct": 0.064905345,
+    "Threads": 8,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 1336
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "be3e0aa3-1ddf-4c35-a922-cc7636074dc2",
+   "type": "svchost.exe_container",
+   "Data": {
+    "Name": "svchost.exe (1)",
+    "CPU": 0.0004184832755933754,
+    "RAM": "21668KB",
+    "RAMPct": 0.13089809,
+    "Threads": 12,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 1400
+   },
+   "children": [
+    {
+     "id": "ef5de843-22ce-4afd-a387-9c729191425d",
+     "type": "",
+     "Data": {
+      "Name": "wlanext.exe",
+      "CPU": 0.000019927818740236467,
+      "RAM": "6884KB",
+      "RAMPct": 0.041586783,
+      "Threads": 2,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3256
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "92c5c867-2966-4f5a-830e-1780adb78113",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.0024212140936336023,
+    "RAM": "11804KB",
+    "RAMPct": 0.07130889,
+    "Threads": 8,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 1420
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "e79b3d6d-1bba-4314-8ea4-a7f7d1e3e067",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.0024212141565984227,
+    "RAM": "18808KB",
+    "RAMPct": 0.1136206,
+    "Threads": 11,
+    "User": "NT AUTHORITY\\NETWORK SERVICE",
+    "PID": 1456
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "e8a5338c-10d8-4668-b86f-e02fa265e51e",
+   "type": "",
+   "Data": {
+    "Name": "dwm.exe",
+    "CPU": 0.395853569434441,
+    "RAM": "339076KB",
+    "RAMPct": 2.0483847,
+    "Threads": 23,
+    "User": "Window Manager\\DWM-1",
+    "PID": 1484
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "dd14aa03-da56-4287-bfcf-e6029d62eeec",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.0014846128176729688,
+    "RAM": "27796KB",
+    "RAMPct": 0.16791782,
+    "Threads": 11,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 1520
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "7a04c552-ccc3-4955-a67b-5a87b50f3be8",
+   "type": "svchost.exe_container",
+   "Data": {
+    "Name": "svchost.exe (2)",
+    "CPU": 0.0158923314153599,
+    "RAM": "33592KB",
+    "RAMPct": 0.20293191,
+    "Threads": 36,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 1528
+   },
+   "children": [
+    {
+     "id": "b1032bcf-ffc2-40ac-a9fa-5b4c0f5940a2",
+     "type": "",
+     "Data": {
+      "Name": "ctfmon.exe",
+      "CPU": 0.007602695009492851,
+      "RAM": "39708KB",
+      "RAMPct": 0.23987915,
+      "Threads": 11,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 7164
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "1c53b30b-c36d-4a45-9ed7-bf68aa0cf86e",
+     "type": "",
+     "Data": {
+      "Name": "TabTip.exe",
+      "CPU": 0.0016241668427041762,
+      "RAM": "18444KB",
+      "RAMPct": 0.11142165,
+      "Threads": 7,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 6244
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "a106d079-4e5d-47e3-877c-a96d6d6314b1",
+   "type": "",
+   "Data": {
+    "Name": "IntelCpHDCPSvc.exe",
+    "CPU": 0,
+    "RAM": "5848KB",
+    "RAMPct": 0.035328228,
+    "Threads": 3,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 1680
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "0b659360-336c-468c-868d-6b48f848df38",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.000039855393164784716,
+    "RAM": "10900KB",
+    "RAMPct": 0.065847754,
+    "Threads": 2,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 1828
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "9f4e7077-7cb7-49c3-8e0d-378e5b7ca68e",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.00018931321456218256,
+    "RAM": "8880KB",
+    "RAMPct": 0.053644776,
+    "Threads": 2,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 2036
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "99817632-9193-4001-ac0e-469417f14c17",
+   "type": "",
+   "Data": {
+    "Name": "WUDFHost.exe",
+    "CPU": 0.00000996385572066664,
+    "RAM": "9348KB",
+    "RAMPct": 0.056472,
+    "Threads": 8,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 2060
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "9aa04b85-ba34-4063-9a6d-31977e99b680",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.005011820981060463,
+    "RAM": "10644KB",
+    "RAMPct": 0.06430124,
+    "Threads": 10,
+    "User": "NT AUTHORITY\\NETWORK SERVICE",
+    "PID": 2220
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "f987c5cb-9dda-44b9-9555-c6541788f99b",
+   "type": "igfxCUIServiceN.exe_container",
+   "Data": {
+    "Name": "igfxCUIServiceN.exe (1)",
+    "CPU": 0.000009963859875487758,
+    "RAM": "10192KB",
+    "RAMPct": 0.06157067,
+    "Threads": 2,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 2252
+   },
+   "children": [
+    {
+     "id": "86dd63d7-beea-41f1-892e-831d4695abc8",
+     "type": "",
+     "Data": {
+      "Name": "igfxEMN.exe",
+      "CPU": 0.0001195690877685911,
+      "RAM": "14956KB",
+      "RAMPct": 0.09035037,
+      "Threads": 3,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 6472
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "744db6ec-0df7-4199-9ea9-ffd560a67c25",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.0002092411113882389,
+    "RAM": "12156KB",
+    "RAMPct": 0.07343535,
+    "Threads": 1,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 2476
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "205b09b1-27d3-47ca-a4fd-6bd968a466c8",
+   "type": "",
+   "Data": {
+    "Name": "SGTool.exe",
+    "CPU": 0.001770759685741412,
+    "RAM": "37036KB",
+    "RAMPct": 0.22373737,
+    "Threads": 7,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 2524
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "7ee809a9-42aa-4189-87fc-e8b9500e3224",
+   "type": "",
+   "Data": {
+    "Name": "OpenConsole.exe",
+    "CPU": 0.00003392468813131437,
+    "RAM": "9648KB",
+    "RAMPct": 0.058284324,
+    "Threads": 5,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 2700
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "829a0a4b-21a2-41df-88bf-ec7810eb2680",
+   "type": "",
+   "Data": {
+    "Name": "WUDFHost.exe",
+    "CPU": 0.11348856660617154,
+    "RAM": "10324KB",
+    "RAMPct": 0.06236809,
+    "Threads": 7,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 2876
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "0328666a-b388-49a3-9c1d-84cc3a66c3c3",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.0010163155139629168,
+    "RAM": "13356KB",
+    "RAMPct": 0.08068464,
+    "Threads": 1,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 2884
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "448c45db-ffd9-4c45-87f1-b59cff29dfb2",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.000009963878411463779,
+    "RAM": "8292KB",
+    "RAMPct": 0.050092623,
+    "Threads": 5,
+    "User": "NT AUTHORITY\\NETWORK SERVICE",
+    "PID": 2936
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "39d3ec0e-9910-428b-9883-568445c62c26",
+   "type": "svchost.exe_container",
+   "Data": {
+    "Name": "svchost.exe (1)",
+    "CPU": 0.00025906085924911064,
+    "RAM": "13852KB",
+    "RAMPct": 0.08368102,
+    "Threads": 6,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 2964
+   },
+   "children": [
+    {
+     "id": "823babe8-0328-4722-a119-5a8bcf4ff90d",
+     "type": "",
+     "Data": {
+      "Name": "audiodg.exe",
+      "CPU": 0.042968778388450896,
+      "RAM": "49476KB",
+      "RAMPct": 0.2988884,
+      "Threads": 26,
+      "User": "NT AUTHORITY\\LOCAL SERVICE",
+      "PID": 8632
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "401c11d6-13c0-4227-a197-17451af7e39f",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.000019927761202902723,
+    "RAM": "8164KB",
+    "RAMPct": 0.049319364,
+    "Threads": 3,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 3020
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "79e75e98-a3a9-4d02-bbb4-ccebd706eaa0",
+   "type": "",
+   "Data": {
+    "Name": "WUDFHost.exe",
+    "CPU": 0.0455847883051014,
+    "RAM": "14764KB",
+    "RAMPct": 0.08919048,
+    "Threads": 11,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 3088
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "a8bb7e65-1350-454d-9bc0-aa1c99d6cbe0",
+   "type": "",
+   "Data": {
+    "Name": "msedge.exe",
+    "CPU": 0.00042227518025696626,
+    "RAM": "31316KB",
+    "RAMPct": 0.18918242,
+    "Threads": 18,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 3108
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "64b4c62c-e16c-4839-957b-29c911e298ca",
+   "type": "fsnotifier.exe_container",
+   "Data": {
+    "Name": "fsnotifier.exe (1)",
+    "CPU": 0.0017658303664200559,
+    "RAM": "3036KB",
+    "RAMPct": 0.018340714,
+    "Threads": 3,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 3136
+   },
+   "children": [
+    {
+     "id": "f81ef30c-b4db-49ff-813d-c50674d26ad7",
+     "type": "",
+     "Data": {
+      "Name": "conhost.exe",
+      "CPU": 0,
+      "RAM": "10556KB",
+      "RAMPct": 0.06376962,
+      "Threads": 2,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 9000
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "bc4801f1-a42d-4998-adc7-1e0463a52b90",
+   "type": "wlanext.exe_container",
+   "Data": {
+    "Name": "wlanext.exe (1)",
+    "CPU": 0.00001992780485800618,
+    "RAM": "6884KB",
+    "RAMPct": 0.041586783,
+    "Threads": 2,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3256
+   },
+   "children": [
+    {
+     "id": "d5e24cfe-4b8d-4f1a-a23d-c5753bd1dcfd",
+     "type": "",
+     "Data": {
+      "Name": "conhost.exe",
+      "CPU": 0.000009963902749416485,
+      "RAM": "9132KB",
+      "RAMPct": 0.055167127,
+      "Threads": 2,
+      "User": "NT AUTHORITY\\SYSTEM",
+      "PID": 3280
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "8997c7e1-1fc5-4e3a-8ab3-287efa14e662",
+   "type": "",
+   "Data": {
+    "Name": "conhost.exe",
+    "CPU": 0.000009963902567784506,
+    "RAM": "9132KB",
+    "RAMPct": 0.055167127,
+    "Threads": 2,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3280
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "ee7c88b6-4971-42ce-ac46-8cc23da9cac7",
+   "type": "",
+   "Data": {
+    "Name": "StartMenuExperienceHost.exe",
+    "CPU": 0,
+    "RAM": "1952KB",
+    "RAMPct": 0.011792185,
+    "Threads": 13,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 3292
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "942682a6-8f97-4ed9-a16e-c93d6bb78486",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.0007074375060460066,
+    "RAM": "24152KB",
+    "RAMPct": 0.14590412,
+    "Threads": 10,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 3432
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "1d43ac13-4bdd-4902-8cf3-ee7953831653",
+   "type": "",
+   "Data": {
+    "Name": "RuntimeBroker.exe",
+    "CPU": 0.0008074475629432013,
+    "RAM": "33068KB",
+    "RAMPct": 0.19976638,
+    "Threads": 15,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 3560
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "3b322c89-9e08-4bb6-aeba-1b809c1f2613",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.000009963916105364107,
+    "RAM": "11636KB",
+    "RAMPct": 0.070293985,
+    "Threads": 5,
+    "User": "NT AUTHORITY\\NETWORK SERVICE",
+    "PID": 3756
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "92ce741f-a8fc-4ef3-aca6-7c7ee0291de2",
+   "type": "",
+   "Data": {
+    "Name": "SessionService.exe",
+    "CPU": 0,
+    "RAM": "3480KB",
+    "RAMPct": 0.021022953,
+    "Threads": 2,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3804
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "c78e9e44-2c4a-45aa-811a-afdc8441adde",
+   "type": "",
+   "Data": {
+    "Name": "IpOverUsbSvc.exe",
+    "CPU": 0.00017935049565257386,
+    "RAM": "17752KB",
+    "RAMPct": 0.10724122,
+    "Threads": 6,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3828
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "ace605df-96ce-4825-ac11-15fc1f4a7e6f",
+   "type": "",
+   "Data": {
+    "Name": "OneApp.IGCC.WinService.exe",
+    "CPU": 0.001434803932566546,
+    "RAM": "56016KB",
+    "RAMPct": 0.33839706,
+    "Threads": 7,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3848
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "890a7bfd-ced3-49f4-9aa7-1563fb94d208",
+   "type": "",
+   "Data": {
+    "Name": "SenaryAudioApp.Svc.exe",
+    "CPU": 0.0020625306007461385,
+    "RAM": "66260KB",
+    "RAMPct": 0.40028185,
+    "Threads": 10,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3856
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "dd16727c-6c84-42f8-832d-3aac84edf09f",
+   "type": "",
+   "Data": {
+    "Name": "TbtP2pShortcutService.exe",
+    "CPU": 0,
+    "RAM": "5880KB",
+    "RAMPct": 0.03552154,
+    "Threads": 3,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3868
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "6023f023-c25a-46e4-8cf0-ce309ae707aa",
+   "type": "",
+   "Data": {
+    "Name": "sqlwriter.exe",
+    "CPU": 0,
+    "RAM": "8412KB",
+    "RAMPct": 0.050817553,
+    "Threads": 2,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3876
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "f648a3b4-0025-4019-a210-b6bfa93a9122",
+   "type": "esif_uf.exe_container",
+   "Data": {
+    "Name": "esif_uf.exe (1)",
+    "CPU": 0,
+    "RAM": "6860KB",
+    "RAMPct": 0.0414418,
+    "Threads": 3,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3884
+   },
+   "children": [
+    {
+     "id": "980b4463-e078-4a39-ab61-f8a8ded556ef",
+     "type": "",
+     "Data": {
+      "Name": "dptf_helper.exe",
+      "CPU": 0.09441061671755052,
+      "RAM": "6284KB",
+      "RAMPct": 0.037962135,
+      "Threads": 4,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 6988
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "9a63ab4a-77de-46d4-a187-b68be636a23c",
+   "type": "HWVEAudioService.exe_container",
+   "Data": {
+    "Name": "HWVEAudioService.exe (1)",
+    "CPU": 0.0005878710047338119,
+    "RAM": "10156KB",
+    "RAMPct": 0.06135319,
+    "Threads": 9,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3900
+   },
+   "children": [
+    {
+     "id": "5c134a41-fbc6-491d-bab6-50fe041cc42e",
+     "type": "",
+     "Data": {
+      "Name": "HWVEAudioSession.exe",
+      "CPU": 0.00004982027100168177,
+      "RAM": "10296KB",
+      "RAMPct": 0.062198944,
+      "Threads": 4,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 5384
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "c637ddaf-2523-4116-8a3a-8b383163b5ed",
+   "type": "",
+   "Data": {
+    "Name": "IntelAudioService.exe",
+    "CPU": 0.000597834903156757,
+    "RAM": "60988KB",
+    "RAMPct": 0.3684333,
+    "Threads": 8,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3908
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "b87004f0-480b-47fc-8a29-f18a7bb9943e",
+   "type": "",
+   "Data": {
+    "Name": "WMIRegistrationService.exe",
+    "CPU": 0.000009963915362930483,
+    "RAM": "14156KB",
+    "RAMPct": 0.0855175,
+    "Threads": 2,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3944
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "0f576c55-117d-4c63-bfa1-15d1bac01595",
+   "type": "",
+   "Data": {
+    "Name": "SeewoFreezeUpdateAssist.exe",
+    "CPU": 0.02676307652524387,
+    "RAM": "24408KB",
+    "RAMPct": 0.14745064,
+    "Threads": 23,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 3964
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "8ae9acbb-d442-4945-a161-218f8101afbd",
+   "type": "",
+   "Data": {
+    "Name": "SeewoGuard.exe",
+    "CPU": 1.005189688448305,
+    "RAM": "13892KB",
+    "RAMPct": 0.08392266,
+    "Threads": 9,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 4004
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "984c8bad-6f06-4412-b307-27d16583cfc4",
+   "type": "",
+   "Data": {
+    "Name": "jhi_service.exe",
+    "CPU": 0,
+    "RAM": "6588KB",
+    "RAMPct": 0.039798625,
+    "Threads": 2,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 4172
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "7dc7dac9-a45d-41ba-bcb1-ffc7c4debfcc",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.00005981095880006626,
+    "RAM": "15636KB",
+    "RAMPct": 0.094458304,
+    "Threads": 1,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 4276
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "04e35b2c-5dbe-45f2-a038-505b3b4f3366",
+   "type": "",
+   "Data": {
+    "Name": "msedge.exe",
+    "CPU": 0.003209291805006041,
+    "RAM": "56612KB",
+    "RAMPct": 0.34199753,
+    "Threads": 20,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 4320
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "5d1a6386-6e39-4aa1-abf6-a8e6e4196e8b",
+   "type": "",
+   "Data": {
+    "Name": "MicrosoftEdgeUpdate.exe",
+    "CPU": 0.00012921828384229947,
+    "RAM": "4708KB",
+    "RAMPct": 0.028441397,
+    "Threads": 4,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 4504
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "b19a21b2-d11b-480d-b3f2-08498d59c193",
+   "type": "",
+   "Data": {
+    "Name": "IDMan.exe",
+    "CPU": 0.00020924975171636434,
+    "RAM": "31616KB",
+    "RAMPct": 0.19099474,
+    "Threads": 3,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5040
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "9a560c73-71e8-46cc-9f81-a27b2cca678d",
+   "type": "",
+   "Data": {
+    "Name": "RuntimeBroker.exe",
+    "CPU": 0.000029712603519735817,
+    "RAM": "7924KB",
+    "RAMPct": 0.047869503,
+    "Threads": 1,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5180
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "322a24a2-0b3e-488d-a467-0b2cbb6bfab8",
+   "type": "",
+   "Data": {
+    "Name": "Notepad3.exe",
+    "CPU": 0.008271092294363127,
+    "RAM": "53444KB",
+    "RAMPct": 0.3228594,
+    "Threads": 3,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5212
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "d2e4288b-a97f-4915-800b-67ef3af443e8",
+   "type": "explorer.exe_container",
+   "Data": {
+    "Name": "explorer.exe (6)",
+    "CPU": 0.33005898269369144,
+    "RAM": "479916KB",
+    "RAMPct": 2.8992102,
+    "Threads": 103,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5320
+   },
+   "children": [
+    {
+     "id": "b90708eb-1223-469d-b9db-9dba8a2a951a",
+     "type": "",
+     "Data": {
+      "Name": "IDMan.exe",
+      "CPU": 0.00020924973099945598,
+      "RAM": "31616KB",
+      "RAMPct": 0.19099474,
+      "Threads": 3,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 5040
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "e6e8f2b1-4450-4b7c-8204-134a62e95dd1",
+     "type": "",
+     "Data": {
+      "Name": "Everything.exe",
+      "CPU": 0.03398364306838946,
+      "RAM": "209576KB",
+      "RAMPct": 1.266065,
+      "Threads": 16,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 6772
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "d82ea549-fa94-4344-a18a-5dccc67ca94a",
+     "type": "",
+     "Data": {
+      "Name": "SGTool.exe",
+      "CPU": 0.001770757415245797,
+      "RAM": "37036KB",
+      "RAMPct": 0.22373737,
+      "Threads": 7,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 2524
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "95f0d521-16b9-4e7d-9c5b-f9da81de2fd8",
+     "type": "",
+     "Data": {
+      "Name": "Ghips.exe",
+      "CPU": 0.000381233508237294,
+      "RAM": "41280KB",
+      "RAMPct": 0.24937572,
+      "Threads": 5,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 8056
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "1c6dd6a3-ed34-451c-9c31-dc40afcceb09",
+     "type": "",
+     "Data": {
+      "Name": "Notepad3.exe",
+      "CPU": 0.008271090800031508,
+      "RAM": "53444KB",
+      "RAMPct": 0.3228594,
+      "Threads": 3,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 5212
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "88e15aec-4fea-4555-b353-76f6396fcad6",
+     "type": "",
+     "Data": {
+      "Name": "goland64.exe",
+      "CPU": 14.828627833547122,
+      "RAM": "5480588KB",
+      "RAMPct": 33.10866,
+      "Threads": 255,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 9488
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "63f8a8b3-2ec9-4d6a-a91b-896232729cf0",
+   "type": "",
+   "Data": {
+    "Name": "conhost.exe",
+    "CPU": 0.000009964050669932561,
+    "RAM": "11892KB",
+    "RAMPct": 0.0718405,
+    "Threads": 3,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5376
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "79452dc6-bca4-40d3-ac64-0dd9891a36c6",
+   "type": "HWVEAudioSession.exe_container",
+   "Data": {
+    "Name": "HWVEAudioSession.exe (1)",
+    "CPU": 0.00004982024951320418,
+    "RAM": "10296KB",
+    "RAMPct": 0.062198944,
+    "Threads": 4,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5384
+   },
+   "children": [
+    {
+     "id": "d6211dea-5235-4c7a-b7f4-d9f1685fdbbf",
+     "type": "",
+     "Data": {
+      "Name": "conhost.exe",
+      "CPU": 0.00000996405011982919,
+      "RAM": "11892KB",
+      "RAMPct": 0.0718405,
+      "Threads": 3,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 5376
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "c73940a7-d529-42cb-9e66-4e0c767415b5",
+   "type": "",
+   "Data": {
+    "Name": "sihost.exe",
+    "CPU": 0.0009665093324699791,
+    "RAM": "30548KB",
+    "RAMPct": 0.18454286,
+    "Threads": 11,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5396
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "6d413199-1f21-40a6-9624-6be9f0502694",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0,
+    "RAM": "8180KB",
+    "RAMPct": 0.04941602,
+    "Threads": 1,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5436
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "f8902d91-327e-4df1-aa8b-6e8c5fc73741",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.00012953221572626993,
+    "RAM": "9028KB",
+    "RAMPct": 0.054538857,
+    "Threads": 1,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5464
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "5b5153d3-175c-46f5-b32c-1ad5eccdef81",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.0022120116639175453,
+    "RAM": "38796KB",
+    "RAMPct": 0.23436968,
+    "Threads": 9,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5476
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "25d2ac72-4967-444b-9d83-f62f80577559",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.000029892050292038025,
+    "RAM": "9136KB",
+    "RAMPct": 0.055191293,
+    "Threads": 3,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5492
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "a468219c-4a3e-497f-b1f5-7f6f31bdcb0d",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0,
+    "RAM": "7584KB",
+    "RAMPct": 0.04581554,
+    "Threads": 2,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5572
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "8bfe1229-111a-4b0b-b973-4d163cb5de75",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.0015816853491668914,
+    "RAM": "10732KB",
+    "RAMPct": 0.06483285,
+    "Threads": 4,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 5580
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "51cc5cb1-b020-41f4-8f69-9ca324b2540d",
+   "type": "",
+   "Data": {
+    "Name": "SeewoProxy.exe",
+    "CPU": 0.04066398973672776,
+    "RAM": "54600KB",
+    "RAMPct": 0.32984287,
+    "Threads": 32,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 5676
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "5be468cb-df56-481c-be56-c29e45a340ff",
+   "type": "",
+   "Data": {
+    "Name": "taskhostw.exe",
+    "CPU": 0.0010163300358466594,
+    "RAM": "17428KB",
+    "RAMPct": 0.105283916,
+    "Threads": 7,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5680
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "bdab0f24-c1fa-47c8-a8bb-bb3879c59817",
+   "type": "",
+   "Data": {
+    "Name": "WmiPrvSE.exe",
+    "CPU": 0,
+    "RAM": "8824KB",
+    "RAMPct": 0.053306475,
+    "Threads": 6,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 5748
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "09375e06-b656-427b-b18c-490703a3e654",
+   "type": "full-line-inference.exe_container",
+   "Data": {
+    "Name": "full-line-inference.exe (1)",
+    "CPU": 0.3089602322219907,
+    "RAM": "433344KB",
+    "RAMPct": 2.617865,
+    "Threads": 8,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5784
+   },
+   "children": [
+    {
+     "id": "711c8643-1bff-4db4-9600-d788d771ac67",
+     "type": "",
+     "Data": {
+      "Name": "conhost.exe",
+      "CPU": 0,
+      "RAM": "10568KB",
+      "RAMPct": 0.06384212,
+      "Threads": 2,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 10028
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "28447e40-4719-4f81-a525-8c14e6f2e425",
+   "type": "",
+   "Data": {
+    "Name": "PresentationFontCache.exe",
+    "CPU": 0.0002690285686634622,
+    "RAM": "23680KB",
+    "RAMPct": 0.14305274,
+    "Threads": 4,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 5800
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "b5ee7201-7f71-402e-bb51-ebb0a4cbcf06",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.02679332225902989,
+    "RAM": "17232KB",
+    "RAMPct": 0.10409986,
+    "Threads": 16,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 5836
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "7bd04a49-b427-4a34-bdc0-95d9e0c74904",
+   "type": "",
+   "Data": {
+    "Name": "Reqable.exe",
+    "CPU": 0.07539841052942432,
+    "RAM": "337760KB",
+    "RAMPct": 2.0404346,
+    "Threads": 48,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 5956
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "1255c469-04d5-4faf-b9b4-7607d55ef28a",
+   "type": "",
+   "Data": {
+    "Name": "WUDFHost.exe",
+    "CPU": 0.07318580518694612,
+    "RAM": "27876KB",
+    "RAMPct": 0.1684011,
+    "Threads": 22,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 6012
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "6d62370a-b8d7-44d0-8cbf-40b39679a737",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.0002392454404017243,
+    "RAM": "21872KB",
+    "RAMPct": 0.13213046,
+    "Threads": 12,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 6184
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "97993f81-1ce0-4e5d-a571-dc6319896c84",
+   "type": "",
+   "Data": {
+    "Name": "TabTip.exe",
+    "CPU": 0.0016241638423300803,
+    "RAM": "18444KB",
+    "RAMPct": 0.11142165,
+    "Threads": 7,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 6244
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "98507ea7-620b-46c6-96a3-df1edda56723",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.0010761189537608006,
+    "RAM": "20456KB",
+    "RAMPct": 0.1235763,
+    "Threads": 4,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 6320
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "d7c86f81-7051-4b9e-9de8-305e96e84abc",
+   "type": "",
+   "Data": {
+    "Name": "igfxEMN.exe",
+    "CPU": 0.00011956888270603296,
+    "RAM": "14956KB",
+    "RAMPct": 0.09035037,
+    "Threads": 3,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 6472
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "b96a02c9-84ef-47e4-af13-cd52151ba708",
+   "type": "",
+   "Data": {
+    "Name": "msedge.exe",
+    "CPU": 0,
+    "RAM": "8584KB",
+    "RAMPct": 0.05185662,
+    "Threads": 7,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 6732
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "84ad72e9-3a91-4920-a139-960994e74873",
+   "type": "Everything.exe_container",
+   "Data": {
+    "Name": "Everything.exe (1)",
+    "CPU": 0.033983618410422196,
+    "RAM": "209576KB",
+    "RAMPct": 1.266065,
+    "Threads": 16,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 6772
+   },
+   "children": [
+    {
+     "id": "00cc20f4-e86d-4b46-bbac-5519845ac321",
+     "type": "",
+     "Data": {
+      "Name": "vlc.exe",
+      "CPU": 0.0229868391123356,
+      "RAM": "45956KB",
+      "RAMPct": 0.2776238,
+      "Threads": 8,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 11132
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "0b5a5936-86a5-47cb-8cf9-4d5d41caed8e",
+   "type": "",
+   "Data": {
+    "Name": "dptf_helper.exe",
+    "CPU": 0.09441051253319577,
+    "RAM": "6284KB",
+    "RAMPct": 0.037962135,
+    "Threads": 4,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 6988
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "4216405e-2a99-4473-a5f8-43671eb4a232",
+   "type": "",
+   "Data": {
+    "Name": "ctfmon.exe",
+    "CPU": 0.007602679567199129,
+    "RAM": "39708KB",
+    "RAMPct": 0.23987915,
+    "Threads": 11,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 7164
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "52d0ef38-4a0e-45f9-b07d-9c82e6b2a0ed",
+   "type": "",
+   "Data": {
+    "Name": "msedge.exe",
+    "CPU": 0.000126682039087135,
+    "RAM": "26792KB",
+    "RAMPct": 0.16185257,
+    "Threads": 15,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 7180
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "e7b7c535-b218-40dd-8367-a0d649a0bf51",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0,
+    "RAM": "9360KB",
+    "RAMPct": 0.056544494,
+    "Threads": 2,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 7304
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "c69e27e0-901a-47c9-bf9f-8e53fcadeb75",
+   "type": "",
+   "Data": {
+    "Name": "SenaryAudioApp.exe",
+    "CPU": 0.0006676106169046831,
+    "RAM": "67544KB",
+    "RAMPct": 0.4080386,
+    "Threads": 13,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 7348
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "9ac8a11f-a1d9-41f9-a0f3-03fd7229d0f8",
+   "type": "",
+   "Data": {
+    "Name": "csc_ui.exe",
+    "CPU": 0.009356514465332151,
+    "RAM": "217864KB",
+    "RAMPct": 1.3161335,
+    "Threads": 10,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 7376
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "6b36c2e1-59c8-497e-9ac8-5039a9638644",
+   "type": "",
+   "Data": {
+    "Name": "svchost.exe",
+    "CPU": 0.00005978635516524907,
+    "RAM": "25152KB",
+    "RAMPct": 0.1519452,
+    "Threads": 5,
+    "User": "NT AUTHORITY\\SYSTEM",
+    "PID": 7572
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "aa93e7bd-ea2a-429a-adb3-349fb03db460",
+   "type": "",
+   "Data": {
+    "Name": "TextInputHost.exe",
+    "CPU": 0.00513187173280863,
+    "RAM": "90368KB",
+    "RAMPct": 0.5459202,
+    "Threads": 29,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 8012
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "4e4b35a0-0e53-457a-a510-0862bde3c2cb",
+   "type": "",
+   "Data": {
+    "Name": "Ghips.exe",
+    "CPU": 0.00038123290022745927,
+    "RAM": "41280KB",
+    "RAMPct": 0.24937572,
+    "Threads": 5,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 8056
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "c48616d4-2528-4ad1-9bb7-e850bb81a467",
+   "type": "",
+   "Data": {
+    "Name": "RuntimeBroker.exe",
+    "CPU": 0,
+    "RAM": "12644KB",
+    "RAMPct": 0.0763834,
+    "Threads": 1,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 8160
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "446a6532-2b2f-4a1d-b61f-1f75e5b68b34",
+   "type": "",
+   "Data": {
+    "Name": "___go_build_github_com_ddkwork_taskmanagerDemo.exe",
+    "CPU": 34.50514450638291,
+    "RAM": "126644KB",
+    "RAMPct": 0.7650663,
+    "Threads": 21,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 8208
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "d2a669df-2834-477a-a3e1-3e3bfe07cd0a",
+   "type": "",
+   "Data": {
+    "Name": "msedge.exe",
+    "CPU": 0.00042227190670611833,
+    "RAM": "66528KB",
+    "RAMPct": 0.40190086,
+    "Threads": 21,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 8488
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "724e1ceb-a3eb-43b8-9a5a-18e30e7f2976",
+   "type": "",
+   "Data": {
+    "Name": "audiodg.exe",
+    "CPU": 0.04296861497419734,
+    "RAM": "49476KB",
+    "RAMPct": 0.2988884,
+    "Threads": 26,
+    "User": "NT AUTHORITY\\LOCAL SERVICE",
+    "PID": 8632
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "de87f372-3c54-48ca-a205-923dbff9bdd8",
+   "type": "",
+   "Data": {
+    "Name": "goland64.exe",
+    "CPU": 0.00047728881959835086,
+    "RAM": "19892KB",
+    "RAMPct": 0.12016913,
+    "Threads": 10,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 8836
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "8730fa22-be9d-4fdc-84a1-a9d7763a1fdf",
+   "type": "",
+   "Data": {
+    "Name": "msedge.exe",
+    "CPU": 0.0001266816067393387,
+    "RAM": "16864KB",
+    "RAMPct": 0.10187674,
+    "Threads": 9,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 8932
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "46bbb283-47da-4038-8498-85bc6c4b5e18",
+   "type": "",
+   "Data": {
+    "Name": "dllhost.exe",
+    "CPU": 0,
+    "RAM": "9096KB",
+    "RAMPct": 0.05494965,
+    "Threads": 2,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 8992
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "b4b10b9f-505a-487e-a18e-345a11fe4cfb",
+   "type": "",
+   "Data": {
+    "Name": "conhost.exe",
+    "CPU": 0,
+    "RAM": "10556KB",
+    "RAMPct": 0.06376962,
+    "Threads": 2,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 9000
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "f2b83801-1563-4152-9253-0e383d85f308",
+   "type": "",
+   "Data": {
+    "Name": "ShellExperienceHost.exe",
+    "CPU": 0.002442274176808498,
+    "RAM": "80756KB",
+    "RAMPct": 0.48785332,
+    "Threads": 40,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 9020
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "bb603cf1-12b0-4b31-8d8f-5945d62c93e6",
+   "type": "",
+   "Data": {
+    "Name": "SystemSettingsBroker.exe",
+    "CPU": 0.0004585503025614328,
+    "RAM": "35288KB",
+    "RAMPct": 0.21317758,
+    "Threads": 25,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 9092
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "bd51dd42-30fd-42fd-803b-e47c44653fb4",
+   "type": "goland64.exe_container",
+   "Data": {
+    "Name": "goland64.exe (7)",
+    "CPU": 14.828585961701005,
+    "RAM": "5480588KB",
+    "RAMPct": 33.10866,
+    "Threads": 255,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 9488
+   },
+   "children": [
+    {
+     "id": "057c6088-bd4b-4ed1-9ed0-8e3d04564c50",
+     "type": "",
+     "Data": {
+      "Name": "fsnotifier.exe",
+      "CPU": 0.0017658218139443734,
+      "RAM": "3036KB",
+      "RAMPct": 0.018340714,
+      "Threads": 3,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 3136
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "682180a0-64ff-4366-8866-1987b1238108",
+     "type": "",
+     "Data": {
+      "Name": "goland64.exe",
+      "CPU": 0.0007159293227453399,
+      "RAM": "49196KB",
+      "RAMPct": 0.2971969,
+      "Threads": 12,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 11228
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "ca864aa6-47bc-4746-8b92-7db5710948c1",
+     "type": "",
+     "Data": {
+      "Name": "goland64.exe",
+      "CPU": 0.00047728857138256895,
+      "RAM": "19892KB",
+      "RAMPct": 0.12016913,
+      "Threads": 10,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 8836
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "b5340a57-bfa4-4095-be41-ab5b1c356ae6",
+     "type": "",
+     "Data": {
+      "Name": "full-line-inference.exe",
+      "CPU": 0.3089595640787064,
+      "RAM": "433344KB",
+      "RAMPct": 2.617865,
+      "Threads": 8,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 5784
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "13c01df2-d728-4005-9f2d-4167c4c563dd",
+     "type": "",
+     "Data": {
+      "Name": "OpenConsole.exe",
+      "CPU": 0.00003392441981288108,
+      "RAM": "9648KB",
+      "RAMPct": 0.058284324,
+      "Threads": 5,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 2700
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "f8df3aec-66f7-410c-82d5-4e1194574b18",
+     "type": "",
+     "Data": {
+      "Name": "cmd.exe",
+      "CPU": 0,
+      "RAM": "4644KB",
+      "RAMPct": 0.028054768,
+      "Threads": 1,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 9856
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "df1f8489-92dd-47a9-9c67-50f2272108af",
+     "type": "",
+     "Data": {
+      "Name": "dlv.exe",
+      "CPU": 3.3257309783752462,
+      "RAM": "45744KB",
+      "RAMPct": 0.27634308,
+      "Threads": 14,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 924
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "95d1e234-102a-4ae6-8e4c-9d2ab6652799",
+   "type": "",
+   "Data": {
+    "Name": "mitmdump.exe",
+    "CPU": 0.029753603020636676,
+    "RAM": "98608KB",
+    "RAMPct": 0.59569865,
+    "Threads": 12,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 9712
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "adc65647-f0c0-4341-88c9-4ad3694fc825",
+   "type": "",
+   "Data": {
+    "Name": "cmd.exe",
+    "CPU": 0,
+    "RAM": "4644KB",
+    "RAMPct": 0.028054768,
+    "Threads": 1,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 9856
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "0f276246-2798-4127-8d2b-c9e31162b996",
+   "type": "",
+   "Data": {
+    "Name": "conhost.exe",
+    "CPU": 0,
+    "RAM": "10568KB",
+    "RAMPct": 0.06384212,
+    "Threads": 2,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 10028
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "091901cd-f670-4490-89b6-390067e01310",
+   "type": "",
+   "Data": {
+    "Name": "conhost.exe",
+    "CPU": 0,
+    "RAM": "10568KB",
+    "RAMPct": 0.06384212,
+    "Threads": 3,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 10132
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "1827652a-4cd7-4f3b-8c0c-95ff6e4582d0",
+   "type": "mitmdump.exe_container",
+   "Data": {
+    "Name": "mitmdump.exe (2)",
+    "CPU": 0.00007944868112110018,
+    "RAM": "5360KB",
+    "RAMPct": 0.03238018,
+    "Threads": 1,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 10276
+   },
+   "children": [
+    {
+     "id": "328d2cd8-c170-4087-a334-069565cfa82a",
+     "type": "",
+     "Data": {
+      "Name": "conhost.exe",
+      "CPU": 0.007587348903472126,
+      "RAM": "47608KB",
+      "RAMPct": 0.28760365,
+      "Threads": 5,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 1096
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "78c653f3-a132-4af1-8070-305ac75b55d9",
+     "type": "",
+     "Data": {
+      "Name": "mitmdump.exe",
+      "CPU": 0.02975359699353728,
+      "RAM": "98608KB",
+      "RAMPct": 0.59569865,
+      "Threads": 12,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 9712
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "1fce1fcd-12ea-4563-85dd-1c9f89e6e0cc",
+   "type": "msedge.exe_container",
+   "Data": {
+    "Name": "msedge.exe (6)",
+    "CPU": 0.014610490578981053,
+    "RAM": "129968KB",
+    "RAMPct": 0.7851469,
+    "Threads": 48,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 10732
+   },
+   "children": [
+    {
+     "id": "0226fa18-f5c2-41cb-be41-70300f7683b2",
+     "type": "",
+     "Data": {
+      "Name": "msedge.exe",
+      "CPU": 0,
+      "RAM": "8584KB",
+      "RAMPct": 0.05185662,
+      "Threads": 7,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 6732
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "cd60f45a-e971-42e3-b2c3-d82e47c3fbc5",
+     "type": "",
+     "Data": {
+      "Name": "msedge.exe",
+      "CPU": 0.00042227091027173677,
+      "RAM": "66528KB",
+      "RAMPct": 0.40190086,
+      "Threads": 21,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 8488
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "f02cc91b-600a-4571-b8b8-456114c61a90",
+     "type": "",
+     "Data": {
+      "Name": "msedge.exe",
+      "CPU": 0.0004222709141347036,
+      "RAM": "31316KB",
+      "RAMPct": 0.18918242,
+      "Threads": 18,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 3108
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "20506288-814e-4b29-80ac-492146429ecc",
+     "type": "",
+     "Data": {
+      "Name": "msedge.exe",
+      "CPU": 0.00012668133052038275,
+      "RAM": "16864KB",
+      "RAMPct": 0.10187674,
+      "Threads": 9,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 8932
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "58479d6e-788d-451b-9ea1-7296f995f198",
+     "type": "",
+     "Data": {
+      "Name": "msedge.exe",
+      "CPU": 0.00012668159004336206,
+      "RAM": "26792KB",
+      "RAMPct": 0.16185257,
+      "Threads": 15,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 7180
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    },
+    {
+     "id": "fb28fa75-e890-4be4-961b-5e2d3d8c8080",
+     "type": "",
+     "Data": {
+      "Name": "msedge.exe",
+      "CPU": 0.0032092671462507754,
+      "RAM": "56612KB",
+      "RAMPct": 0.34199753,
+      "Threads": 20,
+      "User": "DESKTOP-4BAHPJH\\Admin",
+      "PID": 4320
+     },
+     "Columns": null,
+     "PreventUserColumnResize": false
+    }
+   ],
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "7499c334-d030-4df0-a523-68e1709c59cc",
+   "type": "",
+   "Data": {
+    "Name": "vlc.exe",
+    "CPU": 0.02298679568001066,
+    "RAM": "45956KB",
+    "RAMPct": 0.2776238,
+    "Threads": 8,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 11132
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  },
+  {
+   "id": "a68053be-0dc1-4673-b3e3-03ac45d3344f",
+   "type": "",
+   "Data": {
+    "Name": "goland64.exe",
+    "CPU": 0.000715928623066904,
+    "RAM": "49196KB",
+    "RAMPct": 0.2971969,
+    "Threads": 12,
+    "User": "DESKTOP-4BAHPJH\\Admin",
+    "PID": 11228
+   },
+   "Columns": null,
+   "PreventUserColumnResize": false
+  }
+ ],
+ "Columns": [
+  {
+   "ID": 0,
+   "Current": 405,
+   "Minimum": 45.283203,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "Name"
+  },
+  {
+   "ID": 1,
+   "Current": 77,
+   "Minimum": 35.02246,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "CPU"
+  },
+  {
+   "ID": 2,
+   "Current": 68,
+   "Minimum": 37.975586,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "RAM"
+  },
+  {
+   "ID": 3,
+   "Current": 77,
+   "Minimum": 58.708984,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "RAMPct"
+  },
+  {
+   "ID": 4,
+   "Current": 58.948242,
+   "Minimum": 58.948242,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "Threads"
+  },
+  {
+   "ID": 5,
+   "Current": 235,
+   "Minimum": 36.45117,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "User"
+  },
+  {
+   "ID": 6,
+   "Current": 48,
+   "Minimum": 29.820312,
+   "Maximum": 10000,
+   "AutoMinimum": 0,
+   "AutoMaximum": 0,
+   "Cell": "PID"
+  }
+ ],
+ "PreventUserColumnResize": false
+}

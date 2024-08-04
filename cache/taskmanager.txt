@@ -1,240 +1,252 @@
   ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
   │Name                                                                │CPU       │RAM      │RAMPct    │Threads │User                         
   ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
-  │root (123)                                                          │0%        │0 B      │0%        │0       │                             
+  │root (129)                                                          │0%        │0 B      │0%        │0       │                             
   ├───System Idle Process (2)                                          │0%        │0 B      │0%        │16      │                             
   │   ├───System Idle Process                                          │0%        │0 B      │0%        │16      │                             
-  │   └───System                                                       │0.239%    │160.0 KB │0.000967% │206     │                             
-  ├───System (2)                                                       │0.239%    │160.0 KB │0.000967% │206     │                             
-  │   ├───                                                             │0.000219% │59.6 MB  │0.368%    │4       │NT AUTHORITY\SYSTEM          
-  │   └───smss.exe                                                     │0.00012%  │1.3 MB   │0.00783%  │2       │NT AUTHORITY\SYSTEM          
-  ├───                                                                 │0.000219% │59.6 MB  │0.368%    │4       │NT AUTHORITY\SYSTEM          
-  ├───svchost.exe                                                      │0.00282%  │12.1 MB  │0.075%    │7       │NT AUTHORITY\LOCAL SERVICE   
-  ├───svchost.exe (10)                                                 │0.0018%   │30.6 MB  │0.189%    │11      │NT AUTHORITY\SYSTEM          
-  │   ├───TextInputHost.exe                                            │0.00513%  │88.2 MB  │0.546%    │29      │DESKTOP-4BAHPJH\Admin        
+  │   └───System                                                       │0.29%     │160.0 KB │0.000967% │208     │                             
+  ├───System (2)                                                       │0.29%     │160.0 KB │0.000967% │208     │                             
+  │   ├───                                                             │0.000317% │37.3 MB  │0.231%    │4       │NT AUTHORITY\SYSTEM          
+  │   └───smss.exe                                                     │9.51e-05% │1.3 MB   │0.00783%  │2       │NT AUTHORITY\SYSTEM          
+  ├───                                                                 │0.000317% │37.3 MB  │0.231%    │4       │NT AUTHORITY\SYSTEM          
+  ├───svchost.exe                                                      │0.00327%  │13.0 MB  │0.0803%   │7       │NT AUTHORITY\LOCAL SERVICE   
+  ├───svchost.exe (11)                                                 │0.00226%  │30.8 MB  │0.19%     │11      │NT AUTHORITY\SYSTEM          
+  │   ├───TextInputHost.exe                                            │0.00602%  │62.5 MB  │0.386%    │27      │DESKTOP-4BAHPJH\Admin        
   │   ├───RuntimeBroker.exe                                            │0%        │12.3 MB  │0.0764%   │1       │DESKTOP-4BAHPJH\Admin        
-  │   ├───ShellExperienceHost.exe                                      │0.00244%  │78.9 MB  │0.488%    │40      │DESKTOP-4BAHPJH\Admin        
-  │   ├───RuntimeBroker.exe                                            │0.000807% │32.3 MB  │0.2%      │15      │DESKTOP-4BAHPJH\Admin        
-  │   ├───SystemSettingsBroker.exe                                     │0.000459% │34.5 MB  │0.213%    │25      │DESKTOP-4BAHPJH\Admin        
-  │   ├───ApplicationFrameHost.exe                                     │0.000167% │51.4 MB  │0.318%    │2       │DESKTOP-4BAHPJH\Admin        
-  │   ├───StartMenuExperienceHost.exe                                  │0%        │1.9 MB   │0.0118%   │13      │DESKTOP-4BAHPJH\Admin        
-  │   ├───RuntimeBroker.exe                                            │2.97e-05% │7.7 MB   │0.0479%   │1       │DESKTOP-4BAHPJH\Admin        
-  │   ├───dllhost.exe                                                  │0%        │8.9 MB   │0.0549%   │2       │DESKTOP-4BAHPJH\Admin        
-  │   └───WmiPrvSE.exe                                                 │0%        │8.6 MB   │0.0533%   │6       │NT AUTHORITY\SYSTEM          
+  │   ├───ShellExperienceHost.exe                                      │0.00257%  │53.5 MB  │0.331%    │39      │DESKTOP-4BAHPJH\Admin        
+  │   ├───RuntimeBroker.exe                                            │0.000888% │32.9 MB  │0.204%    │15      │DESKTOP-4BAHPJH\Admin        
+  │   ├───SystemSettingsBroker.exe                                     │0.000579% │35.4 MB  │0.219%    │15      │DESKTOP-4BAHPJH\Admin        
+  │   ├───ApplicationFrameHost.exe                                     │0.000103% │35.0 MB  │0.216%    │1       │DESKTOP-4BAHPJH\Admin        
+  │   ├───StartMenuExperienceHost.exe                                  │0%        │1.9 MB   │0.0115%   │13      │DESKTOP-4BAHPJH\Admin        
+  │   ├───RuntimeBroker.exe                                            │3.36e-05% │7.8 MB   │0.048%    │2       │DESKTOP-4BAHPJH\Admin        
+  │   ├───dllhost.exe                                                  │2.04e-05% │9.0 MB   │0.0558%   │2       │DESKTOP-4BAHPJH\Admin        
+  │   ├───WmiPrvSE.exe                                                 │0.00981%  │10.1 MB  │0.0625%   │6       │NT AUTHORITY\SYSTEM          
+  │   └───RuntimeBroker.exe                                            │0%        │9.4 MB   │0.0581%   │2       │DESKTOP-4BAHPJH\Admin        
   ├───csrss.exe                                                        │0.000159% │5.9 MB   │0.0364%   │12      │NT AUTHORITY\SYSTEM          
   ├───fontdrvhost.exe                                                  │0%        │3.7 MB   │0.023%    │5       │Font Driver Host\UMFD-0      
-  ├───csrss.exe                                                        │0.0685%   │7.7 MB   │0.0474%   │16      │NT AUTHORITY\SYSTEM          
+  ├───csrss.exe                                                        │0.0796%   │7.7 MB   │0.0478%   │16      │NT AUTHORITY\SYSTEM          
   ├───wininit.exe (3)                                                  │0%        │7.3 MB   │0.045%    │2       │NT AUTHORITY\SYSTEM          
-  │   ├───services.exe                                                 │0.000917% │9.8 MB   │0.0606%   │5       │NT AUTHORITY\SYSTEM          
-  │   ├───lsass.exe                                                    │0.00133%  │20.1 MB  │0.124%    │7       │NT AUTHORITY\SYSTEM          
+  │   ├───services.exe                                                 │0.00103%  │9.8 MB   │0.0609%   │5       │NT AUTHORITY\SYSTEM          
+  │   ├───lsass.exe                                                    │0.00151%  │20.1 MB  │0.124%    │7       │NT AUTHORITY\SYSTEM          
   │   └───fontdrvhost.exe                                              │0%        │3.7 MB   │0.023%    │5       │Font Driver Host\UMFD-0      
-  ├───services.exe (56)                                                │0.000917% │9.8 MB   │0.0606%   │5       │NT AUTHORITY\SYSTEM          
-  │   ├───svchost.exe                                                  │0.0018%   │30.6 MB  │0.189%    │11      │NT AUTHORITY\SYSTEM          
-  │   ├───svchost.exe                                                  │0.00542%  │13.6 MB  │0.0839%   │9       │NT AUTHORITY\NETWORK SERVICE 
-  │   ├───svchost.exe                                                  │0.00129%  │12.4 MB  │0.0765%   │29      │NT AUTHORITY\NETWORK SERVICE 
-  │   ├───svchost.exe                                                  │0.00714%  │73.6 MB  │0.455%    │56      │NT AUTHORITY\SYSTEM          
-  │   ├───svchost.exe                                                  │2.99e-05% │10.5 MB  │0.0649%   │8       │NT AUTHORITY\LOCAL SERVICE   
-  │   ├───svchost.exe                                                  │0.0821%   │41.1 MB  │0.254%    │18      │NT AUTHORITY\LOCAL SERVICE   
-  │   ├───svchost.exe                                                  │0.00242%  │11.5 MB  │0.0713%   │8       │NT AUTHORITY\LOCAL SERVICE   
-  │   ├───svchost.exe                                                  │0.00242%  │18.4 MB  │0.114%    │11      │NT AUTHORITY\NETWORK SERVICE 
-  │   ├───svchost.exe                                                  │0.00148%  │27.1 MB  │0.168%    │11      │NT AUTHORITY\LOCAL SERVICE   
-  │   ├───svchost.exe                                                  │0.0159%   │32.8 MB  │0.203%    │36      │NT AUTHORITY\SYSTEM          
+  ├───services.exe (56)                                                │0.00103%  │9.8 MB   │0.0609%   │5       │NT AUTHORITY\SYSTEM          
+  │   ├───svchost.exe                                                  │0.00226%  │30.8 MB  │0.19%     │11      │NT AUTHORITY\SYSTEM          
+  │   ├───svchost.exe                                                  │0.00747%  │14.3 MB  │0.0886%   │8       │NT AUTHORITY\NETWORK SERVICE 
+  │   ├───svchost.exe                                                  │0.00143%  │12.3 MB  │0.0762%   │29      │NT AUTHORITY\NETWORK SERVICE 
+  │   ├───svchost.exe                                                  │0.00851%  │74.4 MB  │0.46%     │60      │NT AUTHORITY\SYSTEM          
+  │   ├───svchost.exe                                                  │3.96e-05% │10.5 MB  │0.0649%   │8       │NT AUTHORITY\LOCAL SERVICE   
+  │   ├───svchost.exe                                                  │0.0999%   │41.2 MB  │0.255%    │18      │NT AUTHORITY\LOCAL SERVICE   
+  │   ├───svchost.exe                                                  │0.00193%  │11.6 MB  │0.0715%   │6       │NT AUTHORITY\LOCAL SERVICE   
+  │   ├───svchost.exe                                                  │0.00239%  │19.0 MB  │0.117%    │13      │NT AUTHORITY\NETWORK SERVICE 
+  │   ├───svchost.exe                                                  │0.00202%  │27.1 MB  │0.167%    │11      │NT AUTHORITY\LOCAL SERVICE   
+  │   ├───svchost.exe                                                  │0.0163%   │33.7 MB  │0.208%    │36      │NT AUTHORITY\SYSTEM          
   │   ├───IntelCpHDCPSvc.exe                                           │0%        │5.7 MB   │0.0353%   │3       │NT AUTHORITY\SYSTEM          
-  │   ├───svchost.exe                                                  │3.99e-05% │10.6 MB  │0.0658%   │2       │NT AUTHORITY\SYSTEM          
-  │   ├───svchost.exe                                                  │0.000189% │8.7 MB   │0.0536%   │2       │NT AUTHORITY\LOCAL SERVICE   
-  │   ├───WUDFHost.exe                                                 │9.96e-06% │9.1 MB   │0.0565%   │8       │NT AUTHORITY\LOCAL SERVICE   
-  │   ├───svchost.exe                                                  │0.00501%  │10.4 MB  │0.0643%   │10      │NT AUTHORITY\NETWORK SERVICE 
-  │   ├───igfxCUIServiceN.exe                                          │9.96e-06% │10.0 MB  │0.0616%   │2       │NT AUTHORITY\SYSTEM          
-  │   ├───svchost.exe                                                  │0.000209% │11.9 MB  │0.0734%   │1       │NT AUTHORITY\SYSTEM          
-  │   ├───WUDFHost.exe                                                 │0.113%    │10.1 MB  │0.0624%   │7       │NT AUTHORITY\LOCAL SERVICE   
-  │   ├───svchost.exe                                                  │0.00102%  │13.0 MB  │0.0807%   │1       │NT AUTHORITY\SYSTEM          
-  │   ├───svchost.exe                                                  │9.96e-06% │8.1 MB   │0.0501%   │5       │NT AUTHORITY\NETWORK SERVICE 
-  │   ├───svchost.exe                                                  │0.000259% │13.5 MB  │0.0837%   │6       │NT AUTHORITY\LOCAL SERVICE   
-  │   ├───svchost.exe                                                  │1.99e-05% │8.0 MB   │0.0493%   │3       │NT AUTHORITY\LOCAL SERVICE   
-  │   ├───vpnagent.exe                                                 │0.00108%  │16.5 MB  │0.102%    │8       │NT AUTHORITY\SYSTEM          
-  │   ├───svchost.exe                                                  │0.000418% │21.2 MB  │0.131%    │12      │NT AUTHORITY\SYSTEM          
-  │   ├───WUDFHost.exe                                                 │0.0456%   │14.4 MB  │0.0892%   │11      │NT AUTHORITY\LOCAL SERVICE   
-  │   ├───svchost.exe                                                  │0.000707% │23.6 MB  │0.146%    │10      │NT AUTHORITY\LOCAL SERVICE   
-  │   ├───svchost.exe                                                  │9.96e-06% │11.4 MB  │0.0703%   │5       │NT AUTHORITY\NETWORK SERVICE 
+  │   ├───svchost.exe                                                  │3.17e-05% │10.7 MB  │0.0659%   │2       │NT AUTHORITY\SYSTEM          
+  │   ├───svchost.exe                                                  │0.000174% │8.8 MB   │0.0546%   │2       │NT AUTHORITY\LOCAL SERVICE   
+  │   ├───WUDFHost.exe                                                 │7.93e-06% │9.1 MB   │0.0565%   │8       │NT AUTHORITY\LOCAL SERVICE   
+  │   ├───svchost.exe                                                  │0.00812%  │10.5 MB  │0.0648%   │10      │NT AUTHORITY\NETWORK SERVICE 
+  │   ├───igfxCUIServiceN.exe                                          │1.59e-05% │10.0 MB  │0.0619%   │2       │NT AUTHORITY\SYSTEM          
+  │   ├───svchost.exe                                                  │0.000214% │11.9 MB  │0.0734%   │1       │NT AUTHORITY\SYSTEM          
+  │   ├───WUDFHost.exe                                                 │0.129%    │10.1 MB  │0.0624%   │7       │NT AUTHORITY\LOCAL SERVICE   
+  │   ├───svchost.exe                                                  │0.00128%  │12.9 MB  │0.0801%   │4       │NT AUTHORITY\SYSTEM          
+  │   ├───svchost.exe                                                  │2.38e-05% │8.1 MB   │0.0502%   │6       │NT AUTHORITY\NETWORK SERVICE 
+  │   ├───svchost.exe                                                  │0.000285% │13.6 MB  │0.0841%   │8       │NT AUTHORITY\LOCAL SERVICE   
+  │   ├───svchost.exe                                                  │2.38e-05% │8.0 MB   │0.0493%   │3       │NT AUTHORITY\LOCAL SERVICE   
+  │   ├───vpnagent.exe                                                 │0.000911% │16.4 MB  │0.101%    │8       │NT AUTHORITY\SYSTEM          
+  │   ├───svchost.exe                                                  │0.000452% │21.0 MB  │0.13%     │11      │NT AUTHORITY\SYSTEM          
+  │   ├───WUDFHost.exe                                                 │0.0525%   │14.4 MB  │0.0892%   │10      │NT AUTHORITY\LOCAL SERVICE   
+  │   ├───svchost.exe                                                  │0.000753% │23.2 MB  │0.143%    │10      │NT AUTHORITY\LOCAL SERVICE   
+  │   ├───svchost.exe                                                  │1.59e-05% │11.4 MB  │0.0705%   │5       │NT AUTHORITY\NETWORK SERVICE 
   │   ├───SessionService.exe                                           │0%        │3.4 MB   │0.021%    │2       │NT AUTHORITY\SYSTEM          
-  │   ├───IpOverUsbSvc.exe                                             │0.000179% │17.3 MB  │0.107%    │6       │NT AUTHORITY\SYSTEM          
-  │   ├───OneApp.IGCC.WinService.exe                                   │0.00143%  │54.7 MB  │0.338%    │7       │NT AUTHORITY\SYSTEM          
-  │   ├───SenaryAudioApp.Svc.exe                                       │0.00206%  │64.7 MB  │0.4%      │10      │NT AUTHORITY\SYSTEM          
+  │   ├───IpOverUsbSvc.exe                                             │0.000159% │17.4 MB  │0.108%    │6       │NT AUTHORITY\SYSTEM          
+  │   ├───OneApp.IGCC.WinService.exe                                   │0.00126%  │35.4 MB  │0.219%    │9       │NT AUTHORITY\SYSTEM          
+  │   ├───SenaryAudioApp.Svc.exe                                       │0.00191%  │50.8 MB  │0.314%    │11      │NT AUTHORITY\SYSTEM          
   │   ├───TbtP2pShortcutService.exe                                    │0%        │5.7 MB   │0.0355%   │3       │NT AUTHORITY\SYSTEM          
   │   ├───sqlwriter.exe                                                │0%        │8.2 MB   │0.0508%   │2       │NT AUTHORITY\SYSTEM          
-  │   ├───esif_uf.exe                                                  │0%        │6.7 MB   │0.0414%   │3       │NT AUTHORITY\SYSTEM          
-  │   ├───HWVEAudioService.exe                                         │0.000588% │9.9 MB   │0.0614%   │9       │NT AUTHORITY\SYSTEM          
-  │   ├───IntelAudioService.exe                                        │0.000598% │59.6 MB  │0.368%    │8       │NT AUTHORITY\SYSTEM          
-  │   ├───WMIRegistrationService.exe                                   │9.96e-06% │13.8 MB  │0.0855%   │2       │NT AUTHORITY\SYSTEM          
-  │   ├───SeewoFreezeUpdateAssist.exe                                  │0.0268%   │23.8 MB  │0.147%    │23      │NT AUTHORITY\SYSTEM          
-  │   ├───SeewoGuard.exe                                               │1.01%     │13.6 MB  │0.0839%   │9       │NT AUTHORITY\SYSTEM          
+  │   ├───esif_uf.exe                                                  │0%        │6.8 MB   │0.0421%   │3       │NT AUTHORITY\SYSTEM          
+  │   ├───HWVEAudioService.exe                                         │0.000745% │9.9 MB   │0.0614%   │9       │NT AUTHORITY\SYSTEM          
+  │   ├───IntelAudioService.exe                                        │0.000491% │59.6 MB  │0.369%    │8       │NT AUTHORITY\SYSTEM          
+  │   ├───WMIRegistrationService.exe                                   │7.93e-06% │13.8 MB  │0.0855%   │2       │NT AUTHORITY\SYSTEM          
+  │   ├───SeewoFreezeUpdateAssist.exe                                  │0.0307%   │23.8 MB  │0.147%    │23      │NT AUTHORITY\SYSTEM          
+  │   ├───SeewoGuard.exe                                               │0.945%    │13.5 MB  │0.0837%   │9       │NT AUTHORITY\SYSTEM          
   │   ├───jhi_service.exe                                              │0%        │6.4 MB   │0.0398%   │2       │NT AUTHORITY\SYSTEM          
-  │   ├───svchost.exe                                                  │0.00282%  │12.1 MB  │0.075%    │7       │NT AUTHORITY\LOCAL SERVICE   
-  │   ├───svchost.exe                                                  │0.00013%  │8.8 MB   │0.0545%   │1       │DESKTOP-4BAHPJH\Admin        
-  │   ├───svchost.exe                                                  │0.00221%  │37.9 MB  │0.234%    │9       │DESKTOP-4BAHPJH\Admin        
-  │   ├───svchost.exe                                                  │2.99e-05% │8.9 MB   │0.0552%   │3       │DESKTOP-4BAHPJH\Admin        
-  │   ├───svchost.exe                                                  │0%        │7.4 MB   │0.0458%   │2       │DESKTOP-4BAHPJH\Admin        
-  │   ├───PresentationFontCache.exe                                    │0.000269% │23.1 MB  │0.143%    │4       │NT AUTHORITY\LOCAL SERVICE   
-  │   ├───WUDFHost.exe                                                 │0.0732%   │27.2 MB  │0.168%    │22      │NT AUTHORITY\LOCAL SERVICE   
-  │   ├───svchost.exe                                                  │0.0268%   │16.8 MB  │0.104%    │16      │NT AUTHORITY\LOCAL SERVICE   
-  │   ├───svchost.exe                                                  │0.00108%  │20.0 MB  │0.124%    │4       │DESKTOP-4BAHPJH\Admin        
-  │   ├───SeewoProxy.exe                                               │0.0407%   │53.3 MB  │0.33%     │32      │NT AUTHORITY\SYSTEM          
-  │   ├───svchost.exe                                                  │5.98e-05% │24.6 MB  │0.152%    │5       │NT AUTHORITY\SYSTEM          
-  │   ├───svchost.exe                                                  │5.98e-05% │15.3 MB  │0.0945%   │1       │DESKTOP-4BAHPJH\Admin        
-  │   ├───svchost.exe                                                  │0.000239% │21.4 MB  │0.132%    │12      │NT AUTHORITY\SYSTEM          
-  │   ├───svchost.exe                                                  │0%        │9.1 MB   │0.0565%   │2       │DESKTOP-4BAHPJH\Admin        
-  │   ├───svchost.exe                                                  │0%        │8.0 MB   │0.0494%   │1       │DESKTOP-4BAHPJH\Admin        
-  │   └───svchost.exe                                                  │0.00158%  │10.5 MB  │0.0648%   │4       │NT AUTHORITY\SYSTEM          
-  ├───svchost.exe                                                      │0.00542%  │13.6 MB  │0.0839%   │9       │NT AUTHORITY\NETWORK SERVICE 
-  ├───smss.exe                                                         │0.00012%  │1.3 MB   │0.00783%  │2       │NT AUTHORITY\SYSTEM          
-  ├───lsass.exe                                                        │0.00133%  │20.1 MB  │0.124%    │7       │NT AUTHORITY\SYSTEM          
-  ├───dlv.exe (2)                                                      │4.5%      │44.7 MB  │0.276%    │14      │DESKTOP-4BAHPJH\Admin        
-  │   ├───conhost.exe                                                  │0%        │10.3 MB  │0.0638%   │3       │DESKTOP-4BAHPJH\Admin        
-  │   └───___go_build_github_com_ddkwork_taskmanagerDemo.exe           │36.3%     │123.5 MB │0.764%    │20      │DESKTOP-4BAHPJH\Admin        
-  ├───vpnagent.exe                                                     │0.00108%  │16.5 MB  │0.102%    │8       │NT AUTHORITY\SYSTEM          
-  ├───conhost.exe                                                      │0.00759%  │46.5 MB  │0.288%    │5       │DESKTOP-4BAHPJH\Admin        
-  ├───winlogon.exe (2)                                                 │1.99e-05% │12.8 MB  │0.0791%   │3       │NT AUTHORITY\SYSTEM          
-  │   ├───fontdrvhost.exe                                              │0.00202%  │24.0 MB  │0.148%    │5       │Font Driver Host\UMFD-1      
-  │   └───dwm.exe                                                      │0.396%    │331.1 MB │2.05%     │23      │Window Manager\DWM-1         
-  ├───fontdrvhost.exe                                                  │0.00202%  │24.0 MB  │0.148%    │5       │Font Driver Host\UMFD-1      
-  ├───ApplicationFrameHost.exe                                         │0.000167% │51.4 MB  │0.318%    │2       │DESKTOP-4BAHPJH\Admin        
-  ├───svchost.exe                                                      │0.00129%  │12.4 MB  │0.0765%   │29      │NT AUTHORITY\NETWORK SERVICE 
-  ├───svchost.exe (3)                                                  │0.00714%  │73.6 MB  │0.455%    │56      │NT AUTHORITY\SYSTEM          
-  │   ├───sihost.exe                                                   │0.000967% │29.8 MB  │0.185%    │11      │DESKTOP-4BAHPJH\Admin        
-  │   ├───taskhostw.exe                                                │0.00102%  │17.0 MB  │0.105%    │7       │DESKTOP-4BAHPJH\Admin        
-  │   └───MicrosoftEdgeUpdate.exe                                      │0.000129% │4.6 MB   │0.0284%   │4       │NT AUTHORITY\SYSTEM          
-  ├───svchost.exe                                                      │0.0821%   │41.1 MB  │0.254%    │18      │NT AUTHORITY\LOCAL SERVICE   
-  ├───svchost.exe                                                      │2.99e-05% │10.5 MB  │0.0649%   │8       │NT AUTHORITY\LOCAL SERVICE   
-  ├───svchost.exe (1)                                                  │0.000418% │21.2 MB  │0.131%    │12      │NT AUTHORITY\SYSTEM          
-  │   └───wlanext.exe                                                  │1.99e-05% │6.7 MB   │0.0416%   │2       │NT AUTHORITY\SYSTEM          
-  ├───svchost.exe                                                      │0.00242%  │11.5 MB  │0.0713%   │8       │NT AUTHORITY\LOCAL SERVICE   
-  ├───svchost.exe                                                      │0.00242%  │18.4 MB  │0.114%    │11      │NT AUTHORITY\NETWORK SERVICE 
-  ├───dwm.exe                                                          │0.396%    │331.1 MB │2.05%     │23      │Window Manager\DWM-1         
-  ├───svchost.exe                                                      │0.00148%  │27.1 MB  │0.168%    │11      │NT AUTHORITY\LOCAL SERVICE   
-  ├───svchost.exe (2)                                                  │0.0159%   │32.8 MB  │0.203%    │36      │NT AUTHORITY\SYSTEM          
-  │   ├───ctfmon.exe                                                   │0.0076%   │38.8 MB  │0.24%     │11      │DESKTOP-4BAHPJH\Admin        
-  │   └───TabTip.exe                                                   │0.00162%  │18.0 MB  │0.111%    │7       │DESKTOP-4BAHPJH\Admin        
+  │   ├───svchost.exe                                                  │0.00327%  │13.0 MB  │0.0803%   │7       │NT AUTHORITY\LOCAL SERVICE   
+  │   ├───svchost.exe                                                  │0.000143% │8.8 MB   │0.0544%   │1       │DESKTOP-4BAHPJH\Admin        
+  │   ├───svchost.exe                                                  │0.00227%  │38.6 MB  │0.239%    │9       │DESKTOP-4BAHPJH\Admin        
+  │   ├───svchost.exe                                                  │3.17e-05% │8.9 MB   │0.0553%   │3       │DESKTOP-4BAHPJH\Admin        
+  │   ├───svchost.exe                                                  │0%        │7.4 MB   │0.0459%   │2       │DESKTOP-4BAHPJH\Admin        
+  │   ├───PresentationFontCache.exe                                    │0.000214% │23.1 MB  │0.143%    │4       │NT AUTHORITY\LOCAL SERVICE   
+  │   ├───WUDFHost.exe                                                 │0.0928%   │27.3 MB  │0.169%    │22      │NT AUTHORITY\LOCAL SERVICE   
+  │   ├───svchost.exe                                                  │0.0312%   │16.8 MB  │0.104%    │15      │NT AUTHORITY\LOCAL SERVICE   
+  │   ├───svchost.exe                                                  │0.00172%  │20.4 MB  │0.126%    │7       │DESKTOP-4BAHPJH\Admin        
+  │   ├───SeewoProxy.exe                                               │0.0458%   │61.0 MB  │0.377%    │32      │NT AUTHORITY\SYSTEM          
+  │   ├───svchost.exe                                                  │8.72e-05% │24.7 MB  │0.153%    │5       │NT AUTHORITY\SYSTEM          
+  │   ├───svchost.exe                                                  │9.51e-05% │15.9 MB  │0.0984%   │4       │DESKTOP-4BAHPJH\Admin        
+  │   ├───svchost.exe                                                  │0.000262% │21.4 MB  │0.132%    │12      │NT AUTHORITY\SYSTEM          
+  │   ├───svchost.exe                                                  │0%        │9.2 MB   │0.0569%   │4       │DESKTOP-4BAHPJH\Admin        
+  │   ├───svchost.exe                                                  │0%        │8.0 MB   │0.0495%   │2       │DESKTOP-4BAHPJH\Admin        
+  │   └───svchost.exe                                                  │0%        │10.6 MB  │0.0654%   │4       │NT AUTHORITY\SYSTEM          
+  ├───svchost.exe                                                      │0.00747%  │14.3 MB  │0.0886%   │8       │NT AUTHORITY\NETWORK SERVICE 
+  ├───smss.exe                                                         │9.51e-05% │1.3 MB   │0.00783%  │2       │NT AUTHORITY\SYSTEM          
+  ├───lsass.exe                                                        │0.00151%  │20.1 MB  │0.124%    │7       │NT AUTHORITY\SYSTEM          
+  ├───vpnagent.exe                                                     │0.000911% │16.4 MB  │0.101%    │8       │NT AUTHORITY\SYSTEM          
+  ├───conhost.exe                                                      │0.00637%  │45.3 MB  │0.28%     │5       │DESKTOP-4BAHPJH\Admin        
+  ├───winlogon.exe (2)                                                 │1.59e-05% │12.8 MB  │0.0791%   │3       │NT AUTHORITY\SYSTEM          
+  │   ├───fontdrvhost.exe                                              │0.00251%  │17.9 MB  │0.111%    │5       │Font Driver Host\UMFD-1      
+  │   └───dwm.exe                                                      │0.511%    │215.0 MB │1.33%     │25      │Window Manager\DWM-1         
+  ├───fontdrvhost.exe                                                  │0.00251%  │17.9 MB  │0.111%    │5       │Font Driver Host\UMFD-1      
+  ├───ApplicationFrameHost.exe                                         │0.000103% │35.0 MB  │0.216%    │1       │DESKTOP-4BAHPJH\Admin        
+  ├───svchost.exe                                                      │0.00143%  │12.3 MB  │0.0762%   │29      │NT AUTHORITY\NETWORK SERVICE 
+  ├───svchost.exe (2)                                                  │0.00851%  │74.4 MB  │0.46%     │60      │NT AUTHORITY\SYSTEM          
+  │   ├───sihost.exe                                                   │0.000951% │30.3 MB  │0.188%    │10      │DESKTOP-4BAHPJH\Admin        
+  │   └───taskhostw.exe                                                │0.00106%  │17.2 MB  │0.106%    │7       │DESKTOP-4BAHPJH\Admin        
+  ├───svchost.exe                                                      │0.0999%   │41.2 MB  │0.255%    │18      │NT AUTHORITY\LOCAL SERVICE   
+  ├───svchost.exe                                                      │3.96e-05% │10.5 MB  │0.0649%   │8       │NT AUTHORITY\LOCAL SERVICE   
+  ├───svchost.exe (1)                                                  │0.000452% │21.0 MB  │0.13%     │11      │NT AUTHORITY\SYSTEM          
+  │   └───wlanext.exe                                                  │2.38e-05% │6.7 MB   │0.0416%   │2       │NT AUTHORITY\SYSTEM          
+  ├───svchost.exe                                                      │0.00193%  │11.6 MB  │0.0715%   │6       │NT AUTHORITY\LOCAL SERVICE   
+  ├───svchost.exe                                                      │0.00239%  │19.0 MB  │0.117%    │13      │NT AUTHORITY\NETWORK SERVICE 
+  ├───dwm.exe                                                          │0.511%    │215.0 MB │1.33%     │25      │Window Manager\DWM-1         
+  ├───svchost.exe                                                      │0.00202%  │27.1 MB  │0.167%    │11      │NT AUTHORITY\LOCAL SERVICE   
+  ├───svchost.exe (2)                                                  │0.0163%   │33.7 MB  │0.208%    │36      │NT AUTHORITY\SYSTEM          
+  │   ├───ctfmon.exe                                                   │0.00843%  │42.0 MB  │0.26%     │13      │DESKTOP-4BAHPJH\Admin        
+  │   └───TabTip.exe                                                   │0.00181%  │18.1 MB  │0.112%    │7       │DESKTOP-4BAHPJH\Admin        
   ├───IntelCpHDCPSvc.exe                                               │0%        │5.7 MB   │0.0353%   │3       │NT AUTHORITY\SYSTEM          
-  ├───svchost.exe                                                      │3.99e-05% │10.6 MB  │0.0658%   │2       │NT AUTHORITY\SYSTEM          
-  ├───svchost.exe                                                      │0.000189% │8.7 MB   │0.0536%   │2       │NT AUTHORITY\LOCAL SERVICE   
-  ├───WUDFHost.exe                                                     │9.96e-06% │9.1 MB   │0.0565%   │8       │NT AUTHORITY\LOCAL SERVICE   
-  ├───svchost.exe                                                      │0.00501%  │10.4 MB  │0.0643%   │10      │NT AUTHORITY\NETWORK SERVICE 
-  ├───igfxCUIServiceN.exe (1)                                          │9.96e-06% │10.0 MB  │0.0616%   │2       │NT AUTHORITY\SYSTEM          
-  │   └───igfxEMN.exe                                                  │0.00012%  │14.6 MB  │0.0904%   │3       │DESKTOP-4BAHPJH\Admin        
-  ├───svchost.exe                                                      │0.000209% │11.9 MB  │0.0734%   │1       │NT AUTHORITY\SYSTEM          
-  ├───SGTool.exe                                                       │0.00177%  │36.2 MB  │0.224%    │7       │DESKTOP-4BAHPJH\Admin        
-  ├───OpenConsole.exe                                                  │3.39e-05% │9.4 MB   │0.0583%   │5       │DESKTOP-4BAHPJH\Admin        
-  ├───WUDFHost.exe                                                     │0.113%    │10.1 MB  │0.0624%   │7       │NT AUTHORITY\LOCAL SERVICE   
-  ├───svchost.exe                                                      │0.00102%  │13.0 MB  │0.0807%   │1       │NT AUTHORITY\SYSTEM          
-  ├───svchost.exe                                                      │9.96e-06% │8.1 MB   │0.0501%   │5       │NT AUTHORITY\NETWORK SERVICE 
-  ├───svchost.exe (1)                                                  │0.000259% │13.5 MB  │0.0837%   │6       │NT AUTHORITY\LOCAL SERVICE   
-  │   └───audiodg.exe                                                  │0.043%    │48.3 MB  │0.299%    │26      │NT AUTHORITY\LOCAL SERVICE   
-  ├───svchost.exe                                                      │1.99e-05% │8.0 MB   │0.0493%   │3       │NT AUTHORITY\LOCAL SERVICE   
-  ├───WUDFHost.exe                                                     │0.0456%   │14.4 MB  │0.0892%   │11      │NT AUTHORITY\LOCAL SERVICE   
-  ├───msedge.exe                                                       │0.000422% │30.6 MB  │0.189%    │18      │DESKTOP-4BAHPJH\Admin        
-  ├───fsnotifier.exe (1)                                               │0.00177%  │3.0 MB   │0.0183%   │3       │DESKTOP-4BAHPJH\Admin        
-  │   └───conhost.exe                                                  │0%        │10.3 MB  │0.0638%   │2       │DESKTOP-4BAHPJH\Admin        
-  ├───wlanext.exe (1)                                                  │1.99e-05% │6.7 MB   │0.0416%   │2       │NT AUTHORITY\SYSTEM          
-  │   └───conhost.exe                                                  │9.96e-06% │8.9 MB   │0.0552%   │2       │NT AUTHORITY\SYSTEM          
-  ├───conhost.exe                                                      │9.96e-06% │8.9 MB   │0.0552%   │2       │NT AUTHORITY\SYSTEM          
-  ├───StartMenuExperienceHost.exe                                      │0%        │1.9 MB   │0.0118%   │13      │DESKTOP-4BAHPJH\Admin        
-  ├───svchost.exe                                                      │0.000707% │23.6 MB  │0.146%    │10      │NT AUTHORITY\LOCAL SERVICE   
-  ├───RuntimeBroker.exe                                                │0.000807% │32.3 MB  │0.2%      │15      │DESKTOP-4BAHPJH\Admin        
-  ├───svchost.exe                                                      │9.96e-06% │11.4 MB  │0.0703%   │5       │NT AUTHORITY\NETWORK SERVICE 
+  ├───svchost.exe                                                      │3.17e-05% │10.7 MB  │0.0659%   │2       │NT AUTHORITY\SYSTEM          
+  ├───goland64.exe                                                     │0.000985% │72.7 MB  │0.45%     │16      │DESKTOP-4BAHPJH\Admin        
+  ├───svchost.exe                                                      │0.000174% │8.8 MB   │0.0546%   │2       │NT AUTHORITY\LOCAL SERVICE   
+  ├───WUDFHost.exe                                                     │7.93e-06% │9.1 MB   │0.0565%   │8       │NT AUTHORITY\LOCAL SERVICE   
+  ├───svchost.exe                                                      │0.00812%  │10.5 MB  │0.0648%   │10      │NT AUTHORITY\NETWORK SERVICE 
+  ├───igfxCUIServiceN.exe (1)                                          │1.59e-05% │10.0 MB  │0.0619%   │2       │NT AUTHORITY\SYSTEM          
+  │   └───igfxEMN.exe                                                  │0.000127% │14.7 MB  │0.0908%   │3       │DESKTOP-4BAHPJH\Admin        
+  ├───svchost.exe                                                      │0.000214% │11.9 MB  │0.0734%   │1       │NT AUTHORITY\SYSTEM          
+  ├───SGTool.exe                                                       │0.00197%  │36.4 MB  │0.225%    │7       │DESKTOP-4BAHPJH\Admin        
+  ├───OpenConsole.exe                                                  │1.81e-05% │9.4 MB   │0.0582%   │5       │DESKTOP-4BAHPJH\Admin        
+  ├───WUDFHost.exe                                                     │0.129%    │10.1 MB  │0.0624%   │7       │NT AUTHORITY\LOCAL SERVICE   
+  ├───svchost.exe                                                      │0.00128%  │12.9 MB  │0.0801%   │4       │NT AUTHORITY\SYSTEM          
+  ├───svchost.exe                                                      │2.38e-05% │8.1 MB   │0.0502%   │6       │NT AUTHORITY\NETWORK SERVICE 
+  ├───svchost.exe (1)                                                  │0.000285% │13.6 MB  │0.0841%   │8       │NT AUTHORITY\LOCAL SERVICE   
+  │   └───audiodg.exe                                                  │2.85%     │55.5 MB  │0.343%    │29      │NT AUTHORITY\LOCAL SERVICE   
+  ├───svchost.exe                                                      │2.38e-05% │8.0 MB   │0.0493%   │3       │NT AUTHORITY\LOCAL SERVICE   
+  ├───WUDFHost.exe                                                     │0.0525%   │14.4 MB  │0.0892%   │10      │NT AUTHORITY\LOCAL SERVICE   
+  ├───dlv.exe (2)                                                      │3.18%     │42.8 MB  │0.265%    │15      │DESKTOP-4BAHPJH\Admin        
+  │   ├───conhost.exe                                                  │0%        │10.3 MB  │0.0638%   │3       │DESKTOP-4BAHPJH\Admin        
+  │   └───___go_build_github_com_ddkwork_taskmanagerDemo.exe           │33%       │123.3 MB │0.763%    │20      │DESKTOP-4BAHPJH\Admin        
+  ├───fsnotifier.exe (1)                                               │0.00331%  │3.0 MB   │0.0183%   │3       │DESKTOP-4BAHPJH\Admin        
+  │   └───conhost.exe                                                  │0%        │10.3 MB  │0.0637%   │2       │DESKTOP-4BAHPJH\Admin        
+  ├───wlanext.exe (1)                                                  │2.38e-05% │6.7 MB   │0.0416%   │2       │NT AUTHORITY\SYSTEM          
+  │   └───conhost.exe                                                  │7.93e-06% │8.9 MB   │0.0552%   │2       │NT AUTHORITY\SYSTEM          
+  ├───conhost.exe                                                      │7.93e-06% │8.9 MB   │0.0552%   │2       │NT AUTHORITY\SYSTEM          
+  ├───StartMenuExperienceHost.exe                                      │0%        │1.9 MB   │0.0115%   │13      │DESKTOP-4BAHPJH\Admin        
+  ├───svchost.exe                                                      │0.000753% │23.2 MB  │0.143%    │10      │NT AUTHORITY\LOCAL SERVICE   
+  ├───RuntimeBroker.exe                                                │0.000888% │32.9 MB  │0.204%    │15      │DESKTOP-4BAHPJH\Admin        
+  ├───svchost.exe                                                      │1.59e-05% │11.4 MB  │0.0705%   │5       │NT AUTHORITY\NETWORK SERVICE 
   ├───SessionService.exe                                               │0%        │3.4 MB   │0.021%    │2       │NT AUTHORITY\SYSTEM          
-  ├───IpOverUsbSvc.exe                                                 │0.000179% │17.3 MB  │0.107%    │6       │NT AUTHORITY\SYSTEM          
-  ├───OneApp.IGCC.WinService.exe                                       │0.00143%  │54.7 MB  │0.338%    │7       │NT AUTHORITY\SYSTEM          
-  ├───SenaryAudioApp.Svc.exe                                           │0.00206%  │64.7 MB  │0.4%      │10      │NT AUTHORITY\SYSTEM          
+  ├───IpOverUsbSvc.exe                                                 │0.000159% │17.4 MB  │0.108%    │6       │NT AUTHORITY\SYSTEM          
+  ├───OneApp.IGCC.WinService.exe                                       │0.00126%  │35.4 MB  │0.219%    │9       │NT AUTHORITY\SYSTEM          
+  ├───SenaryAudioApp.Svc.exe                                           │0.00191%  │50.8 MB  │0.314%    │11      │NT AUTHORITY\SYSTEM          
   ├───TbtP2pShortcutService.exe                                        │0%        │5.7 MB   │0.0355%   │3       │NT AUTHORITY\SYSTEM          
   ├───sqlwriter.exe                                                    │0%        │8.2 MB   │0.0508%   │2       │NT AUTHORITY\SYSTEM          
-  ├───esif_uf.exe (1)                                                  │0%        │6.7 MB   │0.0414%   │3       │NT AUTHORITY\SYSTEM          
-  │   └───dptf_helper.exe                                              │0.0944%   │6.1 MB   │0.038%    │4       │DESKTOP-4BAHPJH\Admin        
-  ├───HWVEAudioService.exe (1)                                         │0.000588% │9.9 MB   │0.0614%   │9       │NT AUTHORITY\SYSTEM          
-  │   └───HWVEAudioSession.exe                                         │4.98e-05% │10.1 MB  │0.0622%   │4       │DESKTOP-4BAHPJH\Admin        
-  ├───IntelAudioService.exe                                            │0.000598% │59.6 MB  │0.368%    │8       │NT AUTHORITY\SYSTEM          
-  ├───WMIRegistrationService.exe                                       │9.96e-06% │13.8 MB  │0.0855%   │2       │NT AUTHORITY\SYSTEM          
-  ├───SeewoFreezeUpdateAssist.exe                                      │0.0268%   │23.8 MB  │0.147%    │23      │NT AUTHORITY\SYSTEM          
-  ├───SeewoGuard.exe                                                   │1.01%     │13.6 MB  │0.0839%   │9       │NT AUTHORITY\SYSTEM          
+  ├───esif_uf.exe (1)                                                  │0%        │6.8 MB   │0.0421%   │3       │NT AUTHORITY\SYSTEM          
+  │   └───dptf_helper.exe                                              │0.124%    │6.2 MB   │0.0383%   │4       │DESKTOP-4BAHPJH\Admin        
+  ├───HWVEAudioService.exe (1)                                         │0.000745% │9.9 MB   │0.0614%   │9       │NT AUTHORITY\SYSTEM          
+  │   └───HWVEAudioSession.exe                                         │9.51e-05% │10.2 MB  │0.0629%   │4       │DESKTOP-4BAHPJH\Admin        
+  ├───IntelAudioService.exe                                            │0.000491% │59.6 MB  │0.369%    │8       │NT AUTHORITY\SYSTEM          
+  ├───WMIRegistrationService.exe                                       │7.93e-06% │13.8 MB  │0.0855%   │2       │NT AUTHORITY\SYSTEM          
+  ├───SeewoFreezeUpdateAssist.exe                                      │0.0307%   │23.8 MB  │0.147%    │23      │NT AUTHORITY\SYSTEM          
+  ├───SeewoGuard.exe                                                   │0.945%    │13.5 MB  │0.0837%   │9       │NT AUTHORITY\SYSTEM          
+  ├───msedge.exe (9)                                                   │0.11%     │212.6 MB │1.32%     │52      │DESKTOP-4BAHPJH\Admin        
+  │   ├───msedge.exe                                                   │0%        │8.5 MB   │0.0524%   │7       │DESKTOP-4BAHPJH\Admin        
+  │   ├───msedge.exe                                                   │0.0097%   │219.9 MB │1.36%     │26      │DESKTOP-4BAHPJH\Admin        
+  │   ├───msedge.exe                                                   │0.00446%  │36.7 MB  │0.227%    │17      │DESKTOP-4BAHPJH\Admin        
+  │   ├───msedge.exe                                                   │0.000343% │18.5 MB  │0.115%    │10      │DESKTOP-4BAHPJH\Admin        
+  │   ├───msedge.exe                                                   │0.00609%  │106.7 MB │0.66%     │20      │DESKTOP-4BAHPJH\Admin        
+  │   ├───msedge.exe                                                   │0.0128%   │58.8 MB  │0.364%    │20      │DESKTOP-4BAHPJH\Admin        
+  │   ├───msedge.exe                                                   │0.00145%  │18.8 MB  │0.117%    │8       │DESKTOP-4BAHPJH\Admin        
+  │   ├───msedge.exe                                                   │0.00437%  │19.3 MB  │0.12%     │8       │DESKTOP-4BAHPJH\Admin        
+  │   └───msedge.exe                                                   │0%        │26.1 MB  │0.162%    │14      │DESKTOP-4BAHPJH\Admin        
   ├───jhi_service.exe                                                  │0%        │6.4 MB   │0.0398%   │2       │NT AUTHORITY\SYSTEM          
-  ├───svchost.exe                                                      │5.98e-05% │15.3 MB  │0.0945%   │1       │DESKTOP-4BAHPJH\Admin        
-  ├───msedge.exe                                                       │0.00321%  │55.3 MB  │0.342%    │20      │DESKTOP-4BAHPJH\Admin        
-  ├───MicrosoftEdgeUpdate.exe                                          │0.000129% │4.6 MB   │0.0284%   │4       │NT AUTHORITY\SYSTEM          
-  ├───IDMan.exe                                                        │0.000209% │30.9 MB  │0.191%    │3       │DESKTOP-4BAHPJH\Admin        
-  ├───RuntimeBroker.exe                                                │2.97e-05% │7.7 MB   │0.0479%   │1       │DESKTOP-4BAHPJH\Admin        
-  ├───Notepad3.exe                                                     │0.00827%  │52.2 MB  │0.323%    │3       │DESKTOP-4BAHPJH\Admin        
-  ├───explorer.exe (6)                                                 │0.33%     │468.7 MB │2.9%      │103     │DESKTOP-4BAHPJH\Admin        
-  │   ├───IDMan.exe                                                    │0.000209% │30.9 MB  │0.191%    │3       │DESKTOP-4BAHPJH\Admin        
-  │   ├───Everything.exe                                               │0.034%    │204.7 MB │1.27%     │16      │DESKTOP-4BAHPJH\Admin        
-  │   ├───SGTool.exe                                                   │0.00177%  │36.2 MB  │0.224%    │7       │DESKTOP-4BAHPJH\Admin        
-  │   ├───Ghips.exe                                                    │0.000381% │40.3 MB  │0.249%    │5       │DESKTOP-4BAHPJH\Admin        
-  │   ├───Notepad3.exe                                                 │0.00827%  │52.2 MB  │0.323%    │3       │DESKTOP-4BAHPJH\Admin        
-  │   └───goland64.exe                                                 │14.8%     │5.2 GB   │33.1%     │255     │DESKTOP-4BAHPJH\Admin        
-  ├───conhost.exe                                                      │9.96e-06% │11.6 MB  │0.0718%   │3       │DESKTOP-4BAHPJH\Admin        
-  ├───HWVEAudioSession.exe (1)                                         │4.98e-05% │10.1 MB  │0.0622%   │4       │DESKTOP-4BAHPJH\Admin        
-  │   └───conhost.exe                                                  │9.96e-06% │11.6 MB  │0.0718%   │3       │DESKTOP-4BAHPJH\Admin        
-  ├───sihost.exe                                                       │0.000967% │29.8 MB  │0.185%    │11      │DESKTOP-4BAHPJH\Admin        
-  ├───svchost.exe                                                      │0%        │8.0 MB   │0.0494%   │1       │DESKTOP-4BAHPJH\Admin        
-  ├───svchost.exe                                                      │0.00013%  │8.8 MB   │0.0545%   │1       │DESKTOP-4BAHPJH\Admin        
-  ├───svchost.exe                                                      │0.00221%  │37.9 MB  │0.234%    │9       │DESKTOP-4BAHPJH\Admin        
-  ├───svchost.exe                                                      │2.99e-05% │8.9 MB   │0.0552%   │3       │DESKTOP-4BAHPJH\Admin        
-  ├───svchost.exe                                                      │0%        │7.4 MB   │0.0458%   │2       │DESKTOP-4BAHPJH\Admin        
-  ├───svchost.exe                                                      │0.00158%  │10.5 MB  │0.0648%   │4       │NT AUTHORITY\SYSTEM          
-  ├───SeewoProxy.exe                                                   │0.0407%   │53.3 MB  │0.33%     │32      │NT AUTHORITY\SYSTEM          
-  ├───taskhostw.exe                                                    │0.00102%  │17.0 MB  │0.105%    │7       │DESKTOP-4BAHPJH\Admin        
-  ├───WmiPrvSE.exe                                                     │0%        │8.6 MB   │0.0533%   │6       │NT AUTHORITY\SYSTEM          
-  ├───full-line-inference.exe (1)                                      │0.309%    │423.2 MB │2.62%     │8       │DESKTOP-4BAHPJH\Admin        
+  ├───msedge.exe                                                       │0.0097%   │219.9 MB │1.36%     │26      │DESKTOP-4BAHPJH\Admin        
+  ├───svchost.exe                                                      │9.51e-05% │15.9 MB  │0.0984%   │4       │DESKTOP-4BAHPJH\Admin        
+  ├───IDMan.exe                                                        │0.000238% │31.1 MB  │0.192%    │3       │DESKTOP-4BAHPJH\Admin        
+  ├───RuntimeBroker.exe                                                │0%        │9.4 MB   │0.0581%   │2       │DESKTOP-4BAHPJH\Admin        
+  ├───RuntimeBroker.exe                                                │3.36e-05% │7.8 MB   │0.048%    │2       │DESKTOP-4BAHPJH\Admin        
+  ├───explorer.exe (5)                                                 │0.494%    │416.1 MB │2.57%     │95      │DESKTOP-4BAHPJH\Admin        
+  │   ├───IDMan.exe                                                    │0.000238% │31.1 MB  │0.192%    │3       │DESKTOP-4BAHPJH\Admin        
+  │   ├───Everything.exe                                               │0.0557%   │210.1 MB │1.3%      │16      │DESKTOP-4BAHPJH\Admin        
+  │   ├───SGTool.exe                                                   │0.00197%  │36.4 MB  │0.225%    │7       │DESKTOP-4BAHPJH\Admin        
+  │   ├───Ghips.exe                                                    │0.000395% │40.3 MB  │0.249%    │5       │DESKTOP-4BAHPJH\Admin        
+  │   └───goland64.exe                                                 │26.9%     │6.0 GB   │37.9%     │238     │DESKTOP-4BAHPJH\Admin        
+  ├───conhost.exe                                                      │7.93e-06% │11.6 MB  │0.072%    │3       │DESKTOP-4BAHPJH\Admin        
+  ├───HWVEAudioSession.exe (1)                                         │9.51e-05% │10.2 MB  │0.0629%   │4       │DESKTOP-4BAHPJH\Admin        
+  │   └───conhost.exe                                                  │7.93e-06% │11.6 MB  │0.072%    │3       │DESKTOP-4BAHPJH\Admin        
+  ├───sihost.exe                                                       │0.000951% │30.3 MB  │0.188%    │10      │DESKTOP-4BAHPJH\Admin        
+  ├───svchost.exe                                                      │0%        │8.0 MB   │0.0495%   │2       │DESKTOP-4BAHPJH\Admin        
+  ├───svchost.exe                                                      │0.000143% │8.8 MB   │0.0544%   │1       │DESKTOP-4BAHPJH\Admin        
+  ├───svchost.exe                                                      │0.00227%  │38.6 MB  │0.239%    │9       │DESKTOP-4BAHPJH\Admin        
+  ├───svchost.exe                                                      │3.17e-05% │8.9 MB   │0.0553%   │3       │DESKTOP-4BAHPJH\Admin        
+  ├───svchost.exe                                                      │0%        │7.4 MB   │0.0459%   │2       │DESKTOP-4BAHPJH\Admin        
+  ├───SeewoProxy.exe                                                   │0.0458%   │61.0 MB  │0.377%    │32      │NT AUTHORITY\SYSTEM          
+  ├───taskhostw.exe                                                    │0.00106%  │17.2 MB  │0.106%    │7       │DESKTOP-4BAHPJH\Admin        
+  ├───msedge.exe                                                       │0.0128%   │58.8 MB  │0.364%    │20      │DESKTOP-4BAHPJH\Admin        
+  ├───full-line-inference.exe (1)                                      │0.466%    │424.0 MB │2.62%     │8       │DESKTOP-4BAHPJH\Admin        
   │   └───conhost.exe                                                  │0%        │10.3 MB  │0.0638%   │2       │DESKTOP-4BAHPJH\Admin        
-  ├───PresentationFontCache.exe                                        │0.000269% │23.1 MB  │0.143%    │4       │NT AUTHORITY\LOCAL SERVICE   
-  ├───svchost.exe                                                      │0.0268%   │16.8 MB  │0.104%    │16      │NT AUTHORITY\LOCAL SERVICE   
-  ├───Reqable.exe                                                      │0.0754%   │329.8 MB │2.04%     │48      │DESKTOP-4BAHPJH\Admin        
-  ├───WUDFHost.exe                                                     │0.0732%   │27.2 MB  │0.168%    │22      │NT AUTHORITY\LOCAL SERVICE   
-  ├───svchost.exe                                                      │0.000239% │21.4 MB  │0.132%    │12      │NT AUTHORITY\SYSTEM          
-  ├───TabTip.exe                                                       │0.00162%  │18.0 MB  │0.111%    │7       │DESKTOP-4BAHPJH\Admin        
-  ├───svchost.exe                                                      │0.00108%  │20.0 MB  │0.124%    │4       │DESKTOP-4BAHPJH\Admin        
-  ├───igfxEMN.exe                                                      │0.00012%  │14.6 MB  │0.0904%   │3       │DESKTOP-4BAHPJH\Admin        
-  ├───msedge.exe                                                       │0%        │8.4 MB   │0.0519%   │7       │DESKTOP-4BAHPJH\Admin        
-  ├───Everything.exe (1)                                               │0.034%    │204.7 MB │1.27%     │16      │DESKTOP-4BAHPJH\Admin        
-  │   └───vlc.exe                                                      │0.023%    │44.9 MB  │0.278%    │8       │DESKTOP-4BAHPJH\Admin        
-  ├───dptf_helper.exe                                                  │0.0944%   │6.1 MB   │0.038%    │4       │DESKTOP-4BAHPJH\Admin        
-  ├───ctfmon.exe                                                       │0.0076%   │38.8 MB  │0.24%     │11      │DESKTOP-4BAHPJH\Admin        
-  ├───msedge.exe                                                       │0.000127% │26.2 MB  │0.162%    │15      │DESKTOP-4BAHPJH\Admin        
-  ├───svchost.exe                                                      │0%        │9.1 MB   │0.0565%   │2       │DESKTOP-4BAHPJH\Admin        
-  ├───SenaryAudioApp.exe                                               │0.000668% │66.0 MB  │0.408%    │13      │DESKTOP-4BAHPJH\Admin        
-  ├───csc_ui.exe                                                       │0.00936%  │212.8 MB │1.32%     │10      │DESKTOP-4BAHPJH\Admin        
-  ├───svchost.exe                                                      │5.98e-05% │24.6 MB  │0.152%    │5       │NT AUTHORITY\SYSTEM          
-  ├───TextInputHost.exe                                                │0.00513%  │88.2 MB  │0.546%    │29      │DESKTOP-4BAHPJH\Admin        
-  ├───Ghips.exe                                                        │0.000381% │40.3 MB  │0.249%    │5       │DESKTOP-4BAHPJH\Admin        
+  ├───PresentationFontCache.exe                                        │0.000214% │23.1 MB  │0.143%    │4       │NT AUTHORITY\LOCAL SERVICE   
+  ├───svchost.exe                                                      │0.0312%   │16.8 MB  │0.104%    │15      │NT AUTHORITY\LOCAL SERVICE   
+  ├───WmiPrvSE.exe                                                     │0.00981%  │10.1 MB  │0.0625%   │6       │NT AUTHORITY\SYSTEM          
+  ├───Reqable.exe                                                      │0.0734%   │220.8 MB │1.37%     │48      │DESKTOP-4BAHPJH\Admin        
+  ├───WUDFHost.exe                                                     │0.0928%   │27.3 MB  │0.169%    │22      │NT AUTHORITY\LOCAL SERVICE   
+  ├───svchost.exe                                                      │0.000262% │21.4 MB  │0.132%    │12      │NT AUTHORITY\SYSTEM          
+  ├───TabTip.exe                                                       │0.00181%  │18.1 MB  │0.112%    │7       │DESKTOP-4BAHPJH\Admin        
+  ├───svchost.exe                                                      │0.00172%  │20.4 MB  │0.126%    │7       │DESKTOP-4BAHPJH\Admin        
+  ├───goland64.exe                                                     │0.291%    │885.5 MB │5.48%     │16      │DESKTOP-4BAHPJH\Admin        
+  ├───igfxEMN.exe                                                      │0.000127% │14.7 MB  │0.0908%   │3       │DESKTOP-4BAHPJH\Admin        
+  ├───Everything.exe (1)                                               │0.0557%   │210.1 MB │1.3%      │16      │DESKTOP-4BAHPJH\Admin        
+  │   └───vlc.exe                                                      │0.109%    │86.7 MB  │0.536%    │13      │DESKTOP-4BAHPJH\Admin        
+  ├───msedge.exe                                                       │0.00446%  │36.7 MB  │0.227%    │17      │DESKTOP-4BAHPJH\Admin        
+  ├───dptf_helper.exe                                                  │0.124%    │6.2 MB   │0.0383%   │4       │DESKTOP-4BAHPJH\Admin        
+  ├───ctfmon.exe                                                       │0.00843%  │42.0 MB  │0.26%     │13      │DESKTOP-4BAHPJH\Admin        
+  ├───svchost.exe                                                      │0%        │9.2 MB   │0.0569%   │4       │DESKTOP-4BAHPJH\Admin        
+  ├───SenaryAudioApp.exe                                               │0.000563% │64.6 MB  │0.4%      │12      │DESKTOP-4BAHPJH\Admin        
+  ├───csc_ui.exe                                                       │0.0136%   │69.1 MB  │0.427%    │10      │DESKTOP-4BAHPJH\Admin        
+  ├───goland64.exe                                                     │0.496%    │753.0 MB │4.66%     │16      │DESKTOP-4BAHPJH\Admin        
+  ├───svchost.exe                                                      │8.72e-05% │24.7 MB  │0.153%    │5       │NT AUTHORITY\SYSTEM          
+  ├───___go_build_github_com_ddkwork_taskmanagerDemo.exe               │32.7%     │123.6 MB │0.765%    │21      │DESKTOP-4BAHPJH\Admin        
+  ├───TextInputHost.exe                                                │0.00602%  │62.5 MB  │0.386%    │27      │DESKTOP-4BAHPJH\Admin        
+  ├───Ghips.exe                                                        │0.000395% │40.3 MB  │0.249%    │5       │DESKTOP-4BAHPJH\Admin        
   ├───RuntimeBroker.exe                                                │0%        │12.3 MB  │0.0764%   │1       │DESKTOP-4BAHPJH\Admin        
-  ├───___go_build_github_com_ddkwork_taskmanagerDemo.exe               │34.5%     │123.7 MB │0.765%    │21      │DESKTOP-4BAHPJH\Admin        
-  ├───msedge.exe                                                       │0.000422% │65.0 MB  │0.402%    │21      │DESKTOP-4BAHPJH\Admin        
-  ├───audiodg.exe                                                      │0.043%    │48.3 MB  │0.299%    │26      │NT AUTHORITY\LOCAL SERVICE   
-  ├───goland64.exe                                                     │0.000477% │19.4 MB  │0.12%     │10      │DESKTOP-4BAHPJH\Admin        
-  ├───msedge.exe                                                       │0.000127% │16.5 MB  │0.102%    │9       │DESKTOP-4BAHPJH\Admin        
-  ├───dllhost.exe                                                      │0%        │8.9 MB   │0.0549%   │2       │DESKTOP-4BAHPJH\Admin        
-  ├───conhost.exe                                                      │0%        │10.3 MB  │0.0638%   │2       │DESKTOP-4BAHPJH\Admin        
-  ├───ShellExperienceHost.exe                                          │0.00244%  │78.9 MB  │0.488%    │40      │DESKTOP-4BAHPJH\Admin        
-  ├───SystemSettingsBroker.exe                                         │0.000459% │34.5 MB  │0.213%    │25      │DESKTOP-4BAHPJH\Admin        
-  ├───goland64.exe (7)                                                 │14.8%     │5.2 GB   │33.1%     │255     │DESKTOP-4BAHPJH\Admin        
-  │   ├───fsnotifier.exe                                               │0.00177%  │3.0 MB   │0.0183%   │3       │DESKTOP-4BAHPJH\Admin        
-  │   ├───goland64.exe                                                 │0.000716% │48.0 MB  │0.297%    │12      │DESKTOP-4BAHPJH\Admin        
-  │   ├───goland64.exe                                                 │0.000477% │19.4 MB  │0.12%     │10      │DESKTOP-4BAHPJH\Admin        
-  │   ├───full-line-inference.exe                                      │0.309%    │423.2 MB │2.62%     │8       │DESKTOP-4BAHPJH\Admin        
-  │   ├───OpenConsole.exe                                              │3.39e-05% │9.4 MB   │0.0583%   │5       │DESKTOP-4BAHPJH\Admin        
-  │   ├───cmd.exe                                                      │0%        │4.5 MB   │0.0281%   │1       │DESKTOP-4BAHPJH\Admin        
-  │   └───dlv.exe                                                      │3.33%     │44.7 MB  │0.276%    │14      │DESKTOP-4BAHPJH\Admin        
-  ├───mitmdump.exe                                                     │0.0298%   │96.3 MB  │0.596%    │12      │DESKTOP-4BAHPJH\Admin        
-  ├───cmd.exe                                                          │0%        │4.5 MB   │0.0281%   │1       │DESKTOP-4BAHPJH\Admin        
-  ├───conhost.exe                                                      │0%        │10.3 MB  │0.0638%   │2       │DESKTOP-4BAHPJH\Admin        
   ├───conhost.exe                                                      │0%        │10.3 MB  │0.0638%   │3       │DESKTOP-4BAHPJH\Admin        
-  ├───mitmdump.exe (2)                                                 │7.94e-05% │5.2 MB   │0.0324%   │1       │DESKTOP-4BAHPJH\Admin        
-  │   ├───conhost.exe                                                  │0.00759%  │46.5 MB  │0.288%    │5       │DESKTOP-4BAHPJH\Admin        
-  │   └───mitmdump.exe                                                 │0.0298%   │96.3 MB  │0.596%    │12      │DESKTOP-4BAHPJH\Admin        
-  ├───msedge.exe (6)                                                   │0.0146%   │126.9 MB │0.785%    │48      │DESKTOP-4BAHPJH\Admin        
-  │   ├───msedge.exe                                                   │0%        │8.4 MB   │0.0519%   │7       │DESKTOP-4BAHPJH\Admin        
-  │   ├───msedge.exe                                                   │0.000422% │65.0 MB  │0.402%    │21      │DESKTOP-4BAHPJH\Admin        
-  │   ├───msedge.exe                                                   │0.000422% │30.6 MB  │0.189%    │18      │DESKTOP-4BAHPJH\Admin        
-  │   ├───msedge.exe                                                   │0.000127% │16.5 MB  │0.102%    │9       │DESKTOP-4BAHPJH\Admin        
-  │   ├───msedge.exe                                                   │0.000127% │26.2 MB  │0.162%    │15      │DESKTOP-4BAHPJH\Admin        
-  │   └───msedge.exe                                                   │0.00321%  │55.3 MB  │0.342%    │20      │DESKTOP-4BAHPJH\Admin        
-  ├───vlc.exe                                                          │0.023%    │44.9 MB  │0.278%    │8       │DESKTOP-4BAHPJH\Admin        
-  └───goland64.exe                                                     │0.000716% │48.0 MB  │0.297%    │12      │DESKTOP-4BAHPJH\Admin        
+  ├───msedge.exe                                                       │0%        │8.5 MB   │0.0524%   │7       │DESKTOP-4BAHPJH\Admin        
+  ├───goland64.exe                                                     │0.000738% │22.2 MB  │0.137%    │12      │DESKTOP-4BAHPJH\Admin        
+  ├───dllhost.exe                                                      │2.04e-05% │9.0 MB   │0.0558%   │2       │DESKTOP-4BAHPJH\Admin        
+  ├───conhost.exe                                                      │0%        │10.3 MB  │0.0637%   │2       │DESKTOP-4BAHPJH\Admin        
+  ├───ShellExperienceHost.exe                                          │0.00257%  │53.5 MB  │0.331%    │39      │DESKTOP-4BAHPJH\Admin        
+  ├───SystemSettingsBroker.exe                                         │0.000579% │35.4 MB  │0.219%    │15      │DESKTOP-4BAHPJH\Admin        
+  ├───msedge.exe                                                       │0.000343% │18.5 MB  │0.115%    │10      │DESKTOP-4BAHPJH\Admin        
+  ├───goland64.exe (11)                                                │26.9%     │6.0 GB   │37.9%     │238     │DESKTOP-4BAHPJH\Admin        
+  │   ├───fsnotifier.exe                                               │0.00331%  │3.0 MB   │0.0183%   │3       │DESKTOP-4BAHPJH\Admin        
+  │   ├───goland64.exe                                                 │0.00489%  │108.9 MB │0.674%    │17      │DESKTOP-4BAHPJH\Admin        
+  │   ├───goland64.exe                                                 │0.000738% │22.2 MB  │0.137%    │12      │DESKTOP-4BAHPJH\Admin        
+  │   ├───full-line-inference.exe                                      │0.466%    │424.0 MB │2.62%     │8       │DESKTOP-4BAHPJH\Admin        
+  │   ├───OpenConsole.exe                                              │1.81e-05% │9.4 MB   │0.0582%   │5       │DESKTOP-4BAHPJH\Admin        
+  │   ├───cmd.exe                                                      │0%        │4.5 MB   │0.028%    │1       │DESKTOP-4BAHPJH\Admin        
+  │   ├───goland64.exe                                                 │0.000557% │16.3 MB  │0.101%    │7       │DESKTOP-4BAHPJH\Admin        
+  │   ├───goland64.exe                                                 │0.000985% │72.7 MB  │0.45%     │16      │DESKTOP-4BAHPJH\Admin        
+  │   ├───goland64.exe                                                 │0.291%    │885.5 MB │5.48%     │16      │DESKTOP-4BAHPJH\Admin        
+  │   ├───goland64.exe                                                 │0.496%    │753.0 MB │4.66%     │16      │DESKTOP-4BAHPJH\Admin        
+  │   └───dlv.exe                                                      │2.59%     │42.8 MB  │0.265%    │15      │DESKTOP-4BAHPJH\Admin        
+  ├───mitmdump.exe                                                     │0.032%    │110.1 MB │0.681%    │12      │DESKTOP-4BAHPJH\Admin        
+  ├───audiodg.exe                                                      │2.85%     │55.5 MB  │0.343%    │29      │NT AUTHORITY\LOCAL SERVICE   
+  ├───cmd.exe                                                          │0%        │4.5 MB   │0.028%    │1       │DESKTOP-4BAHPJH\Admin        
+  ├───conhost.exe                                                      │0%        │10.3 MB  │0.0638%   │2       │DESKTOP-4BAHPJH\Admin        
+  ├───mitmdump.exe (2)                                                 │5.92e-05% │5.2 MB   │0.0323%   │1       │DESKTOP-4BAHPJH\Admin        
+  │   ├───conhost.exe                                                  │0.00637%  │45.3 MB  │0.28%     │5       │DESKTOP-4BAHPJH\Admin        
+  │   └───mitmdump.exe                                                 │0.032%    │110.1 MB │0.681%    │12      │DESKTOP-4BAHPJH\Admin        
+  ├───goland64.exe                                                     │0.000557% │16.3 MB  │0.101%    │7       │DESKTOP-4BAHPJH\Admin        
+  ├───vlc.exe                                                          │0.109%    │86.7 MB  │0.536%    │13      │DESKTOP-4BAHPJH\Admin        
+  ├───goland64.exe                                                     │0.00489%  │108.9 MB │0.674%    │17      │DESKTOP-4BAHPJH\Admin        
+  ├───svchost.exe                                                      │0%        │10.6 MB  │0.0654%   │4       │NT AUTHORITY\SYSTEM          
+  ├───msedge.exe                                                       │0.00145%  │18.8 MB  │0.117%    │8       │DESKTOP-4BAHPJH\Admin        
+  ├───msedge.exe                                                       │0.00609%  │106.7 MB │0.66%     │20      │DESKTOP-4BAHPJH\Admin        
+  ├───msedge.exe                                                       │0.00437%  │19.3 MB  │0.12%     │8       │DESKTOP-4BAHPJH\Admin        
+  └───msedge.exe                                                       │0%        │26.1 MB  │0.162%    │14      │DESKTOP-4BAHPJH\Admin        
